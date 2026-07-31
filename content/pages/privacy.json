@@ -1,0 +1,93 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Sell Mineral Rights Arkansas",
+ "metaDescription": "How we collect, use, and protect information submitted through this site when you inquire about selling Arkansas mineral or royalty interests.",
+ "heroLead": "This page explains what information we collect when you reach out about your Arkansas mineral or royalty interest and how it's handled.",
+ "intro": [
+  "We collect only what's needed to evaluate and respond to your inquiry about selling mineral or royalty interests, and we don't sell that information to third parties for unrelated marketing purposes. This policy covers what we collect, how it's used, and how you can ask questions about it.",
+  "If any part of this policy is unclear or you want to know specifically what information we hold related to your inquiry, contact us directly and we'll explain."
+ ],
+ "sections": [
+  {
+   "heading": "What we collect",
+   "paragraphs": [
+    "When you submit a contact form, request an offer, or call us directly, we collect the information you provide, which typically includes your name, contact details, the county where your minerals are located, and any documentation such as deeds or statements you choose to share. We also collect basic technical information common to most websites, such as browser type and pages visited, through standard analytics tools.",
+    "We do not require you to create an account or provide financial account numbers to request a valuation. If a transaction moves forward, additional information needed for closing, such as identification for notarization, is collected separately as part of that process, not through this website."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "Information you submit is used to evaluate your mineral or royalty interest, respond to your inquiry, and, if you choose to proceed, facilitate a purchase transaction. We may use aggregated, non-identifying information to understand general trends in inquiries we receive, but we don't use your specific submission for purposes unrelated to responding to you.",
+    "We do not sell your contact information to unrelated third-party marketers. Information may be shared with title companies, closing agents, or similar service providers only as needed to complete a transaction you've chosen to move forward with."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold related to your inquiry, request corrections, or ask that we stop contacting you about a specific inquiry. Submitting information through this site is voluntary, and declining to provide certain details simply means we may not be able to give you as specific an evaluation."
+   ]
+  },
+  {
+   "heading": "Documents and sensitive information",
+   "paragraphs": [
+    "If you send us a deed, royalty statement, or lease as part of an inquiry, that document may contain personal details beyond what's strictly needed, such as a Social Security number on an older instrument or a family member's full name and address. We use these documents only to evaluate and process your specific inquiry, and we don't repurpose them for any unrelated use. If you're concerned about a specific piece of sensitive information on a document, you're welcome to redact it before sending and let us know if we need the unredacted version for a later step, such as closing.",
+    "We retain records related to your inquiry for as long as reasonably needed to respond to you or, if a transaction closes, to maintain accurate records of that transaction, consistent with standard business and legal recordkeeping practices."
+   ]
+  },
+  {
+   "heading": "Third-party service providers",
+   "paragraphs": [
+    "Beyond title companies and closing agents involved in an actual transaction, we may use standard third-party service providers for functions like website hosting, email delivery, or basic analytics. These providers process information only as needed to perform their specific function for us and are not authorized to use your information for their own independent marketing purposes."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my contact information to other companies?",
+   "answer": "No. We don't sell your information to unrelated third-party marketers. It's used to respond to your inquiry and, if a transaction proceeds, to facilitate closing."
+  },
+  {
+   "question": "Is my deed or royalty statement kept secure if I send it to you?",
+   "answer": "Yes, documentation you share is used solely to evaluate your interest and isn't distributed beyond what's needed to respond to your inquiry or complete a transaction you choose to pursue."
+  },
+  {
+   "question": "Can I ask you to delete information I've submitted?",
+   "answer": "Yes. Contact us directly and we'll address your request regarding information tied to your inquiry."
+  },
+  {
+   "question": "Do you use cookies or tracking on this site?",
+   "answer": "We use standard, common web analytics tools to understand general site usage, similar to most business websites, but we don't use this data to identify individual visitors for marketing purposes."
+  },
+  {
+   "question": "How long do you keep records after a completed transaction?",
+   "answer": "We retain closing-related records for as long as reasonably needed for accurate business and legal recordkeeping, consistent with standard practice for real estate and mineral transactions."
+  },
+  {
+   "question": "Will you contact me repeatedly if I don't respond?",
+   "answer": "No. We'll follow up reasonably after an inquiry, but if you ask us to stop contacting you about a specific matter, we'll honor that request."
+  },
+  {
+   "question": "Do you share information with other mineral buyers or brokers?",
+   "answer": "No. Your inquiry and documentation are handled internally for evaluating your specific interest, not shared with unrelated third-party buyers or brokers."
+  },
+  {
+   "question": "What if I submit information for a family member's inherited interest?",
+   "answer": "That's common with estate situations, and it's fine to inquire on behalf of a family member. We'll simply need to confirm the actual owner's authorization at the point a real transaction moves forward."
+  },
+  {
+   "question": "Does this policy apply to phone calls as well as the website?",
+   "answer": "Yes. The same general principles, using your information only to evaluate and respond to your inquiry, apply whether you reach us by phone, email, or the website form."
+  }
+ ],
+ "wordCount": 919,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsarkansas-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

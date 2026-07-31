@@ -1,0 +1,75 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Sell Your Arkansas Overriding Royalty Interest (ORRI)",
+ "metaDescription": "Own an ORRI carved out of a lease on a Smackover or Fayetteville well? We price overriding royalty interests against the lease term and current production.",
+ "heroLead": "An ORRI lives and dies with a specific lease, which makes it a fundamentally different asset than a mineral or royalty interest tied to the land itself.",
+ "intro": [
+  "An overriding royalty interest, an ORRI, is carved out of a specific oil and gas lease rather than out of the underlying mineral estate, and it exists only as long as that lease stays in effect. ORRIs typically originate with a landman, geologist, or small operator who retained a royalty share when assigning a lease to the company that eventually drilled, or with an investor who purchased an ORRI position directly from someone who created it. If the lease it's carved from expires or terminates, the ORRI expires with it, which is the single biggest structural difference from a mineral or royalty interest tied to the land.",
+  "We buy ORRIs on Arkansas leases, most commonly across Smackover and Fayetteville production, and we price them with that lease-dependency squarely in mind rather than treating an ORRI like a standard royalty interest."
+ ],
+ "sections": [
+  {
+   "heading": "Why the Underlying Lease's Health Is the Whole Story",
+   "paragraphs": [
+    "Because an ORRI terminates when its lease does, the two things that matter most are how long the lease is likely to remain held by production and how stable that production is. A well producing steadily on a lease that's been held by production for years gives an ORRI real, predictable remaining life. A well nearing the end of its economic life, or a lease with marginal production that's at risk of the operator plugging the well and letting the lease lapse, shortens the ORRI's realistic remaining value considerably, even if current monthly payments look fine today.",
+    "We check the lease's status and the well's production trend together before pricing an ORRI, because pricing off current production alone, without accounting for how much longer that lease is likely to stay alive, would overstate the interest's value on an aging well."
+   ]
+  },
+  {
+   "heading": "How ORRIs Differ From Mineral and Royalty Interests",
+   "paragraphs": [
+    "A mineral or royalty interest survives a lease's expiration, since it's tied to the land itself and simply waits for the next lease if the current one lapses. An ORRI has no such durability; when the lease ends, the interest ends with it, permanently, unless it happens to be re-created in a subsequent lease, which isn't guaranteed and isn't something an ORRI holder controls. This is the central risk we underwrite when buying an ORRI, and it's why two interests paying similar current royalties, one an ORRI and one a standard royalty, aren't priced the same."
+   ]
+  },
+  {
+   "heading": "ORRIs on Legacy Smackover Leases",
+   "paragraphs": [
+    "A meaningful number of ORRIs in south Arkansas trace back to leases originally negotiated decades ago during earlier Smackover development, and many of those leases have been held by production continuously since. That long, uninterrupted hold history is a genuinely positive signal for an ORRI's durability, since it demonstrates the lease has already weathered decades of commodity cycles without lapsing, though it's still not a guarantee against the well eventually being plugged."
+   ]
+  },
+  {
+   "heading": "Documentation We Need to Price an ORRI Accurately",
+   "paragraphs": [
+    "The assignment or conveyance that created your ORRI, showing the royalty fraction and which specific lease it's attached to, along with recent payment history, are the core documents we work from. If you're not certain which lease your ORRI is tied to, we can typically trace it through the county's oil and gas lease records once we know the general location and operator."
+   ]
+  },
+  {
+   "heading": "What Happens if the Lease Is Amended or Pooled",
+   "paragraphs": [
+    "An ORRI attaches to the lease as it exists, so if the lease is later amended, assigned to a new operator, or ratified into a larger pooled unit, the override generally follows along and your fraction is applied against the pooled unit's allocated production rather than a single well. We check the current pooling and assignment status before pricing, since an ORRI on a well that's since been pooled into a larger unit can behave differently from one on a standalone lease, and we want the offer to reflect what's actually happening on the ground today."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the underlying lease expires?",
+   "answer": "The ORRI terminates along with the lease it was carved from, unless it happens to be re-created in a future lease on the same tract, which isn't automatic or guaranteed."
+  },
+  {
+   "question": "Why is an ORRI priced differently than a regular royalty interest with the same payment?",
+   "answer": "An ORRI's value depends heavily on how much longer its underlying lease is likely to stay held by production, since the interest disappears entirely if the lease ends. A standard royalty interest tied to the land doesn't carry that same expiration risk."
+  },
+  {
+   "question": "How do you know how much longer my ORRI's lease will last?",
+   "answer": "We look at the well's current production trend, how long the lease has already been held by production, and the operator's general activity pattern in the area to form a realistic view, though it's never a certainty."
+  },
+  {
+   "question": "What documents do you need to buy my ORRI?",
+   "answer": "The original assignment or conveyance creating the ORRI, showing the royalty fraction and the specific lease it's tied to, plus recent payment history if available. We can help trace missing documentation through county lease records."
+  },
+  {
+   "question": "Is an ORRI on an old, continuously producing Smackover lease safer than one on a newer lease?",
+   "answer": "A long, uninterrupted production history is a genuinely positive sign for durability, since it shows the lease has held through multiple commodity cycles, but it's not a guarantee the well won't eventually be plugged."
+  }
+ ],
+ "wordCount": 947,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsarkansas-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

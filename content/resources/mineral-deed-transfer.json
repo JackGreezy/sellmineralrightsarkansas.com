@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in Arkansas Explained",
+ "metaDescription": "What a mineral deed has to include to transfer clean title in Arkansas, common defects that stall recording, and how heirship affects the process.",
+ "heroLead": "A mineral deed only does its job if it's drafted correctly and recorded properly, and Arkansas county clerks reject more of them than owners expect.",
+ "intro": [
+  "A mineral deed is the legal instrument that actually conveys mineral ownership from one party to another. It sounds simple, and for a clean, single-owner tract it usually is. Where it gets complicated is legal descriptions that don't match prior instruments, reservations and exceptions carried forward incorrectly from an old deed, and inherited interests where the person signing may not have the documented authority a clerk requires before recording.",
+  "We handle this paperwork on every Arkansas acquisition we close, and the deeds that record without a hitch share the same traits: an accurate legal description tied to the county's plat records, a clear grantor-grantee chain, and proper notarization. Here's what actually goes into getting it right."
+ ],
+ "sections": [
+  {
+   "heading": "What a valid Arkansas mineral deed needs to contain",
+   "paragraphs": [
+    "At minimum, a mineral deed needs the legal names of grantor and grantee, a legal description of the property, typically the section, township, and range, or lot and block reference tied to the county's official plat, a statement of the mineral interest being conveyed, whether that's all minerals, a fractional interest, or a specific depth severance, and the grantor's notarized signature. Arkansas also requires the deed to be recorded with the circuit clerk in the county where the minerals are located to put the transfer on public notice.",
+    "Depth severances and non-participating royalty interests need particularly careful drafting. A deed that says 'all minerals' when the seller actually only owns a royalty interest carved out below the surface can create a title defect that surfaces years later when someone tries to sell or lease against it."
+   ]
+  },
+  {
+   "heading": "The heirship problem",
+   "paragraphs": [
+    "A large share of the title defects we see in Arkansas trace back to interests that passed through inheritance without formal probate. When a mineral owner dies and the family simply keeps receiving royalty checks under the deceased owner's name, or splits it informally among the heirs without recording anything, the courthouse record never catches up to reality. Decades later, an heir wanting to sell discovers the deed still shows a great-grandparent as owner of record, with no documented chain connecting them to it.",
+    "Arkansas offers a few paths to fix this depending on the estate's size and how long ago the owner died, ranging from a simple affidavit of heirship for smaller, less contested situations to a formal probate or quiet title action for more complex ones. A title attorney familiar with Arkansas mineral practice can usually tell you within one conversation which path applies."
+   ]
+  },
+  {
+   "heading": "Recording and what happens after",
+   "paragraphs": [
+    "Once signed and notarized, the deed gets filed with the county circuit clerk, who assigns it a book and page or instrument number and enters it into the public record. From that point forward, anyone examining title, an operator, a future buyer, a title company, will find it. Recording is what makes the transfer enforceable against third parties, not only the signature itself.",
+    "After recording, notify the operator of any producing wells so royalty payments route to the new owner. This is usually as simple as sending the operator a copy of the recorded deed along with their change-of-ownership form, but it's a step that gets missed often enough to be worth double-checking rather than assuming it happens automatically."
+   ]
+  },
+  {
+   "heading": "Depth severances and non-standard conveyances",
+   "paragraphs": [
+    "Not every Arkansas mineral deed conveys the entire estate. Some reserve or convey minerals only below a specified depth, common in older Smackover-area deeds where a surface owner or prior mineral owner carved out a shallow interest while retaining or selling deeper rights separately. Others convey a specific formation rather than all minerals under the tract. These distinctions matter enormously for a deed to record and transfer correctly, because a generic 'all minerals' deed drafted over a tract with an existing depth severance can create a conflict with the earlier instrument rather than simply overriding it.",
+    "If your deed history includes any depth language, formation-specific reservations, or a mix of surface and mineral owners who aren't the same party, flag it early. A title examiner needs to trace each severance separately, and skipping that step is one of the more common reasons a deed gets kicked back by a clerk or challenged later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys the underlying mineral estate, including the right to lease and collect bonus payments. A royalty deed conveys only the right to receive royalty income, without the leasing authority that comes with full mineral ownership."
+  },
+  {
+   "question": "Can a deed be recorded if there's a name discrepancy from marriage or a typo?",
+   "answer": "Usually yes, with a corrective affidavit attached explaining the discrepancy. Clerks generally accept this rather than rejecting the deed outright, but it needs to be addressed rather than ignored."
+  },
+  {
+   "question": "How long does recording take in Arkansas?",
+   "answer": "Most county clerks record within days to a couple of weeks depending on office volume, though the deed is generally effective as of the date it's filed, not the date it's fully processed."
+  },
+  {
+   "question": "Do all co-owners need to sign the same deed?",
+   "answer": "No. Each co-owner can execute and record their own deed for their undivided share, though closing everyone together in one transaction is often more efficient if the family agrees on terms."
+  }
+ ],
+ "wordCount": 922,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsarkansas-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

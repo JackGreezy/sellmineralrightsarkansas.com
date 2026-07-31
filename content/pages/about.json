@@ -1,0 +1,79 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Arkansas Mineral Rights Buyer",
+ "metaDescription": "We're an Arkansas mineral and royalty acquisitions desk pricing offers from real production data and county comps, not flat mailer numbers.",
+ "heroLead": "We look at mineral acreage the way an underwriter looks at a deal: production data first, title second, price follows from what the numbers actually show.",
+ "intro": [
+  "We're a mineral and royalty acquisitions desk focused on Arkansas, working across the Fayetteville Shale, legacy Arkoma Basin gas production, conventional Smackover oil, and the newer Smackover brine trend where lithium extraction is reshaping how south Arkansas acreage gets valued. Our approach is the same across all of it: pull the real data before quoting a number, and be straightforward about what that data supports.",
+  "Owners come to us in a range of situations, some with a stack of royalty statements going back years, others holding a deed inherited from a grandparent with no idea what it's actually producing or worth. Both are fine starting points. What we bring is the underwriting work to turn either one into a specific, defensible number."
+ ],
+ "sections": [
+  {
+   "heading": "How we approach every acquisition",
+   "paragraphs": [
+    "Before we quote anything, we pull public production data from the Arkansas Oil and Gas Commission for wells tied to your acreage, check recent comparable transactions in your specific county and section, and review whatever title documentation you can provide. For producing interests, that means building a decline-curve projection off actual paid volumes. For undeveloped acreage, it means anchoring to what similar tracts nearby have recently traded for, adjusted for where that acreage sits relative to confirmed drilling or leasing activity.",
+    "We're numbers-first because guessing badly serves nobody. An offer built on real data holds up under scrutiny, closes without surprises, and doesn't need to be walked back once title review or additional diligence turns something up."
+   ]
+  },
+  {
+   "heading": "What we're not",
+   "paragraphs": [
+    "We're not a licensed appraiser, attorney, or CPA, and we don't pretend otherwise. Formal appraisals, title opinions, and tax guidance are jobs for the professionals who specialize in them, and we'll point you toward that kind of help when a situation calls for it rather than trying to substitute our own read for theirs. What we do well is acquisitions: pricing an interest fairly against real data and getting a transaction closed cleanly.",
+    "We also don't operate wells or drill. We acquire existing mineral, royalty, and undeveloped interests from owners who've decided, for whatever reason, that converting future production or upside into a payment today makes more sense for their situation."
+   ]
+  },
+  {
+   "heading": "Why Arkansas specifically",
+   "paragraphs": [
+    "Arkansas has two distinct stories running simultaneously right now: mature, well-understood gas production in the Fayetteville Shale with decades of decline-curve data behind it, and an emerging brine and lithium story in the Smackover trend that's still being written by operators like Exxon and Albemarle. Pricing acreage correctly requires understanding both, and treating them as the same thing is exactly where owners get shortchanged by generic buyers working off statewide averages instead of county- and section-level specifics."
+   ]
+  },
+  {
+   "heading": "How we handle title complications",
+   "paragraphs": [
+    "A large share of the Arkansas interests we evaluate involve some form of inherited ownership, and inherited minerals frequently come with imperfect paperwork: a deed that's never been updated, an heirship split that was handled informally within the family, or a decimal on a royalty statement that doesn't quite match what an owner expects. We don't treat any of that as disqualifying. It's simply a title question to work through before closing, and we've worked through the same handful of common Arkansas title patterns often enough to tell you quickly whether your situation is a quick fix or a longer project.",
+    "Where we can't resolve something ourselves, we'll say so directly and point you to a title attorney or CPA who specializes in that specific issue rather than guessing or letting a deal stall on an unanswered question."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long have you been buying minerals in Arkansas?",
+   "answer": "We work Arkansas mineral and royalty acquisitions across the state's active plays, from established Fayetteville Shale gas to the emerging Smackover brine trend, and price every deal from current production and title data rather than relying on historical reputation alone."
+  },
+  {
+   "question": "Do you only buy large packages, or will you look at a small fractional interest?",
+   "answer": "We evaluate interests of any size, including small fractional shares inherited by multiple heirs, since those are among the most common situations we see."
+  },
+  {
+   "question": "Can you help me understand what I own before I decide anything?",
+   "answer": "Yes. Reviewing your deed, statements, or production history and explaining what they show costs you nothing and doesn't obligate you to sell."
+  },
+  {
+   "question": "Do you provide legal or tax advice as part of an offer?",
+   "answer": "No. We're a buyer, not a licensed attorney or CPA. For legal title questions or tax implications of a sale, talk to your own attorney or tax advisor."
+  },
+  {
+   "question": "What makes your approach different from a mass-mailer buyer?",
+   "answer": "We price against your specific well, section, and county comparable data rather than a flat statewide figure, and we'll walk through the underlying math with you before you decide anything."
+  },
+  {
+   "question": "Will you tell me if my acreage isn't worth much right now?",
+   "answer": "Yes. If the data supports a modest number, we say so plainly rather than manufacturing a bigger figure to get a signature. An honest low number is more useful to you than an inflated one that doesn't hold up."
+  },
+  {
+   "question": "How do you stay current on Smackover brine activity specifically?",
+   "answer": "We track public Arkansas Oil and Gas Commission permitting and leasing filings and recent comparable transactions in the counties where brine activity is concentrated, so pricing reflects what's actually happening on the ground rather than general headlines about the play."
+  }
+ ],
+ "wordCount": 937,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsarkansas-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

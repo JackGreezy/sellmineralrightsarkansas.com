@@ -1,0 +1,82 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | Arkansas Mineral Rights Buyer",
+ "metaDescription": "Reach out about selling Arkansas mineral or royalty rights. Send your county and any documentation, and we'll follow up with a data-based offer.",
+ "heroLead": "Reach out with your county and whatever mineral or royalty documentation you have, and we'll follow up with next steps.",
+ "intro": [
+  "Whether you're just starting to think about selling, comparing an offer you already received from someone else, or trying to understand a division order or royalty statement that doesn't make sense, this is the place to start. There's no script here; tell us where you're at and what you're trying to figure out, and we'll respond directly to your specific situation rather than a form reply.",
+  "We work Arkansas mineral and royalty interests statewide, from established Fayetteville Shale and Arkoma Basin gas production to the newer Smackover brine trend in the south, so wherever your acreage sits, we're likely already familiar with the activity around it."
+ ],
+ "sections": [
+  {
+   "heading": "What to send along",
+   "paragraphs": [
+    "The county where your minerals are located, roughly how you acquired the interest, and any documentation you have on hand, deed, statement, or lease, get us to a useful answer fastest. If you don't have any of that yet and just have a general question about the process, that's a fine way to start too.",
+    "If you're reaching out about a specific concern, a suspended royalty payment, a division order that doesn't match your expectation, an offer from another buyer you want a second opinion on, say so directly. Those are common questions and we're glad to walk through them even if you're not ready to decide anything."
+   ]
+  },
+  {
+   "heading": "Response time",
+   "paragraphs": [
+    "We typically respond within one to two business days. For anything involving an actual valuation, expect that initial response to be followed by a few more days as we pull production and comparable data specific to your acreage before coming back with a real number.",
+    "If your situation is time-sensitive, for example a suspense deadline or an existing offer with an expiration date, let us know that upfront and we'll prioritize accordingly."
+   ]
+  },
+  {
+   "heading": "Not sure where to start?",
+   "paragraphs": [
+    "A lot of owners reach out without a deed in hand, without a clear sense of their decimal interest, or without knowing whether their acreage sits anywhere near current drilling activity. That's a normal starting point, not a barrier. Give us the county and whatever family history you know about how the interest came to you, and we'll help fill in the rest from public records."
+   ]
+  },
+  {
+   "heading": "If you're one of several co-owners",
+   "paragraphs": [
+    "Families who inherited a mineral interest together often have one person handle the initial conversation on behalf of everyone. That's fine, and it's usually the most efficient way to start, since we can walk through the general numbers and process with one point of contact before every co-owner needs to be individually involved. Each co-owner will eventually need to sign their own portion of any deed, but the early information-gathering stage doesn't require everyone on the phone at once.",
+    "If your family hasn't fully agreed yet on whether to sell, that's also a fine reason to reach out. Understanding what the interest is actually worth is often the missing piece that helps a family make a decision together, rather than something that has to wait until everyone's already decided."
+   ]
+  },
+  {
+   "heading": "Preferred ways to reach us",
+   "paragraphs": [
+    "A phone call is usually fastest if you have questions and want to talk through your specific situation before sending anything in writing. If you'd rather start by email or a form submission, that works just as well, particularly if you're attaching a deed or statement for us to review, and it gives you a written record of what was discussed as the conversation progresses.",
+    "Whichever way you reach out, include the best way and time to follow up with you, especially if you're juggling this alongside other family matters tied to an estate or inheritance."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to have all my paperwork ready before I contact you?",
+   "answer": "No. A general question or a partial set of documents is enough to start. We can help identify what's needed and often locate missing pieces through public records."
+  },
+  {
+   "question": "Can I ask a question without committing to sell?",
+   "answer": "Yes. Reaching out doesn't commit you to anything, and plenty of owners contact us just to understand their statement, decimal, or a competing offer better."
+  },
+  {
+   "question": "What information should I include if I'm asking about a specific royalty check issue?",
+   "answer": "The operator name, well name if known, and a copy of the statement in question help the most, along with a brief description of what looks off to you."
+  },
+  {
+   "question": "Do you handle interests owned by an estate or trust?",
+   "answer": "Yes. Let us know that upfront so we can flag what documentation, such as letters testamentary or a trust agreement, will eventually be needed at closing."
+  },
+  {
+   "question": "Can I reach out just to understand my options, not to sell right now?",
+   "answer": "Absolutely. Plenty of owners contact us months before making any decision, simply to understand what their interest is worth and how the process would work when they're ready."
+  },
+  {
+   "question": "What if my acreage is in the Smackover brine trend and I've never leased for lithium?",
+   "answer": "Tell us the county and section if you know it. We can check recent leasing and permitting activity around your specific tract and explain how that affects both a sale and a lease decision."
+  }
+ ],
+ "wordCount": 895,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightsarkansas-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

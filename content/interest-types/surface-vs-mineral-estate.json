@@ -1,0 +1,75 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Surface vs. Mineral Estate: What Arkansas Owners Sell",
+ "metaDescription": "Confirm whether you own the surface, the minerals, or both on your Arkansas tract before selling. We buy the mineral estate only, cleanly reserved.",
+ "heroLead": "Two people can each say they own the same tract in Arkansas and both be right, because the surface and the minerals underneath it can belong to entirely different owners.",
+ "intro": [
+  "Arkansas, like most oil and gas producing states, recognizes the surface estate and the mineral estate as separately ownable interests in the same tract, and once they're severed, either can be sold, leased, or inherited independently of the other. A lot of confusion we see starts here: an owner assumes that because their family has owned surface land for generations, they must also own whatever minerals sit beneath it, and that's frequently not the case, especially on tracts touched by Smackover or Arkoma development decades ago when minerals were commonly severed and sold off separately.",
+  "We buy mineral estates, not surface land, and confirming which estate you actually hold, and whether it's already severed or not, is the first thing we do before pricing anything."
+ ],
+ "sections": [
+  {
+   "heading": "How Severance Actually Happens",
+   "paragraphs": [
+    "A mineral estate gets severed from the surface either by an owner selling the minerals while keeping the surface, an owner selling the surface while reserving the minerals, or through a mineral deed executed independently of any surface transaction at all. Once severed, the two estates travel through entirely separate chains of title from that point forward, meaning today's surface owner and today's mineral owner may share no connection beyond both having descended, at some point generations back, from the same original landowner.",
+    "This is exactly why a current surface owner sometimes has no mineral rights to sell at all, and why a current mineral owner, who may live states away and have never seen the tract, holds an asset entirely disconnected from who farms or lives on the land today."
+   ]
+  },
+  {
+   "heading": "The Dominant Estate and What It Means Practically",
+   "paragraphs": [
+    "Arkansas law, like most oil and gas states, treats the mineral estate as dominant, meaning the mineral owner or their lessee has the legal right to reasonable use of the surface as necessary to explore for and produce the minerals, subject to reasonable accommodation of the surface owner's use. This matters if you're the surface owner without mineral rights: a well could be sited on your land under a lease you weren't party to and had no say in negotiating, which is a source of real friction between the two estates in practice, even though it's settled law."
+   ]
+  },
+  {
+   "heading": "Selling the Mineral Estate While Keeping the Surface",
+   "paragraphs": [
+    "If you own both the surface and the minerals and want to sell only the minerals, that's a routine transaction: the deed conveys the mineral estate and specifically reserves the surface, so your ownership and use of the land itself is completely unaffected by the sale. We structure every purchase this way when a seller holds both, and we're explicit in the deed language about exactly what's transferring and what isn't, so there's no ambiguity later."
+   ]
+  },
+  {
+   "heading": "Figuring Out Which Estate You Actually Own",
+   "paragraphs": [
+    "If you're not certain whether your family's mineral rights were severed at some point, the county deed records will show it, either in a prior deed with an express mineral reservation or in a separate mineral deed from your chain of title. We can trace this for you using your county and legal description, so you're not guessing which estate you hold before deciding whether there's anything to sell."
+   ]
+  },
+  {
+   "heading": "Split Estates and Accommodation in Practice",
+   "paragraphs": [
+    "In practice, most operators working a split-estate tract in Arkansas will negotiate a surface use agreement with the surface owner covering access roads, well pad siting, and damage payments, even though the mineral owner's dominant estate technically doesn't require the surface owner's consent to proceed. That negotiated arrangement is common courtesy and good relationship management more than a strict legal obligation, and it's worth knowing about if you're a surface owner who's ever wondered why an operator reached out before starting work."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If my family has owned the land for generations, do we automatically own the minerals too?",
+   "answer": "Not necessarily. Minerals are frequently severed from the surface at some point in a tract's history, and it's entirely possible to own the land while a different party, tracing through a completely separate chain of title, owns the minerals underneath it."
+  },
+  {
+   "question": "Can I sell my mineral rights without giving up my land?",
+   "answer": "Yes, if you own both estates, we structure the deed to convey only the minerals and explicitly reserve the surface, so your ownership and use of the land itself is unaffected."
+  },
+  {
+   "question": "Can an operator drill on my land if I don't own the minerals under it?",
+   "answer": "Generally yes, subject to reasonable accommodation of your surface use, since Arkansas law treats the mineral estate as dominant over the surface for purposes of exploring for and producing the minerals."
+  },
+  {
+   "question": "How do I find out if my minerals were ever severed from my surface?",
+   "answer": "County deed records will show it, either through an express mineral reservation in a prior deed or a standalone mineral deed. We can trace this using your county and legal description."
+  },
+  {
+   "question": "Do you buy surface land, or only mineral rights?",
+   "answer": "We buy the mineral estate only. If you're interested in selling surface land as well, that's a separate transaction outside what we handle."
+  }
+ ],
+ "wordCount": 898,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsarkansas-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

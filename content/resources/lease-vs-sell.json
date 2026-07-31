@@ -1,0 +1,68 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease or Sell Mineral Rights in Arkansas? A Decision Guide",
+ "metaDescription": "How leasing income compares to a lump-sum mineral sale in Arkansas, and the ownership situations where each option actually makes more sense.",
+ "heroLead": "Leasing and selling solve different problems, and the right answer depends less on price and more on what you need the interest to do for you.",
+ "intro": [
+  "Owners in Union County or Cleburne County who get a lease offer letter and a mineral purchase offer in the same mailing week often assume they're choosing between two versions of the same deal. They're not. A lease keeps you exposed to whatever gets drilled on your acreage, for better or worse, in exchange for bonus money now and royalty later if it produces. A sale converts everything, present value and future upside, into one number today and hands the long-term risk and reward to the buyer.",
+  "Neither is inherently the smarter move. What matters is which risk profile fits your situation, your time horizon, and how many other heirs or fractional owners are involved in the decision."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually commits you to",
+   "paragraphs": [
+    "Signing a lease grants an operator the right to drill your minerals for a set primary term, usually three to five years in Arkansas, in exchange for an upfront bonus payment per acre and a royalty percentage, commonly one-eighth to three-sixteenths, if a well is completed and produces. If nothing is drilled before the term expires, the lease lapses and you're free to lease again or sell. If a well is drilled and holds production, the lease continues indefinitely as long as the well produces in paying quantities.",
+    "The upside of leasing is optionality. You collect a bonus now, keep the mineral ownership itself, and if the well performs well, royalty income can run for decades. The downside is uncertainty. Not every leased tract gets drilled, and even wells that get drilled decline, sometimes faster than an owner expects, especially in shale plays where the steepest production drop happens in the first eighteen to twenty-four months."
+   ]
+  },
+  {
+   "heading": "What a sale actually converts",
+   "paragraphs": [
+    "Selling exchanges your entire future interest, whatever it might produce over the remaining life of existing wells plus whatever gets drilled later, for a single payment today. The buyer takes on the risk that a well underperforms projections, and they also capture the upside if commodity prices rise, a new formation gets targeted, or additional wells get permitted on your acreage down the line.",
+    "This tradeoff makes the most sense when an owner needs liquidity now, wants to remove the uncertainty of decline curves and commodity swings from their financial picture, or is one of many fractional heirs where a small individual royalty share isn't worth the administrative hassle of tracking statements, division orders, and tax reporting every year."
+   ]
+  },
+  {
+   "heading": "Where the decision actually gets made",
+   "paragraphs": [
+    "For unleased, undeveloped acreage with no near-term drilling likely, selling converts speculative future value into certain present value, which is attractive if you don't want to wait years for a well that may never get permitted. For producing royalty interests with an established decline curve, a sale monetizes the remaining production stream at a multiple of current cash flow, which appeals to owners who'd rather have the capital now than collect a shrinking check for another decade.",
+    "For fresh leases in an actively drilling area, like current Smackover brine and oil activity in south Arkansas, it can make sense to lease first and evaluate a sale after a well is completed and real production data exists, since that data materially firms up what a buyer can offer versus speculating on an undrilled tract."
+   ]
+  },
+  {
+   "heading": "A middle path: partial sale",
+   "paragraphs": [
+    "Owners don't have to pick one option for their entire interest. Selling a percentage, say half of your mineral acreage, while retaining the rest under lease is a common structure for someone who wants meaningful liquidity now without giving up all future exposure to a well that hasn't been drilled yet. It's also a reasonable way to test a buyer's pricing on a smaller piece before deciding whether to sell more.",
+    "For heirs splitting a family interest, a partial sale can also solve a coordination problem. If some family members want cash now and others want to keep collecting royalty, dividing the interest along those lines rather than forcing a single group decision often gets everyone to an outcome they're comfortable with faster."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell my minerals after I've already leased them?",
+   "answer": "Yes. You'd be selling the mineral interest subject to the existing lease, meaning the buyer steps into your position as lessor and collects any future bonus, royalty, or shut-in payments the lease generates."
+  },
+  {
+   "question": "Is it better to lease first and sell later?",
+   "answer": "It can be, if you're willing to wait through the primary term to see whether a well gets drilled. Leasing first often lets a subsequent sale be priced against real production data rather than speculation."
+  },
+  {
+   "question": "Do I lose all future upside if I sell instead of lease?",
+   "answer": "Yes, that's the core tradeoff. A sale is a complete transfer, so any future drilling, price increases, or new formation development on that acreage benefits the buyer, not you, once the deed is recorded."
+  },
+  {
+   "question": "What if I only want to sell part of my interest and keep leasing the rest?",
+   "answer": "That's common. Owners frequently sell a percentage of their mineral interest for liquidity while retaining the remainder to keep collecting royalty income if the acreage continues producing."
+  }
+ ],
+ "wordCount": 905,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsarkansas-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

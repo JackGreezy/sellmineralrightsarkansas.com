@@ -1,0 +1,94 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Sell Mineral Rights Arkansas",
+ "metaDescription": "Terms governing use of this website, including the informational nature of content and the non-binding status of preliminary mineral rights offers.",
+ "heroLead": "These terms govern your use of this website and explain the nature of the information and offers presented here.",
+ "intro": [
+  "By using this site to inquire about selling mineral or royalty rights, you're agreeing to the terms below. They're written in plain language because the goal is clarity, not legal complexity for its own sake.",
+  "This site is operated to connect Arkansas mineral and royalty owners with a buyer evaluating their interests. It is not a substitute for professional legal, tax, or appraisal advice, and content here should be read with that in mind."
+ ],
+ "sections": [
+  {
+   "heading": "Informational content, not professional advice",
+   "paragraphs": [
+    "Educational content on this site, including guides on division orders, appraisal methods, taxes, and related topics, is provided for general informational purposes. It is not legal advice, tax advice, or a formal appraisal, and it should not be relied on as a substitute for consulting your own attorney, CPA, or licensed appraiser about your specific situation.",
+    "Every mineral and royalty interest is different, and general information about how Arkansas title, taxes, or valuation typically work may not apply exactly to your circumstances."
+   ]
+  },
+  {
+   "heading": "Preliminary offers are non-binding until closing",
+   "paragraphs": [
+    "Any dollar figure, range, or valuation discussed through this site, by phone, or by email before a formal purchase agreement is signed is preliminary and subject to change based on title review, verification of production data, and confirmation of ownership. We do not guarantee a specific price, and figures discussed prior to underwriting review are estimates, not binding offers.",
+    "A binding transaction is formed only through a signed, written purchase agreement and, ultimately, a recorded deed. Nothing on this website, and no verbal or preliminary written communication, constitutes a completed sale or a guaranteed final price."
+   ]
+  },
+  {
+   "heading": "No obligation, no guarantee of outcome",
+   "paragraphs": [
+    "Submitting information through this site or requesting a valuation does not obligate you to sell, and does not obligate us to make an offer on every submission. We evaluate each inquiry individually and may decline to make an offer, or may adjust a preliminary figure, based on what title review and production data actually show.",
+    "We make no guarantee regarding future commodity prices, well performance, or the outcome of any drilling activity referenced on this site, including activity in the Smackover brine trend, which remains an evolving play subject to change based on operator decisions and market conditions outside our control."
+   ]
+  },
+  {
+   "heading": "Accuracy of educational content",
+   "paragraphs": [
+    "We make reasonable efforts to keep guides on this site, covering topics like division orders, appraisal methods, taxes, and the Smackover brine trend, accurate and current, but oil and gas law, tax rules, and play-specific activity change over time. Content reflects general understanding as of when it was written and may not reflect the most recent legal, regulatory, or market developments. Always verify anything material to your decision with a current, qualified source before relying on it.",
+    "References to specific operators, formations, or activity levels, including mentions of companies leasing in the Smackover brine trend, are provided for general context about the play and don't imply any particular relationship between us and those companies, or any guarantee about how activity in your specific area will develop."
+   ]
+  },
+  {
+   "heading": "Changes to these terms",
+   "paragraphs": [
+    "We may update these terms from time to time to reflect changes in how the site operates or to clarify existing language. Continued use of the site after an update constitutes acceptance of the revised terms. If you have questions about a specific provision, reach out and we'll clarify directly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a number I'm given over the phone a binding offer?",
+   "answer": "No. Preliminary figures discussed before formal underwriting and a signed purchase agreement are estimates and can change once title and production data are fully reviewed."
+  },
+  {
+   "question": "Am I obligated to sell once I request a valuation?",
+   "answer": "No. Requesting information or a preliminary valuation carries no obligation to proceed with a sale."
+  },
+  {
+   "question": "Does this site provide legal or tax advice?",
+   "answer": "No. Content here is general and educational. For advice specific to your situation, consult your own attorney or CPA."
+  },
+  {
+   "question": "What happens if title review finds something that changes the offer?",
+   "answer": "We'll explain what was found and how it affects the figure discussed. A revised number reflecting accurate title and ownership is standard practice, not a bait-and-switch."
+  },
+  {
+   "question": "Can these terms change after I've started a transaction with you?",
+   "answer": "Material changes affecting an active transaction would be communicated to you directly rather than relying solely on a website update, so you're never caught off guard mid-deal."
+  },
+  {
+   "question": "Are the county and well details on this site guaranteed accurate for my specific tract?",
+   "answer": "General references to plays, counties, and operators are for educational context only. Your specific tract's status should always be confirmed against current title and production records, not general site content."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "Reach out through the contact page with any specific question, and we'll clarify how a particular provision applies to your situation."
+  },
+  {
+   "question": "Does using this site create any kind of representation relationship?",
+   "answer": "No. Using this site to inquire about a sale doesn't create an attorney-client, fiduciary, or brokerage relationship. We act as a prospective buyer, not as your representative in the transaction."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "These terms are governed by applicable Arkansas law, consistent with the site's focus on Arkansas mineral and royalty transactions."
+  }
+ ],
+ "wordCount": 904,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsarkansas-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "fayetteville-shale",
+ "title": "Fayetteville Shale Mineral Rights",
+ "type": "basin",
+ "group": "AR",
+ "primaryKeyword": "fayetteville shale mineral rights",
+ "seo": {
+  "vol": 10,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Sell Fayetteville Shale Mineral Rights in Arkansas",
+ "metaDescription": "Own mineral or royalty rights in the Fayetteville Shale? We price gas-decline positions against actual well data across Van Buren, Conway, and White counties.",
+ "heroLead": "Fayetteville Shale wells drilled the same year price differently today, because they're sitting at different points on the decline curve, not because of who drilled them.",
+ "intro": [
+  "The Fayetteville Shale in north-central Arkansas was one of the country's first major dry-gas shale plays, developed heavily by Southwestern Energy from roughly 2004 through the early 2010s across Van Buren, Conway, Cleburne, White, and Faulkner counties. Drilling activity has been minimal for years now, and most of the acreage is held by production on wells that are firmly in the tail end of their life. That's not a reason to assume your interest is worthless. It's a reason to price it against what those wells are actually producing today rather than what they produced in 2010.",
+  "We buy Fayetteville mineral and royalty interests at every stage of that decline, from wells still running a respectable monthly volume to positions on wells that have gone to stripper-level output or shut in altogether. Send us your county, section, and a recent check stub or division order if you have one, and we'll tell you what we see in the data before we name a number."
+ ],
+ "sections": [
+  {
+   "heading": "A Mature, Steeply Front-Loaded Decline",
+   "paragraphs": [
+    "Fayetteville wells are dry-gas shale completions, and like most shale gas wells they lost the bulk of their initial production in the first two to three years, then settled into a long, shallow hyperbolic tail that can run for a decade or more at modest but persistent rates. Most Fayetteville production today, more than a decade after the drilling peak, is on that tail. That means recent monthly volumes and recent gas prices, not the well's historic peak, are what should be driving any offer you receive.",
+    "This is also why offers on Fayetteville interests can vary sharply between two owners in the same section: one may hold an interest under a well drilled in a sweet spot with better rock properties and a flatter tail, the other under a well that watered out or was choked back earlier. We pull actual production history by API number rather than pricing off a county average, because the county average tells you almost nothing about your specific interest."
+   ]
+  },
+  {
+   "heading": "Held-By-Production Acreage and Lease Status",
+   "paragraphs": [
+    "A lot of Fayetteville acreage has been held by production for over a decade on minimal ongoing activity, which means the lease is unlikely to expire on its own but is also unlikely to see a new well anytime soon at current gas prices and with operator capital going toward the Haynesville and other higher-return plays. If your interest is producing, however modestly, that royalty stream is real and priceable. If your lease has actually terminated or was never held, that's a different, lower-value conversation, and worth confirming through the county clerk's office rather than assuming.",
+    "Some owners in the play also hold small non-participating royalty interests carved out of the original mineral estate decades before Fayetteville development even started. Those NPRIs typically don't carry the right to negotiate a new lease or bonus, only the fixed royalty share, and we price them accordingly against the underlying well's production."
+   ]
+  },
+  {
+   "heading": "Gas Price Sensitivity and Why Timing Matters",
+   "paragraphs": [
+    "Fayetteville is a dry-gas play with essentially no oil or NGL cushion, so revenue on these interests tracks Henry Hub pricing closely with a basis adjustment for the Arkansas-Louisiana-Texas hub differential. When gas prices run higher, trailing royalty checks look stronger and offers on producing interests tend to reflect that; when gas is soft, the same well's recent checks look thinner even though nothing about the reservoir has changed. We price against a trailing window of actual receipts rather than a single high or low month, because that's a more honest read of what the interest is generating."
+   ]
+  },
+  {
+   "heading": "Why Arkoma Basin Owners End Up Here",
+   "paragraphs": [
+    "The Fayetteville sits within the broader Arkoma Basin, and owners sometimes hold interests spanning both a Fayetteville shale well and an older, shallower conventional Arkoma completion on the same or adjacent tract. Those are two different assets with different decline behavior stacked under one piece of land, and if you own both we'll price them as separate line items rather than blending them into a single county-average number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My Fayetteville well was drilled in 2009. Is it still producing?",
+   "answer": "Many wells from that era are, at meaningfully reduced volumes compared to peak. We look up your specific well by API number and recent production filings rather than guessing off the drill date, since two 2009 wells a mile apart can have very different current output."
+  },
+  {
+   "question": "Is my royalty interest worth less because gas prices are down?",
+   "answer": "Trailing revenue on a gas-only interest does move with Henry Hub and the local basis, so a soft gas-price stretch will show up in recent checks and in any offer priced against them. We're transparent about how much of the number is decline versus price, so you understand what's driving it."
+  },
+  {
+   "question": "What if my lease is held by production but no well has been drilled on my specific tract?",
+   "answer": "That's common in the Fayetteville, where a pooled unit can hold multiple tracts under one producing wellbore. We check the unit's pooling order and your allocated percentage before pricing, since your share depends on the unit configuration, not only whether a well physically sits on your land."
+  },
+  {
+   "question": "Do you buy Fayetteville interests that have stopped producing entirely?",
+   "answer": "Yes, though a shut-in or plugged well changes the value conversation to lease status and any recompletion or refrac potential rather than current cash flow. We'll tell you honestly which situation applies before we make an offer."
+  },
+  {
+   "question": "How is a Fayetteville shale interest different from an older Arkoma Basin conventional interest?",
+   "answer": "Fayetteville wells are shale completions with a steep early decline and a long shallow tail; conventional Arkoma wells from earlier decades often have a flatter, more gradual decline profile. If you hold both under the same tract, we evaluate each against its own production history rather than averaging them."
+  }
+ ],
+ "wordCount": 1020,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-fayetteville-shale-sellmineralrightsarkansas-com.jpg",
+  "alt": "Fayetteville Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

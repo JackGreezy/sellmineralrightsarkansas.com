@@ -1,0 +1,72 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Arkansas | Fast, Fair Offers",
+ "metaDescription": "We buy Arkansas mineral and royalty interests statewide, from Fayetteville Shale gas to Smackover brine acreage, with offers priced against real data.",
+ "heroLead": "We buy mineral and royalty interests across Arkansas, and we price every offer against your actual production and title, not a mailer-wide guess.",
+ "intro": [
+  "If you own minerals, royalty, or unleased acreage anywhere in Arkansas, from producing Fayetteville Shale gas wells in the north-central counties to Smackover trend acreage in the south where Exxon and Albemarle have been actively leasing for lithium brine, we can put a real number on it. We work off public production data, county title records, and whatever documentation you can provide, and we tell you plainly what that data supports rather than starting with a low anchor number and negotiating up.",
+  "This isn't a form letter with a flat per-acre figure. Every interest we evaluate gets pulled against the specific wells, unit, and county activity tied to your acreage, because two tracts a few miles apart can be worth genuinely different amounts depending on where they sit relative to active drilling and, increasingly across south Arkansas, confirmed brine chemistry."
+ ],
+ "sections": [
+  {
+   "heading": "What we buy",
+   "paragraphs": [
+    "Producing royalty interests with an established decline curve, unleased mineral acreage in active or emerging plays, non-participating royalty interests, and fractional interests inherited by multiple heirs who'd rather split a lump sum today than divide small monthly checks indefinitely. We buy across all of it, in any Arkansas county, whether the interest is a few net mineral acres or a larger multi-tract package.",
+    "We also regularly work with owners who are unsure exactly what they own. If you inherited an interest and have never seen a deed, a division order, or a royalty check, that's a common starting point, not a disqualifying one. We can often trace ownership from a name and county alone."
+   ]
+  },
+  {
+   "heading": "Why the Smackover brine trend changes the math for south Arkansas owners",
+   "paragraphs": [
+    "South Arkansas mineral owners, particularly in Union, Columbia, and neighboring counties, are sitting on something genuinely new: Smackover formation brine with lithium concentrations operators consider commercially attractive, alongside the legacy oil and gas already produced from the same formation. Major operators have been leasing and permitting specifically for lithium extraction using direct lithium extraction technology, a different process than conventional oil and gas production, and it can carry separate value depending on how your mineral deed defines the estate.",
+    "This play is still maturing, which means acreage value in the confirmed core is being priced partly on forward activity rather than years of established royalty history. We evaluate brine-adjacent tracts specifically against current operator leasing and permitting rather than treating south Arkansas acreage as generic undeveloped land, because the two price very differently."
+   ]
+  },
+  {
+   "heading": "How pricing works",
+   "paragraphs": [
+    "For producing interests, we build a decline-curve estimate from your actual statement or public production data and price it against current commodity assumptions. For undeveloped or lightly-leased acreage, we look at comparable recent transactions in your specific county and section. Either way, the number we give you is tied to data we can point to, and we'll walk through how we got there if you ask.",
+    "We never quote a fixed number before reviewing your specifics, and any per-acre figure we discuss is a range that depends on activity levels, not a promise. What we can commit to is a straightforward process: a real offer, a clear explanation of the math behind it, and a closing timeline that moves as fast as title allows."
+   ]
+  },
+  {
+   "heading": "Who we typically work with",
+   "paragraphs": [
+    "Owners fall into a few common categories: someone who inherited a fractional interest from a parent or grandparent and has never dealt with an operator directly, a family with several heirs who'd rather split one payment than manage small monthly checks and annual tax reporting indefinitely, or an owner sitting on unleased acreage in an area where drilling or brine leasing has picked up and wants to convert that uncertainty into a known amount today.",
+    "Whichever category fits, the starting point is the same: give us enough to locate your specific acreage in the county record, and we'll tell you plainly what the data shows before you decide anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you buy mineral rights anywhere in Arkansas, or only certain counties?",
+   "answer": "Statewide, though pricing and turnaround vary with how active drilling is in a given area. Both legacy Fayetteville Shale gas counties and Smackover brine counties in the south are areas we work regularly."
+  },
+  {
+   "question": "I don't have any paperwork. Can you still make an offer?",
+   "answer": "Yes. We can often locate your deed and production history through county and state records using just your name and the county where the minerals are located, then confirm details with you from there."
+  },
+  {
+   "question": "How is my offer calculated?",
+   "answer": "From actual production and county-level comparable data specific to your acreage, using decline-curve analysis for producing interests and recent comparable sales for undeveloped acreage. We'll explain the specific inputs on request."
+  },
+  {
+   "question": "Is there any obligation to accept an offer?",
+   "answer": "No. Reviewing your interest and providing a number costs you nothing and doesn't commit you to selling. Take the time you need to compare it against anything else you're considering."
+  },
+  {
+   "question": "How fast can a sale close once I accept an offer?",
+   "answer": "Clean title with straightforward ownership can close in a few weeks. Interests with heirship or title gaps take longer, since those need to clear before a deed can be recorded free of dispute."
+  }
+ ],
+ "wordCount": 905,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightsarkansas-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

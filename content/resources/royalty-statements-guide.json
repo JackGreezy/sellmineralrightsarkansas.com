@@ -1,0 +1,76 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read an Arkansas Royalty Statement",
+ "metaDescription": "A line-by-line guide to Arkansas royalty statements: decimal interest, deductions, price, and the numbers a mineral buyer checks before making an offer.",
+ "heroLead": "Most owners glance at the check amount on a royalty statement and skip the rest of the page, which is exactly where the useful information lives.",
+ "intro": [
+  "A royalty statement carries more information than a bank deposit slip, and if you're evaluating whether to sell, lease, or simply want to know if you're being paid correctly, learning to read it is worth the ten minutes it takes. Every operator formats theirs a little differently, but the core fields are the same across Arkansas producers, whether the well is in the Fayetteville Shale or a Smackover unit.",
+  "We pull decimal interest, price, and deduction data off owner statements on nearly every deal we underwrite, because that page tells us more about what a producing royalty interest is actually worth than almost any other document you can hand us."
+ ],
+ "sections": [
+  {
+   "heading": "The decimal interest line",
+   "paragraphs": [
+    "This is your ownership fraction as calculated by the operator, expressed as a long decimal, something like 0.00234567. It represents your share of total unit production after accounting for your net mineral acres, the lease royalty rate, and any pooling adjustments. This number should match what's on your division order. If it changes from one statement to the next without explanation, that's worth a call to the operator's owner relations line, since decimal changes usually mean a title correction or additional well was added to the unit.",
+    "Multiply this decimal by total unit production volume and you get your share of the barrels or Mcf produced for that period, which is the raw number everything else in the statement is built from."
+   ]
+  },
+  {
+   "heading": "Price, volume, and deductions",
+   "paragraphs": [
+    "The statement will show volume produced, the price received per barrel or per Mcf, and gross value before deductions. Below that, most Arkansas operators itemize post-production deductions, which can include gathering, transportation, compression, or processing costs, depending on how the lease is worded. Some older Arkansas leases carry cost-free royalty language that limits what can be deducted; others allow proportionate sharing of these midstream costs, which reduces your net check relative to gross value.",
+    "If deductions on your statement seem to be growing as a share of gross value over time, it's worth checking whether that reflects rising actual midstream costs or a change in how the operator is allocating them. This is public information you're entitled to ask about."
+   ]
+  },
+  {
+   "heading": "Why we read these before making an offer",
+   "paragraphs": [
+    "A recent statement lets us verify well name, county, and operator against public Arkansas production records, confirm your decimal is current and not still suspended, and build a real decline-curve estimate from actual paid volumes rather than a rough guess. It's the fastest way to move from a general conversation about your acreage to a specific number tied to your specific interest.",
+    "If you're comparing offers from multiple buyers, ask each one whether their number is based on your actual statement data or a generic estimate for the area. The two produce very different levels of accuracy, and it's a fair question to ask directly."
+   ]
+  },
+  {
+   "heading": "Tracking trend over several months, not one check",
+   "paragraphs": [
+    "A single statement is a snapshot. What actually tells you something useful about a well's trajectory is lining up six to twelve months of statements side by side and watching how volume moves. A steady, gradual decline is normal and expected for a mature shale well. A sudden drop worth investigating might mean a mechanical issue, a temporary shut-in for offset drilling nearby, or a genuine production problem, and the operator's owner relations line can usually tell you which.",
+    "This trend line is also the single best piece of evidence for negotiating a fair sale price. An owner who can hand a buyer twelve months of consistent statements, rather than one isolated check, gets a tighter, more confident decline-curve estimate and typically a number closer to the top of the buyer's range, since there's less uncertainty for the buyer to price in."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my check amount change every month even though production seems steady?",
+   "answer": "Commodity prices for oil and gas fluctuate monthly, and even small price swings move your check meaningfully since it's priced against current market value, not a fixed rate."
+  },
+  {
+   "question": "What if my statement shows zero for a month?",
+   "answer": "This can mean the well was shut in for maintenance, production was below a minimum reporting threshold, or funds are being held in suspense. Contact the operator's owner relations line to confirm which applies."
+  },
+  {
+   "question": "Are post-production deductions legal in Arkansas?",
+   "answer": "Generally yes, unless your specific lease contains cost-free or proceeds language that limits them. Whether deductions are permissible depends on your lease's exact wording, so review it or ask a title attorney if the amounts seem high."
+  },
+  {
+   "question": "Can I request historical statements going back further than what I have?",
+   "answer": "Most operators can provide payment history through their owner relations department or an online portal, often going back several years, which is useful for building a longer production trend."
+  },
+  {
+   "question": "What's the difference between gross value and net value on my statement?",
+   "answer": "Gross value is your share of production multiplied by price, before any deductions. Net value, usually the amount actually paid to you, subtracts post-production costs the lease allows the operator to deduct."
+  },
+  {
+   "question": "Should I keep old royalty statements even after I sell?",
+   "answer": "Yes. Keep them for your tax records, since they document historical income and depletion, both of which can matter for calculating gain when you eventually sell the underlying interest."
+  }
+ ],
+ "wordCount": 929,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsarkansas-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

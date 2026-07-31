@@ -1,0 +1,76 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer in Arkansas",
+ "metaDescription": "The specific signs an Arkansas mineral offer is underpriced, from unverified decimals to stale comps, and the questions that expose a weak number fast.",
+ "heroLead": "The easiest way to spot an underpriced offer isn't comparing dollar figures, it's asking what data the number is actually built on.",
+ "intro": [
+  "Arkansas mineral owners get mail from a wide range of buyers, some doing careful underwriting, others sending form letters with a flat per-acre number to as many addresses as they can afford to print. Both can look identical on the page. The tell isn't the number itself, since a fair offer and a lowball offer can sometimes land close together by coincidence. The tell is whether the buyer did the work to justify it.",
+  "We've reviewed enough competing offers on the same tract to see the pattern clearly. Here's what separates a number worth taking seriously from one that's designed to be accepted before you think too hard about it."
+ ],
+ "sections": [
+  {
+   "heading": "No reference to your actual production or acreage",
+   "paragraphs": [
+    "If an offer letter quotes a flat dollar figure without ever mentioning your specific well, your decimal interest, or your net mineral acres, it wasn't built from your data. It was likely generated from a mail-merge template using a rough average for your county, sent to hundreds of owners simultaneously with the expectation that a percentage will accept without comparing it to anything else.",
+    "A legitimate offer should be able to tell you which well or wells your acreage participates in, roughly what recent production looks like, and how that translates into the number they're proposing. If a buyer can't or won't explain their math when asked directly, that's a real signal."
+   ]
+  },
+  {
+   "heading": "Pressure to sign before you can verify anything",
+   "paragraphs": [
+    "Watch for language implying the offer expires in days, or pressure to sign before you've had a chance to request a division order backup or check comparable sales. Legitimate mineral value doesn't move fast enough week to week to justify that kind of urgency in most situations. A buyer confident in their number has no reason to rush you past the point of comparing it to anything else.",
+    "It's reasonable to ask any buyer for a few days to review, and to expect the offer to hold during that window if it was made in good faith. If it doesn't hold, that tells you something about how it was priced in the first place."
+   ]
+  },
+  {
+   "heading": "A price that ignores current activity in your area",
+   "paragraphs": [
+    "Arkansas mineral value moves with drilling activity, and a number that hasn't been adjusted for recent permits, new wells, or, in south Arkansas, confirmed Smackover brine leasing nearby, is working off stale comps. This cuts in both directions: it can mean you're being lowballed on acreage that's become more valuable since the buyer's data was last updated, or it can mean a number is being inflated based on activity that hasn't actually reached your specific tract yet.",
+    "Ask what recent activity, if any, the buyer is pricing against, and whether it's specific to your section or a broader county-level average. The more specific the answer, the more confidence you can place in the number."
+   ]
+  },
+  {
+   "heading": "Vague language around what's actually being purchased",
+   "paragraphs": [
+    "A well-structured purchase agreement specifies exactly what's being conveyed: all minerals, a depth-limited interest, royalty only, and the precise legal description tied to your deed. Offers that use loose language, or that seem designed to sweep in more than what you were told you were selling, deserve a second read before signing anything. This isn't necessarily bad faith, contract language can be genuinely ambiguous, but it's worth having a title attorney glance at anything you're unsure about before you sign.",
+    "Also worth checking: whether the offer names a specific closing timeline and funding method, or leaves both vague. A buyer who can't commit to when and how you'll actually get paid is a weaker signal than the dollar figure itself."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a low offer always a sign of bad faith?",
+   "answer": "Not necessarily. Undeveloped acreage far from active drilling can legitimately be worth less than owners expect. The concern is a number with no supporting explanation, not simply a modest one."
+  },
+  {
+   "question": "Should I get more than one offer before deciding?",
+   "answer": "It's reasonable to compare a couple of offers, particularly if the underlying explanations differ meaningfully, though endlessly shopping a producing royalty interest can also cost you time value if activity in your area is moving."
+  },
+  {
+   "question": "What's a fair way to push back on a number that feels low?",
+   "answer": "Ask specifically what production data, decimal interest, and comparable activity the offer is based on. A buyer working in good faith will walk through it; one working off a mail-merge template usually can't."
+  },
+  {
+   "question": "Can I negotiate a mineral rights offer?",
+   "answer": "Yes, and providing the buyer with your actual royalty statements or deed, if you haven't already, often does more to move a number than back-and-forth negotiation without new information."
+  },
+  {
+   "question": "Does a longer, more detailed offer letter mean it's more trustworthy?",
+   "answer": "Not automatically. Length isn't the signal, specificity is. A short letter that names your actual well and decimal can be more trustworthy than a long one full of generic language about the county overall."
+  },
+  {
+   "question": "Is it a red flag if a buyer won't put their offer in writing?",
+   "answer": "Yes. A serious buyer should be willing to put a specific number and its basic terms in writing, even in preliminary form, so you can review it on your own timeline rather than only over the phone."
+  }
+ ],
+ "wordCount": 920,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsarkansas-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

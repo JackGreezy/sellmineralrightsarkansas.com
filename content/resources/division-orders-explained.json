@@ -1,0 +1,65 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained | Arkansas Mineral Owners",
+ "metaDescription": "What an Arkansas division order actually authorizes, why the decimal has to match your deed, and the errors that stall or shrink royalty checks.",
+ "heroLead": "A division order is the document that tells the operator how to cut your royalty check, and it deserves more scrutiny than most owners give it.",
+ "intro": [
+  "Every operator working the Fayetteville Shale, the Smackover trend, or any producing zone in Arkansas will eventually mail you a division order before the first royalty check goes out. It looks routine. It is not a lease, it does not grant or take away ownership, and signing it does not sell your minerals. What it does is set the decimal interest the operator will pay you against, and that decimal is the single number that determines whether your check is right or wrong every month for the life of the well.",
+  "We buy Arkansas mineral and royalty interests, and division order math is one of the first things we check on a package before we ever quote it. A clean, current division order tells us the seller's interest is well understood and easy to transfer. A stale or disputed one tells us there is title work to do first. Either way, understanding the document protects you whether you sell, lease, or just want your statements to add up."
+ ],
+ "sections": [
+  {
+   "heading": "What the decimal represents",
+   "paragraphs": [
+    "Your division order decimal is a product of two numbers: your fractional mineral ownership in the tract, and the royalty rate set in the lease that covers it. If you own an undivided one-eighth interest in 80 acres inside a 640-acre drilling unit, and the lease carries a three-sixteenths royalty, the operator has to run pooling factors, net revenue interest, and the unit's participation formula before landing on your decimal. In Arkansas's Fayetteville Shale wells, spacing units are commonly 640 acres and pooled, so your decimal reflects your acreage's share of that whole unit, not only your home tract.",
+    "This is where errors creep in. Heirship splits, prior partial conveyances, and old deeds with ambiguous acreage descriptions all feed into the same calculation. A title examiner working off a courthouse abstract in Union, Columbia, or White County has to trace every conveyance back to a clean starting point, and one missed instrument changes the decimal for every heir tied to that chain."
+   ]
+  },
+  {
+   "heading": "Why the number on your statement might not match your expectation",
+   "paragraphs": [
+    "Owners frequently expect their decimal to equal a simple fraction of net mineral acres divided by unit acres, and are surprised when the operator's number is lower. The gap is almost always explained by non-participating royalty carve-outs, a prior sale of a partial interest that never got recorded properly, or a well that draws from more than one spacing unit under Arkansas Oil and Gas Commission allocation orders. None of these situations mean your check is being shorted on purpose. They mean the underlying title is more layered than the deed you're holding suggests.",
+    "If your statement decimal looks wrong, request the operator's division order analyst backup or pull the unit's pooling order from the AOGC docket. Both are public. Comparing what the operator used against what the courthouse record actually shows is the only way to confirm the number, and it's the same comparison we run internally before making an offer on a producing royalty interest."
+   ]
+  },
+  {
+   "heading": "Suspended funds and what triggers them",
+   "paragraphs": [
+    "When an operator cannot confirm ownership with certainty, they hold your share in suspense rather than pay it out on a disputed decimal. Common triggers in Arkansas include an owner who never signed and returned the division order, a title chain with an unresolved heirship gap, competing claims from a divorce or estate dispute, or a name that doesn't match courthouse records because of a marriage or a typo carried forward for decades. Suspended funds don't expire, but they also don't earn interest in most states, and they sit unpaid until the title issue clears.",
+    "Clearing a suspense often means an affidavit of heirship, a corrected deed, or a small estate proceeding, depending on what broke the chain. It's tedious, but it's usually solvable with a courthouse trip and a title attorney rather than a full probate. If a suspended royalty interest is part of what you're weighing whether to sell, tell the buyer upfront. A serious buyer can often structure around it or help identify what's needed to clear it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators will hold your funds in suspense until you return a signed division order, even though the underlying obligation to pay comes from the lease, not the division order itself. Reviewing it before signing is worthwhile, but don't let it sit unsigned indefinitely."
+  },
+  {
+   "question": "Does signing a division order lock in my decimal forever?",
+   "answer": "No. If new title information surfaces, such as a corrected heirship affidavit or an additional well that changes unit participation, the operator can and will revise the decimal going forward and sometimes retroactively true up prior payments."
+  },
+  {
+   "question": "How do I know if my decimal matches what I actually own?",
+   "answer": "Compare it against your recorded deed, the lease royalty rate, and the AOGC pooling order for the unit. If the math doesn't reconcile, request the operator's backup calculation before signing."
+  },
+  {
+   "question": "Can a mineral buyer help sort out a division order dispute?",
+   "answer": "A buyer who does this regularly can often spot the same title gap an operator flagged and tell you quickly whether it's a quick fix or a longer title project, which is useful information even if you decide not to sell."
+  },
+  {
+   "question": "What happens to suspended funds if I sell my minerals?",
+   "answer": "Suspended royalties tied to a period before closing typically stay payable to you as the seller once the title issue clears, so keep records of the well, operator, and suspense notice even after you sell the underlying interest."
+  }
+ ],
+ "wordCount": 980,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsarkansas-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

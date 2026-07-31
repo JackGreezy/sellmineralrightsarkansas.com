@@ -1,0 +1,71 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Mineral Rights in Arkansas",
+ "metaDescription": "The deed, statement, and title paperwork an Arkansas mineral buyer actually needs to underwrite an offer, and where to find each one if you've lost it.",
+ "heroLead": "Most delays in an Arkansas mineral sale trace back to one missing document, not a disagreement over price.",
+ "intro": [
+  "We can put a working number on a mineral or royalty package with less paper than owners expect. What actually moves a deal from a verbal range to a closed transaction is a short, specific set of documents that let us confirm what you own, where it sits relative to producing wells, and who has to sign the deed. Gather these before you start shopping the interest and you'll save yourself several rounds of back-and-forth with any buyer, not only us.",
+  "None of this paperwork is exotic. Most of it either sits in a file at home from when you inherited or purchased the interest, or it's a public record sitting at the county clerk's office or with the operator. The goal here is simply knowing what to pull and where."
+ ],
+ "sections": [
+  {
+   "heading": "The deed or instrument that shows your ownership",
+   "paragraphs": [
+    "This is the single most important document in the file. It could be a mineral deed, a warranty deed reserving minerals, a probate order distributing an estate, or an affidavit of heirship if the interest passed informally through family. Whatever form it takes, it needs to show a clear chain from a prior owner to you. If you've never seen this document, the county clerk or recorder in the county where the minerals sit, whether that's Union, Columbia, Ouachita, or Van Buren, can pull it from the public record for a small copy fee.",
+    "If the interest passed through several generations without formal probate, this is the piece most likely to be incomplete. An affidavit of heirship, signed by disinterested parties who knew the family history, can often fill the gap without a full estate proceeding, but it needs to be prepared correctly to hold up when a title examiner reviews it."
+   ]
+  },
+  {
+   "heading": "A current royalty statement, if the interest is producing",
+   "paragraphs": [
+    "If you're receiving royalty checks, the most recent statement from the operator is worth more to a buyer than almost anything else in the file. It shows the well name, the decimal interest you're being paid on, the price received, and typically the production volume for the period. That single page lets us cross-reference public production data and get to a real number quickly rather than a rough estimate.",
+    "If you've misplaced statements, most operators post historical payment detail through an owner relations portal, and Arkansas production and well data is also searchable through the state's oil and gas commission records, which we use routinely to verify what a statement says against what the state has on file."
+   ]
+  },
+  {
+   "heading": "Lease information and legal description",
+   "paragraphs": [
+    "A copy of the oil and gas lease, if one exists, tells us the royalty rate, the primary term, and whether the lease is held by production or has lapsed. Alongside it, the legal description, meaning the section, township, and range or the metes-and-bounds description tied to your deed, lets us plot your acreage against the spacing unit and confirm which wells your interest actually participates in.",
+    "If you don't have the lease itself, the county clerk's records will show it was recorded, and the recording reference from your deed or a title company can point us to it. This step matters most in areas with layered leasing history, where a tract may have been leased, released, and re-leased more than once over the decades."
+   ]
+  },
+  {
+   "heading": "Identification and, eventually, closing paperwork",
+   "paragraphs": [
+    "None of the identification or closing documents need to be gathered upfront. Once you accept an offer, you'll need a government-issued ID for notarization, and if the interest is held by an estate, trust, or LLC, documentation showing who has authority to sign, such as letters testamentary, a trust agreement, or an operating agreement resolution. A title company or the buyer's closing team will walk you through exactly which of these apply to your situation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find my deed at all?",
+   "answer": "The county clerk's office where the minerals are located keeps recorded instruments as public record. Give them the prior owner's name and approximate date, and they can usually locate it and provide a certified copy."
+  },
+  {
+   "question": "Do I need a lease to sell if my minerals aren't currently leased?",
+   "answer": "No. Unleased minerals can be sold; there's simply no current royalty stream attached, which a buyer factors into the offer rather than requiring the lease as a prerequisite."
+  },
+  {
+   "question": "I inherited this interest and there was never a formal probate. Can I still sell?",
+   "answer": "Often yes, through an affidavit of heirship or a small estate proceeding, depending on Arkansas probate thresholds. A title attorney can tell you quickly which route fits your situation."
+  },
+  {
+   "question": "Will a buyer pay for title work if my paperwork is incomplete?",
+   "answer": "Buyers who handle Arkansas minerals regularly can often absorb or advance reasonable title curative costs as part of closing rather than requiring you to pay upfront, though terms vary by buyer."
+  },
+  {
+   "question": "How current does my royalty statement need to be?",
+   "answer": "Within the last several months is ideal. Older statements still help establish that the well was producing and give a starting decimal, even if current volumes have shifted."
+  }
+ ],
+ "wordCount": 889,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsarkansas-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

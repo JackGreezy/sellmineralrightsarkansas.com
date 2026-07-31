@@ -1,0 +1,72 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "status": "written",
+ "metaTitle": "Selling Non-Producing Mineral Rights in Arkansas",
+ "metaDescription": "No wells, no lease, no royalty checks on your Arkansas minerals? We still buy non-producing acreage based on county activity and formation position.",
+ "heroLead": "No well on the tract and no check in the mailbox doesn't mean no value. It means the value is priced off different evidence than a producing interest is.",
+ "intro": [
+  "Non-producing mineral acreage in Arkansas covers a lot of ground, literally: land that's never had a well drilled on it, land where an old lease expired without a well being completed, and land in an area operators haven't gotten around to yet even as activity picks up nearby. Owners in this position often assume there's nothing to sell, since there's no royalty check to point to as proof of value, and sometimes that's roughly right. But sometimes it's not, particularly for acreage sitting inside or near an active leasing corridor in the Smackover or Fayetteville trends.",
+  "We evaluate non-producing minerals against what we can actually document: nearby drilling and leasing activity, historical lease bonus amounts in the area, formation depth and quality at your specific location, and, in south Arkansas, brine and lithium leasing patterns. If none of that points to near-term activity, we'll tell you honestly that the offer will be modest, or that it may not make sense for us to buy right now. We don't manufacture value that isn't there."
+ ],
+ "sections": [
+  {
+   "heading": "What Actually Drives a Non-Producing Price",
+   "paragraphs": [
+    "Without a production or lease history on your specific tract, we build the picture from comparable evidence: what neighboring tracts have leased for recently, whether permits have been filed in your section or the adjoining one, and whether your acreage sits inside a play's productive fairway or on its edge. A tract a half-mile from an active Smackover brine leasing block is a fundamentally different asset than the same acreage twenty miles outside any current activity, even though both are technically \"non-producing\" today.",
+    "We also look at formation depth and known reservoir quality at your location where public well control exists nearby, since a tract sitting over thin or marginal Smackover or Fayetteville rock is worth less than one over a section with strong offset well performance, regardless of current leasing status."
+   ]
+  },
+  {
+   "heading": "Expired Leases Are a Different Case Than Never-Leased",
+   "paragraphs": [
+    "Acreage where a lease was signed, held for its primary term, and then expired without a well tells us something: an operator looked at the tract closely enough to lease it, and then either drilled elsewhere in the unit or let the whole area go. That history is useful context, though it cuts both ways, it shows real prior interest, but it also shows that interest didn't convert to drilling. We factor in how long ago the lease expired and whether activity has picked back up in the area since.",
+    "Acreage that's simply never been leased is often in a quieter part of the county with less operator attention, and we price it more conservatively unless recent activity nearby suggests that's changing."
+   ]
+  },
+  {
+   "heading": "The Case for Selling Now vs. Holding",
+   "paragraphs": [
+    "Holding non-producing minerals costs nothing in carrying fees, unlike a lot of other asset classes, so there's no urgency purely from a cost-of-ownership standpoint. The case for selling now usually comes down to something else: an owner who wants to simplify an estate, consolidate scattered small interests into cash, or take a known number rather than continue waiting on activity that may or may not materialize. We're straightforward that a non-producing tract could become significantly more valuable if drilling activity or brine leasing reaches it later, and we're also straightforward that it could sit quiet for years.",
+    "Owners sometimes ask whether it's better to lease the acreage themselves and wait for a bonus rather than sell outright. That's a legitimate path if the tract is generating lease interest, but leasing still leaves the underlying value uncertain until a well is actually drilled, and plenty of leases in quiet parts of the Fayetteville and Arkoma have expired without ever seeing a rig. Selling converts that open-ended wait into a fixed number today, while leasing keeps the option open at the cost of continued uncertainty."
+   ]
+  },
+  {
+   "heading": "County-by-County Differences Worth Knowing",
+   "paragraphs": [
+    "Non-producing acreage in Union or Columbia County, inside the Smackover's productive fairway, is a different conversation than the same status in a quieter Arkoma county with little recent permitting. We check where your tract actually sits relative to documented activity before pricing, rather than treating all undeveloped Arkansas mineral acreage as one undifferentiated category. That county-level context is often the single biggest factor separating a modest offer from one worth taking seriously."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will you buy minerals that have never produced or been leased?",
+   "answer": "Yes, we evaluate them against nearby comparable activity and formation position rather than a production history, though the offer will generally be more conservative than for producing or actively leased acreage."
+  },
+  {
+   "question": "My lease expired years ago with no well drilled. Does that hurt the value?",
+   "answer": "Not necessarily. It shows an operator found the tract worth leasing once, which is useful context, but current value depends more on whether activity has returned to the area since than on the old lease itself."
+  },
+  {
+   "question": "How do you price acreage with no production or lease to compare against?",
+   "answer": "We look at comparable recent lease and permit activity on nearby tracts, offset well performance where public data exists, and known formation depth and quality at your location, then build an estimate from that comparable evidence."
+  },
+  {
+   "question": "Is it worth waiting to see if activity picks up before selling?",
+   "answer": "There's no carrying cost to holding non-producing minerals, so waiting is a reasonable option if you're comfortable with the uncertainty. Selling now trades that uncertainty for a known number today."
+  },
+  {
+   "question": "Does being near the Smackover lithium-brine leasing activity change what my undeveloped acreage is worth?",
+   "answer": "It can, if there's documented leasing or permitting activity in your immediate area. Proximity alone without documented activity nearby isn't something we price speculatively."
+  }
+ ],
+ "wordCount": 987,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightsarkansas-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

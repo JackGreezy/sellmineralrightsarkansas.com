@@ -1,0 +1,72 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "status": "written",
+ "metaTitle": "Selling Mineral Rights That Are Leased but Undrilled",
+ "metaDescription": "Signed a lease, took a bonus, but no well has been drilled on your Arkansas tract yet? We price leased-but-undrilled interests against real leasing activity.",
+ "heroLead": "A signed lease with a bonus check and no rig on the horizon is worth something specific, and it's not the same number as a producing well or bare acreage.",
+ "intro": [
+  "You leased your minerals, banked the bonus payment, and now you're waiting, maybe for a Smackover brine test, maybe for a Fayetteville operator to decide the economics finally work, maybe for nothing in particular that anyone has told you about. That gap between signing a lease and seeing a well drilled can run months or years, and in the meantime you own an interest that has real, priceable value tied to the lease terms and the surrounding activity, even with zero production revenue yet.",
+  "We buy leased-but-undrilled interests regularly. The pricing logic is different from a producing royalty, since there's no check history to anchor against, but it's not a guess either. It's built from the lease terms you actually signed and what's happening on the ground around your tract."
+ ],
+ "sections": [
+  {
+   "heading": "What the Lease Itself Tells Us",
+   "paragraphs": [
+    "The royalty fraction in your lease, the primary term length and whether it's already partway through, any Pugh clause language, and whether the lease includes shut-in or continuous operations provisions all shape what your leased interest is worth to a buyer. A lease with a higher royalty and a long primary term still running has more optionality baked in than one nearing expiration with no drilling obligation attached, and we price accordingly rather than treating all leased acreage the same.",
+    "We'll also check whether your lease has been ratified into a pooled unit, since that changes both your allocated share if a well is eventually drilled and how much say you have over what happens next."
+   ]
+  },
+  {
+   "heading": "Reading Activity Around Your Tract",
+   "paragraphs": [
+    "The strongest signal on an undrilled leased interest is what operators are doing nearby: permit filings, offset drilling, or in the Smackover trend specifically, brine and lithium leasing and pilot activity moving through the area. A tract leased by an operator actively drilling offset units is priced very differently than one leased years ago by a company that has since gone quiet, even though both owners are sitting in the same technical position of having a lease and no well.",
+    "We check the operator's recent activity in your county, not only the lease document, before pricing your interest, because the operator's current appetite for drilling is often a better predictor of what happens next than anything written in the lease itself."
+   ]
+  },
+  {
+   "heading": "Why Some Owners Sell Here Instead of Waiting",
+   "paragraphs": [
+    "Waiting on an undrilled lease means carrying uncertainty: the well might get drilled and produce well, might get drilled and disappoint, or might never get drilled before the lease expires and reverts. Selling now converts that uncertainty into a known number today. It's a legitimate tradeoff, not one we push owners toward, but for someone who wants certainty, needs liquidity, or simply doesn't want to keep tracking permit filings and lease renewal dates, cashing out the leased position is often the more practical move.",
+    "We're upfront that a leased-but-undrilled interest that later gets drilled and produces well could, in hindsight, have been worth more held. That's true of almost any mineral sale. We price based on what's known and documented today, not a promise about what might happen."
+   ]
+  },
+  {
+   "heading": "Bonus vs. Long-Term Value",
+   "paragraphs": [
+    "The bonus payment you already received was compensation for signing the lease, not a preview of what the royalty interest itself is worth. Don't let the size of the bonus check anchor your expectations for what selling the underlying mineral or royalty interest should bring; those are two different payments for two different rights, and we evaluate the ongoing royalty potential independent of what the bonus happened to be."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I signed a lease and got a bonus check. Do I still own anything to sell?",
+   "answer": "Yes. Signing a lease doesn't transfer your mineral ownership, only your right to drill during the lease term in exchange for the bonus and future royalty. You still own the underlying mineral or royalty interest and can sell it."
+  },
+  {
+   "question": "Will you buy my interest if the lease is close to expiring with no drilling?",
+   "answer": "Yes, though the price reflects that risk. A lease nearing expiration with no permit activity is priced more conservatively than one with a long primary term remaining or active offset drilling nearby."
+  },
+  {
+   "question": "How do you value an interest with no production history?",
+   "answer": "We price it off your lease terms, royalty fraction, remaining primary term, and documented drilling or permitting activity in your area, rather than off a check history that doesn't exist yet."
+  },
+  {
+   "question": "My tract is in the Smackover and the operator mentioned brine testing. Does that affect the price?",
+   "answer": "It can. If there's documented brine or lithium leasing and permitting activity near your tract, that's a real, checkable data point we factor in, separate from the conventional oil-and-gas leasing picture."
+  },
+  {
+   "question": "Should I wait to see if a well gets drilled before selling?",
+   "answer": "That's your call to make based on your own timeline and risk tolerance. Waiting could mean a higher value if the well is drilled and produces well, or it could mean the lease simply expires with nothing to show for it. We're glad to give you a number today either way."
+  }
+ ],
+ "wordCount": 904,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsarkansas-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

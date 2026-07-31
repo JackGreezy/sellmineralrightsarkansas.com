@@ -1,0 +1,32 @@
+{
+  "src": "https://www.kalmarglobal.com/",
+  "host": "kalmarglobal.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.kalmarglobal.com/",
+      "bytes": 459340
+    },
+    {
+      "label": "about",
+      "url": "https://www.kalmarglobal.com/about-us/",
+      "bytes": 401584
+    },
+    {
+      "label": "contact",
+      "url": "https://www.kalmarglobal.com/contacts/",
+      "bytes": 384191
+    },
+    {
+      "label": "index",
+      "url": "https://www.kalmarglobal.com/equipment/",
+      "bytes": 393964
+    },
+    {
+      "label": "slug",
+      "url": "https://www.kalmarglobal.com/equipment/forklift-trucks/",
+      "bytes": 507753
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

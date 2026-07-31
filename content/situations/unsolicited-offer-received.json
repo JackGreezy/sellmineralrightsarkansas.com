@@ -1,0 +1,71 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "status": "written",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer in Arkansas?",
+ "metaDescription": "Received a mailer offer for your Smackover or Fayetteville mineral rights? We benchmark it against actual production and lease data before you sign anything.",
+ "heroLead": "The letter in your mailbox with a number and a deadline is designed to get you to decide fast, and fast decisions on a permanent asset transfer usually favor the buyer.",
+ "intro": [
+  "If you own minerals in south or north-central Arkansas, particularly anywhere near current Smackover brine leasing activity or a producing Fayetteville well, you've probably gotten at least one unsolicited letter offering to buy your interest, often with a specific dollar figure and language suggesting the offer won't last. Some of these are legitimate offers from real buyers pricing off real data. Some are low, opportunistic numbers betting that you won't check them against anything before signing.",
+  "We're glad to benchmark any offer you've received, whether or not you ultimately sell to us. Send us the offer letter along with your county and legal description, and we'll tell you honestly whether the number looks reasonable against what we can see in production and lease data, or whether it looks low."
+ ],
+ "sections": [
+  {
+   "heading": "Why Mailer Offers Vary So Widely",
+   "paragraphs": [
+    "Buyers sending unsolicited mailers range from well-capitalized acquisition companies with real production data behind their numbers to smaller operations working off nothing more than a county tax roll and a hunch. The letter itself rarely tells you which one you're dealing with, and the number can differ by a wide margin from what a data-backed offer would produce, in either direction, without the letter explaining why.",
+    "A mailer that arrived because your name showed up on a courthouse deed search, without the sender ever checking your interest's actual production or lease status, is a different kind of offer than one from a buyer who pulled your division order and priced against real numbers. We'll tell you which situation your offer looks like once we see it."
+   ]
+  },
+  {
+   "heading": "What to Check Before Signing Anything",
+   "paragraphs": [
+    "Ask whether the offer reflects your actual production history, if your interest is producing, or is it a flat, generic number that doesn't reference your specific well or lease at all. Check whether the deed you're being asked to sign matches what was described in the letter, since the actual transfer document is the only thing that legally matters, not the cover letter's language. And don't treat a stated deadline as real pressure; a fair offer on your mineral interest doesn't expire in a week, and any buyer implying it does is using urgency instead of a strong number to get you to sign.",
+    "If the letter references a specific well, lease, or division order number, that's a reasonable sign the buyer did real homework. If it's a form letter with your name inserted and no specifics about your actual interest, treat the number with more skepticism."
+   ]
+  },
+  {
+   "heading": "How We Benchmark an Offer",
+   "paragraphs": [
+    "Send us a copy of the offer, your county, and your legal description or division order if you have one. We'll pull whatever production or lease data is available for your specific tract and tell you where the mailer's number falls relative to what we'd offer and what a reasonable range looks like given current activity. If our number comes in higher, we'll explain why. If the mailer's offer is already fair, we'll tell you that too rather than manufacture a reason to compete."
+   ]
+  },
+  {
+   "heading": "No Obligation Either Way",
+   "paragraphs": [
+    "Benchmarking an offer doesn't commit you to selling to anyone, including us. Some owners use this to confirm they should accept the mailer offer as-is, some decide to negotiate the original offer up once they have a comparable number in hand, and some decide to sell to us instead. All three are reasonable outcomes, and we're not going to pressure you toward the third one."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it worth getting a second opinion on a mailer offer?",
+   "answer": "Generally yes, especially for a permanent asset transfer. A quick benchmark against actual production or lease data costs you nothing and either confirms the offer is fair or shows you it isn't."
+  },
+  {
+   "question": "How do I know if the mailer offer used real data about my interest?",
+   "answer": "Check whether it references a specific well, lease, or division order tied to your tract, versus a generic form letter with just your name and county filled in. Specificity is a reasonable, though not perfect, signal of real homework."
+  },
+  {
+   "question": "Should I worry about the deadline in the letter?",
+   "answer": "Not typically. A fair offer on a mineral interest doesn't need to expire in a few days, and a stated deadline is more often a pressure tactic than a reflection of real time constraints on the buyer's side."
+  },
+  {
+   "question": "Will benchmarking my offer with you obligate me to sell to you?",
+   "answer": "No. We'll give you an honest read on the offer whether or not you ultimately sell to us, or to anyone at all."
+  },
+  {
+   "question": "What if the mailer offer is actually higher than what you'd offer?",
+   "answer": "We'll tell you that directly if it's true. Our goal is an honest benchmark, not a guaranteed higher number, and there's no advantage to us in pretending otherwise."
+  }
+ ],
+ "wordCount": 853,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsarkansas-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

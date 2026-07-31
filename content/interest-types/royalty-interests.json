@@ -1,0 +1,75 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Sell Royalty Interests in Arkansas Oil, Gas & Brine",
+ "metaDescription": "Own a royalty interest tied to a producing Arkansas well or brine unit? We price royalty positions against actual decline and payment history, not guesses.",
+ "heroLead": "A royalty check is the cleanest data a buyer can ask for, since it tells us exactly what your interest is producing without a single assumption.",
+ "intro": [
+  "A royalty interest is the right to a share of production revenue from oil, gas, or in the Smackover trend increasingly brine-derived minerals, free of drilling and operating costs, without the executive right to negotiate leases that comes with a full mineral interest. Most royalty interests in Arkansas were carved out at some point in the chain of title, either reserved by a prior mineral owner when selling the underlying estate, or created when a mineral owner leased to an operator and retained the standard lease royalty.",
+  "We buy royalty interests across Arkansas at every stage of production, from long-lived Smackover oil royalties to Fayetteville gas royalties well into their decline, and we price every one of them against the actual check history and lease terms behind it."
+ ],
+ "sections": [
+  {
+   "heading": "Why Your Check Stubs Are the Best Pricing Evidence We Have",
+   "paragraphs": [
+    "A producing royalty interest gives us the single best piece of evidence available for pricing: what it's actually paying, month over month, and how that's trended. We ask for recent check stubs or a division order statement because trailing production tells us more than a type curve or a county average ever could, especially on wells that are decades past their initial completion and behaving like a mature, gently declining asset rather than a new well still finding its production plateau.",
+    "If you've saved your check stubs, even a rough set from the last year, that shortens the pricing process considerably. If you haven't, we can typically request production history from the operator or the Arkansas Oil and Gas Commission's records directly."
+   ]
+  },
+  {
+   "heading": "Fixed vs. Floating Royalty Fractions",
+   "paragraphs": [
+    "Some Arkansas royalty interests carry a fixed fraction, say a flat 1/8th regardless of what a future lease negotiates, while others float with whatever royalty a mineral owner negotiates on a new lease. This distinction matters most on interests that could see a new lease negotiated at a higher royalty rate than an old one, since a floating royalty interest benefits from that renegotiation and a fixed one doesn't. We check which type your instrument creates before pricing, because it changes the interest's upside profile."
+   ]
+  },
+  {
+   "heading": "Royalty Interests in the Brine and Lithium Layer",
+   "paragraphs": [
+    "As Smackover brine production for lithium and bromine has become commercially relevant, some new leases and agreements in south Arkansas are structuring separate brine or lithium royalty terms distinct from the conventional oil-and-gas royalty. If you hold, or believe you might hold, a royalty tied to brine production specifically, we treat that as its own line item, priced against documented leasing and permitting activity in your area rather than folded into a conventional oil-and-gas number, since the two have different underlying economics and no shared production history to compare against yet."
+   ]
+  },
+  {
+   "heading": "What Happens to Your Royalty When You Sell",
+   "paragraphs": [
+    "Selling a royalty interest transfers the right to future payments to the buyer as of the closing date; you keep whatever has already been paid to you before the transfer. We handle the division order update with the operator directly after closing so payments redirect cleanly, and we walk you through that step so you know what to expect on your final check from the old ownership."
+   ]
+  },
+  {
+   "heading": "Royalty Interests That Span Multiple Wells",
+   "paragraphs": [
+    "Some Arkansas royalty owners hold a single interest that pays out of more than one well, either because the underlying acreage was pooled into multiple units over time or because the original mineral tract was large enough to sit under several completions. We price each well's contribution separately using its own production history, then combine them into a single offer, rather than averaging the whole position against one well's decline curve and missing how the others are actually performing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need check stubs to get an offer on my royalty interest?",
+   "answer": "They help significantly and speed up the process, but we can often pull production history from operator filings or state records if you don't have them saved."
+  },
+  {
+   "question": "What's the difference between a fixed and a floating royalty?",
+   "answer": "A fixed royalty pays a set fraction regardless of future lease terms; a floating royalty adjusts to whatever rate a mineral owner negotiates on a new lease. We identify which type your interest is before pricing, since it affects future upside."
+  },
+  {
+   "question": "Is a lithium-brine royalty priced the same as an oil and gas royalty?",
+   "answer": "No, and there isn't enough production history yet to price them the same way. We evaluate brine-related royalty positions against documented leasing and permitting activity specifically, as their own line item."
+  },
+  {
+   "question": "Will I get one more royalty check after I sell?",
+   "answer": "Typically yes, for production that occurred before the sale closes and the division order updates. We'll walk you through exactly what to expect on that final payment."
+  },
+  {
+   "question": "How is a royalty interest different from owning the mineral rights outright?",
+   "answer": "A royalty interest gives you a share of production revenue without the executive right to negotiate future leases, which a full mineral owner retains. Royalty owners are typically passive with respect to leasing decisions."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsarkansas-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

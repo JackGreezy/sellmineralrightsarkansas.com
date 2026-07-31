@@ -1,0 +1,86 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How It Works | Sell Mineral Rights in Arkansas",
+ "metaDescription": "The step-by-step process for selling Arkansas mineral rights with us, from first data pull through funded closing, and what each step actually involves.",
+ "heroLead": "Four steps take an Arkansas mineral interest from first contact to a closed, funded sale: data pull, offer, title review, closing.",
+ "intro": [
+  "We built this process around the same underwriting discipline we'd apply to buying any producing asset: verify what's there before pricing it, and don't ask you to sign anything until the number reflects real data. That keeps most Arkansas transactions moving in weeks rather than months, and it means the offer you accept is close to what actually closes rather than something that gets renegotiated later.",
+  "Below is what each step actually involves, in the order it happens."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: tell us what you have",
+   "paragraphs": [
+    "A phone call or a submitted form with your county, approximate acreage, and any documentation you have, deed, royalty statement, lease, gets us started. You don't need complete paperwork to begin this conversation. If you only know the county and roughly what you inherited, we can often locate the rest through public records using your name and that county.",
+    "This step is purely informational on your end. We're not asking for a commitment, just enough to start pulling real data against your specific acreage."
+   ]
+  },
+  {
+   "heading": "Step two: we build a real number",
+   "paragraphs": [
+    "Using public Arkansas Oil and Gas Commission production records, comparable transactions in your county, and whatever documentation you've provided, we build either a decline-curve valuation for producing interests or a comparable-sales range for undeveloped acreage. This typically takes a few days, and the number we come back with is tied to specific data we can walk you through, not a flat estimate pulled from a statewide average.",
+    "We'll tell you plainly what the data supports, including if it's a modest number for acreage that's far from current activity. We'd rather give you an accurate picture than a number designed just to get a signature."
+   ]
+  },
+  {
+   "heading": "Step three: title review",
+   "paragraphs": [
+    "Once you accept an offer, we or our title partner run a title check against the county clerk's records where your minerals sit. Clean, well-documented ownership moves through quickly. If there's an heirship gap, an unresolved probate, or an old unreleased lease creating ambiguity, that gets addressed before closing, since it protects both sides to have clean, recordable title.",
+    "You don't need to solve title problems yourself. Tell us what you know about the ownership history, and we'll tell you what's needed to clear it, if anything is."
+   ]
+  },
+  {
+   "heading": "Step four: sign, notarize, get paid",
+   "paragraphs": [
+    "Once title clears, you'll sign a mineral deed, have it notarized, and we record it with the county. Funding happens at or near signing. If multiple heirs or co-owners are involved, each typically signs their own portion, and we can often coordinate a single closing that handles everyone at once."
+   ]
+  },
+  {
+   "heading": "What we handle versus what you handle",
+   "paragraphs": [
+    "On our side: the production analysis, the comparable-sales research, the title examination, drafting the deed, and coordinating notarization and recording. On your side: gathering whatever documentation you already have, answering questions honestly about the ownership history, and reviewing the paperwork before you sign. We try to keep your side of the process as light as possible, since most owners aren't in the business of tracking title chains or decline curves and shouldn't need to become experts in either to sell fairly.",
+    "If at any point a step isn't clear, ask. We'd rather walk through a question twice than have you sign something you don't fully understand."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take?",
+   "answer": "Clean title with straightforward ownership can close in two to four weeks. Interests with heirship gaps or title complications take longer, depending on what curative work is needed."
+  },
+  {
+   "question": "What does it cost to get an offer?",
+   "answer": "Nothing. Reviewing your interest and providing a valuation doesn't cost you anything and doesn't obligate you to move forward."
+  },
+  {
+   "question": "Do I need to hire my own attorney?",
+   "answer": "It isn't required for straightforward, clearly-titled interests, but for estate situations or multiple co-owners, having your own attorney review the deed and closing documents is a reasonable safeguard."
+  },
+  {
+   "question": "What if the title review turns up a problem I didn't know about?",
+   "answer": "That happens fairly often with inherited interests, and it's usually solvable with an affidavit of heirship or similar documentation rather than a lengthy probate. We'll tell you specifically what's needed."
+  },
+  {
+   "question": "Can the process move faster if my paperwork is already in order?",
+   "answer": "Yes. A complete deed, current royalty statement, and clean title history are the biggest accelerants. Owners with all three in hand routinely close on the faster end of the timeline."
+  },
+  {
+   "question": "Do I have to travel anywhere to close?",
+   "answer": "No. Signing and notarization can typically be arranged locally near you, and documents can be handled by mail or a local notary rather than requiring an in-person trip."
+  },
+  {
+   "question": "What if I change my mind partway through the process?",
+   "answer": "Until you've signed a purchase agreement, you're free to step back at any point. Even after signing, talk to us directly if circumstances change; we'd rather have that conversation than force a deal that no longer fits."
+  }
+ ],
+ "wordCount": 860,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsarkansas-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

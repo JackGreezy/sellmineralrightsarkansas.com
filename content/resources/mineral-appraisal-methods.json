@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Are Appraised in Arkansas",
+ "metaDescription": "The decline-curve and comparable-sales math behind an Arkansas mineral appraisal, and why the same acreage can price differently depending on the method.",
+ "heroLead": "There is no single correct number for a mineral interest; there's a range that shifts depending on which appraisal method fits your situation and how it's applied.",
+ "intro": [
+  "Owners sometimes assume a mineral appraisal works like a home appraisal, one appraiser walks the property and produces a definitive figure. It doesn't work that way. Mineral value is a function of future production that hasn't happened yet, priced back to today's dollars using assumptions about decline rate, commodity price, and drilling risk. Two competent analysts can look at the same interest and land on different numbers if they use different assumptions, which is normal, not a sign something is wrong.",
+  "We run both of the two main methods below on nearly every Arkansas package we evaluate, whether it's producing Fayetteville Shale royalty or undeveloped acreage in the Smackover brine trend, because they answer slightly different questions and the better answer usually comes from looking at both."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted cash flow off the decline curve",
+   "paragraphs": [
+    "For a producing interest, this method starts with actual monthly production volumes, pulled from public Arkansas Oil and Gas Commission data or your royalty statements, and fits a decline curve to project how much oil or gas the well will produce going forward. Shale wells typically show a steep initial decline, often losing thirty to fifty percent of production in the first year, before flattening into a longer, slower tail that can run a decade or more at a lower rate.",
+    "That projected volume stream gets multiplied by an assumed future price and your royalty decimal, then discounted back to present value using a rate that reflects the risk of commodity price swings and mechanical uncertainty. The discount rate is where appraisals diverge most: a buyer pricing conservatively will use a higher rate and land on a lower present value than one willing to take on more price risk for more potential upside."
+   ]
+  },
+  {
+   "heading": "Comparable sales for undeveloped or lightly-producing acreage",
+   "paragraphs": [
+    "When there isn't enough production history to build a reliable decline curve, or the acreage is entirely undeveloped, appraisers look instead at recent comparable transactions, what similar mineral acreage in the same county or play recently traded for, on a per-net-mineral-acre basis. This method leans on market activity rather than a specific well's production data, and it's the primary tool for pricing raw Smackover brine acreage where lithium extraction economics are still being proven out by operators like Exxon and Albemarle rather than fully established.",
+    "Comparable sales data moves with drilling activity. A county that goes from quiet to actively permitted can see comp values shift meaningfully within a year, which is part of why an appraisal has a shelf life and should be refreshed if you wait a while before acting on it."
+   ]
+  },
+  {
+   "heading": "What actually moves the number up or down",
+   "paragraphs": [
+    "Net mineral acres and your fractional decimal set the ceiling. Beyond that, the biggest swing factors are how many wells are already producing on your unit versus how many remain to be drilled, whether the acreage sits in the geologic core of the play or the flank where results are less certain, current commodity price assumptions for oil and gas, and for the Smackover trend specifically, whether the tract has confirmed brine chemistry favorable to lithium extraction versus acreage still awaiting delineation.",
+    "Depending on where an interest sits on those factors, comparable per-acre figures can vary widely across otherwise similar counties, which is exactly why generic online value calculators tend to miss badly. There's no substitute for pulling the actual well or lease data tied to your specific tract."
+   ]
+  },
+  {
+   "heading": "Blending the two methods for a fair number",
+   "paragraphs": [
+    "In practice, most real-world Arkansas appraisals aren't purely one method or the other. A producing royalty interest still gets weighed against nearby comparable sales to sanity-check the decline-curve output, and undeveloped acreage priced off comps still gets adjusted based on any nearby production that hints at what a future well might do. Neither method exists in a vacuum, and a buyer who only uses one is more likely to land on a number that doesn't reflect what's actually happening on the ground.",
+    "If you're comparing appraisals or offers from different sources, ask specifically whether the number reflects both approaches or just one. An appraisal built from a single method, especially a decline curve with no comparable-sales sanity check, can miss real market movement that a well's own production history wouldn't yet show."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did two buyers give me different numbers for the same interest?",
+   "answer": "Different discount rates, different price decks, or one relying on decline-curve analysis while the other leaned on comparable sales. Ask each buyer which method they used and what assumptions drove the figure."
+  },
+  {
+   "question": "Does an appraisal cost anything?",
+   "answer": "A working valuation from a buyer evaluating your interest for purchase is typically free, since it's part of their underwriting. A formal, certified appraisal for estate or legal purposes usually carries a fee."
+  },
+  {
+   "question": "How often should I get my minerals re-appraised?",
+   "answer": "If nothing has changed, roughly every year or two is reasonable. If new wells get permitted nearby, an operator changes activity levels, or commodity prices move sharply, it's worth refreshing sooner."
+  },
+  {
+   "question": "Is undeveloped Smackover brine acreage worth appraising the same way as a producing gas royalty?",
+   "answer": "No. Undeveloped brine acreage is priced primarily on comparable transactions and play-stage assumptions, since there's no production history yet to build a decline curve from."
+  }
+ ],
+ "wordCount": 922,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsarkansas-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

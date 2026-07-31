@@ -1,0 +1,74 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Sell an Arkansas Working Interest in Oil or Gas Wells",
+ "metaDescription": "Own a working interest in an Arkansas Smackover or Fayetteville well and tired of the cost calls? We price WI positions against net revenue after expenses.",
+ "heroLead": "A working interest pays more per barrel than a royalty, and it also sends you a bill when the pump needs a workover, which is the tradeoff most owners eventually reconsider.",
+ "intro": [
+  "A working interest carries both the right to a share of production revenue and the obligation to pay a proportionate share of drilling, completion, and ongoing operating costs, which is fundamentally different from a royalty interest that receives revenue free of those costs. Individual owners hold working interests in Arkansas most often through direct participation in a well when it was drilled, through inheriting a WI position from a family member who invested originally, or occasionally through a farmout or assignment from an operator.",
+  "We buy working interest positions in Smackover and Fayetteville wells, pricing them on net revenue after operating expenses rather than gross production, since that's what actually determines what a WI owner nets month to month."
+ ],
+ "sections": [
+  {
+   "heading": "Why Net Revenue Is the Only Number That Matters",
+   "paragraphs": [
+    "Gross production revenue on a working interest tells us little without also knowing the lease operating expenses, workover costs, and any joint interest billing charges that come off before you see a net check. A well with strong gross volumes but high water-handling costs, common on mature Smackover wells that produce significant water alongside oil, can net a working interest owner considerably less than the gross number suggests. We ask for your joint interest billing statements alongside production data specifically so we can price against what you're actually netting, not the top-line figure."
+   ]
+  },
+  {
+   "heading": "The Cost Exposure Most Owners Underestimate",
+   "paragraphs": [
+    "Owning a working interest means you're on the hook for your proportionate share of any workover, recompletion, or plugging costs the operator decides to undertake, and those calls arrive on your own schedule, not one you control. On an older well, a major workover or an eventual plugging and abandonment obligation can be a meaningful unplanned expense relative to the interest's ongoing revenue, and that open-ended cost exposure is the single biggest reason individual WI owners eventually look to exit the position, more than any dissatisfaction with the revenue itself."
+   ]
+  },
+  {
+   "heading": "Pricing a Working Interest on a Declining Well",
+   "paragraphs": [
+    "As a well moves further into decline, operating costs, particularly water handling and any artificial lift maintenance, tend to make up a growing share of gross revenue, compressing net income even before commodity price swings enter the picture. We price working interests with that trend explicitly modeled, since a WI position that nets well today on an older Smackover or Fayetteville well can net considerably less within a few years purely from that cost-to-revenue compression, independent of anything happening with commodity prices."
+   ]
+  },
+  {
+   "heading": "Selling Removes Future Cost Calls, Not only Future Revenue",
+   "paragraphs": [
+    "The clearest benefit of selling a working interest, beyond converting future net revenue into cash today, is exiting the ongoing exposure to operating and workover cost calls entirely. That's a real, tangible relief for owners who've been surprised by a joint interest billing statement before, and it's worth weighing alongside the pure revenue math when deciding whether to hold or sell a WI position."
+   ]
+  },
+  {
+   "heading": "Plugging Liability Is the Cost Most Owners Overlook",
+   "paragraphs": [
+    "Beyond routine operating and workover costs, a working interest owner shares in the eventual plugging and abandonment obligation once a well reaches the end of its economic life, and Arkansas regulations require that work to be done to state standards regardless of how little the well was producing beforehand. That's a real liability sitting at the end of the interest's life, not a hypothetical, and it's one more reason we price working interests conservatively relative to their current net revenue rather than treating them like a royalty stream with no downside exposure attached."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What information do you need to price my working interest?",
+   "answer": "Recent joint interest billing statements showing your net revenue after operating costs, along with your working interest percentage and the well's basic production data. Net figures matter more to pricing than gross production."
+  },
+  {
+   "question": "Am I responsible for future well costs if I keep my working interest?",
+   "answer": "Yes, working interest ownership includes a proportionate obligation to pay for future workovers, recompletions, and eventual plugging costs as they arise, on the operator's timeline rather than yours."
+  },
+  {
+   "question": "Does selling my working interest eliminate my exposure to future costs?",
+   "answer": "Yes, once the sale closes and the interest transfers, you're no longer party to future joint interest billing on that well, including any workover or plugging obligations."
+  },
+  {
+   "question": "Why does a working interest sometimes net less than expected even with steady production?",
+   "answer": "Operating costs, especially water handling on mature wells, can consume a growing share of gross revenue as a well ages, which compresses the net amount a working interest owner actually receives even when gross volumes look stable."
+  },
+  {
+   "question": "Is a working interest worth more than a royalty interest on the same well?",
+   "answer": "It depends heavily on net revenue after costs, not only the larger gross share a working interest typically carries. A high-cost well can leave a WI owner with less net value than a royalty owner receives free of those expenses."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsarkansas-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

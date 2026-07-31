@@ -1,0 +1,2 @@
+.consent-needed{position:relative}.consent-needed__message{display:none}iframe[data-src]+.consent-needed__message{display:block;left:0;padding:5px;position:absolute;text-align:center;top:50%;transform:translateY(-50%);width:100%}iframe[data-src]+.consent-needed__message~*{display:none}.video-click-area{cursor:pointer;z-index:2}.video-click-area:hover{color:#f30000}.video-click-area .youtube-play-button{left:50%;position:absolute;top:50%;transform:translate(-50%,-50%)}
+/*# sourceMappingURL=cookie-consent.ed1593d4.css.map*/

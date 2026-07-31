@@ -1,0 +1,30 @@
+{
+  "domain": "sellmineralrightsarkansas.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsarkansas.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsarkansas.com",
+  "reference": "https://www.kalmarglobal.com/",
+  "refhost": "kalmarglobal-com",
+  "biz": "Sell Mineral Rights Arkansas",
+  "businessName": "Sell Mineral Rights Arkansas",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "ARKANSAS",
+  "city": "Little Rock",
+  "state": "Arkansas",
+  "region": "Little Rock, the Fayetteville Shale, the Smackover Formation, and mineral-owning Arkansas counties statewide",
+  "phone": "501-555-1042",
+  "email": "arkansas@sellmineralrightsarkansas.com",
+  "address": "500 W Markham St, Little Rock, AR 72201",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsarkansas-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsarkansas.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Arkansas Areas", "/locations"],
+    ["Owner Guides", "/resources"],
+    ["About", "/about"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Request an Arkansas Review", "/contact#contact-form"]
+}

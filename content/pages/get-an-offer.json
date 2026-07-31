@@ -1,0 +1,81 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Arkansas Mineral Rights",
+ "metaDescription": "Submit your Arkansas mineral or royalty details and get an offer built from real production and title data, with no cost and no obligation to sell.",
+ "heroLead": "Send us your county and whatever documentation you have, and we'll come back with a number built from actual production and comparable data, not a guess.",
+ "intro": [
+  "This is the fastest way to find out what your Arkansas mineral or royalty interest is actually worth. We're not asking for a commitment, just enough information to start pulling real production and title data specific to your acreage. Whether you have a full file of deeds and statements or just a general sense of what you inherited and where, both are workable starting points.",
+  "The more you can tell us upfront, county, approximate net mineral acres, whether it's currently leased or producing, the faster we can return a specific number rather than a general range."
+ ],
+ "sections": [
+  {
+   "heading": "What to include if you have it",
+   "paragraphs": [
+    "A copy of your deed or the instrument showing how you acquired the interest, a recent royalty statement if the acreage is producing, and any lease documentation help us the most. If you don't have any of these, that's fine. Tell us the county and roughly how you came to own the interest, whether through purchase, inheritance, or a family transfer, and we can often locate the rest through public county and state records.",
+    "If multiple family members co-own the interest, it's helpful to know that upfront too, since it affects how closing gets structured, though it doesn't change whether we can make an offer."
+   ]
+  },
+  {
+   "heading": "What happens after you submit",
+   "paragraphs": [
+    "We pull public production data for any wells tied to your acreage, check recent comparable transactions for your specific county, and review whatever documentation you sent. Within a few days, we'll come back with a specific number and an explanation of how we got there, whether that's a decline-curve estimate off actual production or a comparable-sales range for undeveloped acreage.",
+    "From there, the decision is entirely yours. Take the offer, compare it against anything else you're considering, or simply use it as a data point for your own records. There's no cost and no obligation attached to requesting it."
+   ]
+  },
+  {
+   "heading": "A note on accuracy",
+   "paragraphs": [
+    "Any figure we discuss before reviewing your specifics is necessarily a range, since actual value depends on your decimal interest, the well's current decline stage, and local comparable activity, all of which vary tract by tract. We won't quote a firm number until we've looked at your actual data, because a number that isn't grounded in your specifics isn't useful to either of us."
+   ]
+  },
+  {
+   "heading": "If you're comparing this against another offer",
+   "paragraphs": [
+    "It's common to reach out for an offer while already holding one from another buyer, and that's a perfectly reasonable way to use this process. Send along whatever the other offer specifies, or just describe it generally, and we'll tell you how our number compares and, if you ask, what assumptions ours is built on. A second opinion built from the same underlying production and title data costs you nothing and can only clarify the decision.",
+    "If the two offers land far apart, ask both buyers to explain their math side by side. The gap usually traces back to a specific assumption, discount rate, comparable set, or how recent the underlying production data is, and understanding that gap tells you more than the dollar figures alone."
+   ]
+  },
+  {
+   "heading": "After you accept",
+   "paragraphs": [
+    "Accepting a preliminary number moves you into title review, not straight to signing. We'll explain each step as it happens, including roughly how long it should take given your specific ownership situation, and we'll flag early if anything in the title record needs attention before a deed can be recorded. You'll hear from us with real updates, not silence followed by a closing date out of nowhere."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost to request an offer?",
+   "answer": "No. Reviewing your mineral or royalty interest and providing a valuation is free and doesn't obligate you to sell."
+  },
+  {
+   "question": "What if I don't know exactly how many net mineral acres I own?",
+   "answer": "That's common, and we can often determine it from your deed or county records once we know the general details. An estimate is enough to start the conversation."
+  },
+  {
+   "question": "How quickly will I get a response?",
+   "answer": "Typically within a few business days, depending on how quickly we can locate production and comparable data for your specific county and acreage."
+  },
+  {
+   "question": "Can I get an offer if my minerals aren't currently leased or producing?",
+   "answer": "Yes. Unleased and undeveloped acreage can still be evaluated and purchased, priced against recent comparable transactions rather than production history."
+  },
+  {
+   "question": "Do I need to submit through the form, or can I just call?",
+   "answer": "Either works. The form is convenient if you're attaching documents, but a phone call gets the same underwriting process started and lets you ask questions along the way."
+  },
+  {
+   "question": "What happens if I request an offer and then decide not to sell?",
+   "answer": "Nothing happens. There's no obligation attached to requesting a number, and plenty of owners request one, decide to hold, and reach back out later when circumstances change."
+  }
+ ],
+ "wordCount": 855,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsarkansas-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

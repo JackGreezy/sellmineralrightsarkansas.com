@@ -1,0 +1,9 @@
+{
+  "name": "sellmineralrightsarkansas-com",
+  "version": "1.0.0",
+  "description": "Sell Mineral Rights Arkansas",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

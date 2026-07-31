@@ -1,0 +1,623 @@
+{
+  "notes": "Faithful Kalmar relabel for an Arkansas mineral acquisition desk. The donor's two-tier white header, deep-plum hero carousel, pale-green card systems, lilac and plum split bands, editorial lists, mosaic contact page, equipment-style taxonomy index, wide detail-page hero, content-block article rhythm, and dense three-column footer remain the visual system.",
+  "refhost": "kalmarglobal-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "chrome": {
+    "header": {
+      "selector": "header.header",
+      "tag": "header",
+      "wrap_header": false,
+      "strip_global": [
+        "body > img",
+        "img[width=\"1\"]",
+        "img[height=\"1\"]",
+        "iframe[src*=\"googletagmanager\"]",
+        ".grecaptcha-badge",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "[class*=consent]"
+      ],
+      "strip": [
+        ".header__search",
+        ".header__links",
+        ".language-selector",
+        ".header__breadcrumbs",
+        ".header__mobile-nav__menu > *",
+        ".mega-menu__overlay-vertical",
+        ".mega-menu-level-2",
+        "form",
+        "noscript"
+      ],
+      "logo_slots": [
+        ".header__logo",
+        ".header__mobile-nav__logo"
+      ],
+      "nav_button_selector": ".mega-menu-level-1 > li > button.menu-level-1-link",
+      "nav_link_selector": ".__none__",
+      "dropdown_host_selector": ".mega-menu-level-1 > li:not(:last-child)",
+      "mobile_menu_slot": ".header__mobile-nav__menu",
+      "burger_selector": ".header__mobile-nav__button",
+      "burger_slot": ".header__mobile-nav",
+      "ensure_nav": false,
+      "utility_links": {
+        "selector": "#contact-button-mobile,.mega-menu-level-1 > li:last-child > a.menu-level-1-link",
+        "keep": [
+          ["501-555-1042", "tel:+15015551042"],
+          ["Request an Arkansas Review", "/contact#contact-form"]
+        ]
+      },
+      "floating_contact": {
+        "selector": "#contact-button",
+        "label": "Request Review",
+        "aria_label": "Request an Arkansas mineral review",
+        "href": "/contact#contact-form"
+      },
+      "repair_css": "header.header{position:relative!important;z-index:2147480000!important;display:block!important;width:100%!important;margin-bottom:0!important;overflow:visible!important;background:#fff!important;color:#1c0d26!important;border-bottom:1px solid rgba(40,22,48,.14)!important}header.header .header__navigation{display:block!important;overflow:visible!important;background:#fff!important}header.header .header__top{box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;min-height:82px!important;margin:0 auto!important;gap:24px!important;overflow:visible!important}header.header .header__logo{display:flex!important;align-items:center!important;flex:1 1 auto!important;min-width:260px!important}header.header .rr-wordmark{display:flex!important;flex-direction:column!important;gap:.12rem!important;color:#24102e!important;font-family:inherit!important;font-weight:800!important;line-height:.92!important;letter-spacing:.045em!important;text-decoration:none!important}header.header .rr-wm-1{font-size:.82rem!important}header.header .rr-wm-2{color:#e9003f!important;font-size:1.05rem!important}header.header #contact-button-mobile{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:44px!important;padding:0 18px!important;color:#24102e!important;font-size:.94rem!important;font-weight:800!important;white-space:nowrap!important;text-decoration:none!important;border:1px solid #24102e!important}header.header .mega-menu{display:block!important;position:relative!important;overflow:visible!important;border-top:1px solid rgba(40,22,48,.1)!important}header.header .mega-menu>nav{width:min(1440px,calc(100% - 48px))!important;margin:0 auto!important;overflow:visible!important}header.header .mega-menu-level-1{display:flex!important;align-items:stretch!important;justify-content:flex-end!important;gap:0!important;margin:0!important;padding:0!important;overflow:visible!important;list-style:none!important}header.header .mega-menu-level-1>li{position:relative!important;display:flex!important;align-items:stretch!important;min-width:0!important}header.header .mega-menu-level-1>li>a.menu-level-1-link{display:flex!important;align-items:center!important;min-height:62px!important;padding:0 clamp(.72rem,1.22vw,1.25rem)!important;color:#24102e!important;font-size:clamp(.72rem,.79vw,.88rem)!important;font-weight:750!important;line-height:1.1!important;text-align:center!important;text-decoration:none!important;white-space:nowrap!important}header.header .mega-menu-level-1>li:last-child>a.menu-level-1-link{min-height:46px!important;margin:auto 0 auto .65rem!important;padding:0 1.25rem!important;background:#e9003f!important;color:#fff!important}header.header .header__mobile-nav{display:none!important;box-sizing:border-box!important;align-items:center!important;min-height:76px!important;padding:0 18px!important;background:#fff!important}header.header .header__mobile-nav__logo{display:flex!important;align-items:center!important;flex:1 1 auto!important;min-width:0!important}header.header .header__mobile-nav__button{display:flex!important;align-items:center!important;justify-content:center!important;flex:0 0 48px!important;width:48px!important;height:48px!important;margin-left:auto!important}.rr-dropdown-host::before{height:18px!important}@media(max-width:1180px){header.header .header__top,header.header .mega-menu>nav{width:calc(100% - 32px)!important}header.header .mega-menu-level-1>li>a.menu-level-1-link{padding:0 .72rem!important;font-size:.7rem!important}header.header .mega-menu-level-1>li:last-child>a.menu-level-1-link{padding:0 .9rem!important}}@media(max-width:980px){header.header .header__navigation{display:none!important}header.header .header__mobile-nav{display:flex!important}header.header .header__mobile-nav__button.rr-burger{display:flex!important}}"
+    },
+    "footer": {
+      "selector": "footer.footer",
+      "tag": "footer",
+      "strip": [
+        ".footer__subscribe-link",
+        ".footer__links--social",
+        ".follow-us-label",
+        ".html-content p:nth-of-type(n+2)",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "script",
+        "noscript",
+        "iframe",
+        "address"
+      ],
+      "columns": [
+        {
+          "heading": "Arkansas Owner Desk",
+          "links": [
+            ["Call 501-555-1042", "tel:+15015551042"],
+            ["arkansas@sellmineralrightsarkansas.com", "mailto:arkansas@sellmineralrightsarkansas.com"],
+            ["Request an Arkansas Review", "/contact#contact-form"],
+            ["About the Acquisition Desk", "/about"]
+          ]
+        },
+        {
+          "heading": "Review the Interest",
+          "links": [
+            ["Owner Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Fayetteville Shale", "/basins/fayetteville-shale"],
+            ["Smackover Formation", "/basins/smackover-formation"],
+            ["Arkansas Owner Guides", "/resources"]
+          ]
+        },
+        {
+          "heading": "Arkansas Coverage",
+          "links": [
+            ["All Arkansas Areas", "/locations"],
+            ["Union County", "/locations/union-county"],
+            ["Faulkner County", "/locations/faulkner-county"],
+            ["White County", "/locations/white-county"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": ".row > .col-md-4",
+      "replace_column_siblings": true,
+      "column_heading_selector": ".html-content p:first-of-type",
+      "drop_link_pattern": "LinkedIn|Facebook|Twitter|Youtube|Instagram|Tik Tok|Cookie|CCPA|EU Data|Subscribe|Sitemap",
+      "tagline_pattern": "Kalmar Corporation|All rights reserved|Street address|Head Office",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": "footer.footer{display:block!important;position:relative!important;overflow:hidden!important;background:#23102e!important;color:#fff!important}footer.footer>.p-inline-4{box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,7vw,7rem) 0 2rem!important}footer.footer .row{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(2rem,5vw,6rem)!important;margin:0!important}footer.footer .row>.col-md-4{display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:.75rem!important;width:auto!important;max-width:none!important;padding:0!important}footer.footer .html-content{display:block!important;width:100%!important}footer.footer .html-content p:first-child{margin:0 0 1rem!important;color:#cbb8d5!important;font-size:.78rem!important;font-weight:800!important;letter-spacing:.12em!important;text-transform:uppercase!important}footer.footer .row>.col-md-4>a{display:block!important;color:#fff!important;font-size:.92rem!important;line-height:1.35!important;text-decoration:none!important}footer.footer .row>.col-md-4>a:hover{text-decoration:underline!important}footer.footer .footer__back-to-top{right:clamp(18px,4vw,60px)!important}footer.footer .rr-footer-ia{display:flex!important;grid-column:1/-1!important;flex-wrap:wrap!important;gap:12px 24px!important;margin-top:2.5rem!important;padding-top:1.5rem!important;border-top:1px solid rgba(255,255,255,.22)!important}footer.footer .rr-footer-ia a{color:#fff!important;font-size:.8rem!important;text-decoration:none!important}footer.footer .rr-footer-map{display:block!important;width:100%!important;min-height:360px!important;margin-top:3rem!important;border:0!important}footer.footer img,footer.footer picture,footer.footer svg,footer.footer video,footer.footer source,footer.footer canvas{display:none!important}@media(max-width:800px){footer.footer>.p-inline-4{width:calc(100% - 32px)!important}footer.footer .row{grid-template-columns:1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "\\bKalmar\\b",
+      "kalmarglobal\\.com",
+      "Kalmar Corporation",
+      "Making every move count"
+    ],
+    "content": [
+      "Forklift Trucks",
+      "Electric Forklifts",
+      "Terminal Tractor",
+      "Reachstacker",
+      "Container Handler",
+      "Straddle Carrier",
+      "material handling",
+      "Ottawa T2",
+      "APM Terminals",
+      "Portonave",
+      "WTC Group",
+      "CTAC Asia",
+      "Breakbulk Americas",
+      "TOC Americas",
+      "Helsinki",
+      "Finland",
+      "Q2 half-year financial report"
+    ],
+    "strip_selectors": [
+      "body > img",
+      "img[width=\"1\"]",
+      "img[height=\"1\"]",
+      "iframe[src*=\"googletagmanager\"]",
+      ".grecaptcha-badge",
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      "#onetrust-consent-sdk",
+      "[id^=onetrust]",
+      "#ld-chat-app",
+      "[class^=ld-tag-]",
+      "body > div[style*=\"z-index: 2000000000\"]",
+      "body > iframe[style*=\"display: none\"]",
+      "body > iframe[style*=\"top: -50000px\"]",
+      "noscript"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "recaptcha",
+      "EpiServer",
+      "Episerver"
+    ],
+    "social_pattern": "facebook\\.com|instagram\\.com|linkedin\\.com|twitter\\.com|x\\.com|youtube\\.com|tiktok\\.com"
+  },
+  "buttons": {
+    "class": "btn btn--primary"
+  },
+  "forms": {
+    "wrap_class": "modal-body",
+    "form_class": "EPiServerForms ValidationSuccess",
+    "input_class": "FormTextbox__Input",
+    "group_class": "Form__Element FormTextbox"
+  },
+  "pages": {
+    "legal_template": "slug",
+    "home": {
+      "signature": [
+        ".hero-carousel",
+        ".three-card-block",
+        ".fifty-fifty",
+        ".latest-news-block",
+        ".events-block",
+        ".latest-insights-block"
+      ],
+      "semantic_title_selector": "#heroCarousel .carousel-item:first-child .hero-carousel__title",
+      "strip": [
+        ".modal",
+        ".bubbles-block",
+        ".latest-insights-block__tags",
+        ".view-filters",
+        "[class*=cookie]",
+        "[id*=cookie]"
+      ],
+      "sections": [
+        {
+          "selector": "#heroCarousel .carousel-item",
+          "action": "hero-all",
+          "canonical_h1": true,
+          "fields": {
+            "heading": ".hero-carousel__title",
+            "body": ".hero-carousel__ingress",
+            "cta": ".hero-carousel__button",
+            "image": ".media-container img"
+          },
+          "media_slides": "#heroCarousel .carousel-item",
+          "ensure_media": {
+            "parent": ".hero-carousel__slide",
+            "wrapper_class": "media-container",
+            "add_parent_class": "hero-carousel__slide--overlay"
+          },
+          "media_images": [
+            "/ours/pages/mineral-rights-pages-home-sellmineralrightsarkansas-com.jpg",
+            "/ours/basins/mineral-rights-basins-fayetteville-shale-sellmineralrightsarkansas-com.jpg",
+            "/ours/basins/mineral-rights-basins-smackover-formation-sellmineralrightsarkansas-com.jpg",
+            "/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsarkansas-com.jpg",
+            "/ours/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsarkansas-com.jpg",
+            "/ours/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsarkansas-com.jpg",
+            "/ours/pages/mineral-rights-pages-how-it-works-sellmineralrightsarkansas-com.jpg"
+          ]
+        },
+        {
+          "selector": ".three-card-block",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 3,
+          "heading": "h2",
+          "card": ".three-card-block__content > *",
+          "clear_selector": ".three-card-block__content > *",
+          "card_fields": {
+            "title": ".card-body h3",
+            "sub": ".card-body > div",
+            "more": ".card-footer .btn",
+            "image": ".card-img-top img",
+            "_link_card": true,
+            "summary_chars": 190
+          },
+          "kill_in_card": ["svg"],
+          "view_all": ["All Owner Situations", "/situations"],
+          "view_all_selector": ":scope > div:first-child .btn"
+        },
+        {
+          "selector": ".fifty-fifty--lilac",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "copy": "home_interests_title"},
+            {"sel": "p", "copy": "home_interests_body"},
+            {"sel": ".btn", "text": "Compare Interest Types", "href": "/interest-types"},
+            {"sel": "img", "img": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas mineral and royalty interest review"}
+          ]
+        },
+        {
+          "selector": ".fifty-fifty--dark-purple",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "copy": "home_basins_title"},
+            {"sel": "p", "copy": "home_basins_body"},
+            {"sel": ".btn", "text": "Compare Arkansas Basins", "href": "/basins"},
+            {"sel": "img", "img": "/ours/basins/mineral-rights-basins-fayetteville-shale-sellmineralrightsarkansas-com.jpg", "alt": "Fayetteville Shale and Smackover Formation review"}
+          ]
+        },
+        {
+          "action": "clone-band",
+          "clone_of": ".fifty-fifty--dark-purple",
+          "insert_after": ".fifty-fifty--dark-purple",
+          "inner": "relabel",
+          "source": "exchange-1031",
+          "ops": [
+            {"sel": "h2", "copy": "home_exchange_title"},
+            {"sel": "p", "copy": "home_exchange"},
+            {"sel": ".btn", "text": "Review 1031 Exchange Guides", "href": "/exchange-1031"},
+            {"sel": "img", "img": "/ours/exchange-1031/mineral-rights-exchange-1031-1031-exchange-into-mineral-rights-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas mineral sale and 1031 exchange timing"}
+          ]
+        },
+        {
+          "selector": ".fifty-fifty--isabelline",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "copy": "about_title"},
+            {"sel": "p", "copy": "about_story_body"},
+            {"sel": ".btn", "text": "About the Arkansas Desk", "href": "/about"},
+            {"sel": "img", "img": "/ours/pages/mineral-rights-pages-about-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas mineral acquisition review desk"}
+          ]
+        },
+        {
+          "selector": ".latest-news-block",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 3,
+          "heading": "h2",
+          "card": ".latest-news-block__item",
+          "clear_selector": ".latest-news-block__item",
+          "card_fields": {
+            "title": ".latest-news-block__title",
+            "category": ".latest-news-block__category-date span",
+            "_link_card": true
+          },
+          "view_all": ["All Arkansas Owner Guides", "/resources"],
+          "view_all_selector": ":scope > div:first-child .btn"
+        },
+        {
+          "selector": ".events-block",
+          "action": "card-grid",
+          "source": "locations",
+          "limit": 3,
+          "heading": "h2",
+          "card": ".events-block__list > li",
+          "clear_selector": ".events-block__list > li",
+          "card_fields": {
+            "title": "h3",
+            "category": ".events-block__category-date span",
+            "more": ".events-block__button",
+            "_link_card": true
+          },
+          "kill_in_card": ["svg"],
+          "view_all": ["All Arkansas Areas", "/locations"],
+          "view_all_selector": ":scope > div:first-child .btn"
+        },
+        {
+          "selector": ".latest-insights-block",
+          "action": "card-grid",
+          "source": "investing",
+          "limit": 3,
+          "heading": "h2",
+          "card": ".latest-insights-block__list > .col-12",
+          "clear_selector": ".latest-insights-block__list > .col-12",
+          "card_fields": {
+            "title": ".card-body h3",
+            "category": ".latest-insights-block__category-date span",
+            "more": ".card-footer .btn",
+            "image": ".card-img-top img",
+            "_link_card": true
+          },
+          "kill_in_card": ["svg"],
+          "view_all": ["All Mineral Investing Guides", "/investing"],
+          "view_all_selector": ":scope > div:first-child .btn"
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "#heroCarousel",
+          "type": "bootstrap",
+          "slides": ".carousel-item",
+          "prev": ".carousel-control-prev",
+          "next": ".carousel-control-next",
+          "visible": 1,
+          "start": 0
+        }
+      ],
+      "repair_css": "#heroCarousel .carousel-item:first-child .hero-carousel__content{padding-top:clamp(3.75rem,6vw,5rem)!important}@media(max-width:767.98px){#heroCarousel .hero-carousel__slide .media-container{flex:0 0 190px!important;height:190px!important;min-height:190px!important}#heroCarousel .hero-carousel__content{padding-top:1.25rem!important;padding-bottom:1.25rem!important}}"
+    },
+    "index": {
+      "signature": [
+        ".hero-carousel",
+        ".row.mb-4.g-4",
+        ".card"
+      ],
+      "hero_heading": ".hero-carousel__title",
+      "hero_meta": ".hero-carousel__ingress",
+      "hero_image": ".hero-carousel .media-container img",
+      "hero_bg": ".hero-carousel__slide",
+      "hero_gradient": "linear-gradient(90deg,rgba(44,17,45,.88),rgba(44,17,45,.42))",
+      "semantic_title_selector": ".hero-carousel__title",
+      "strip": [
+        ".page-menu",
+        ".modal",
+        ".content-grid > div.mb-4 > .row.mb-4.g-4:last-child"
+      ],
+      "strip_after_first": [
+        ".content-grid > div.mb-4 > .row.mb-4.g-4"
+      ],
+      "grid": ".content-grid > div.mb-4 > .row.mb-4.g-4",
+      "card": ":scope > .col-sm",
+      "clear_selector": ":scope > .col-sm",
+      "card_fields": {
+        "title": ".card-body h3",
+        "sub": ".card-body > div",
+        "image": ".card-img-top img",
+        "_link_card": true,
+        "summary_chars": 175
+      },
+      "repair_css": "body[data-rr-page='internal'] .content-grid>div.mb-4>.row.mb-4.g-4{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr))!important;gap:clamp(1.25rem,2.4vw,2rem)!important;margin-inline:0!important}body[data-rr-page='internal'] .content-grid>div.mb-4>.row.mb-4.g-4>.col-sm{display:block!important;width:auto!important;max-width:none!important;min-width:0!important;flex:none!important;padding:0!important}body[data-rr-page='internal'] .content-grid>div.mb-4>.row.mb-4.g-4>.col-sm>.card{height:100%!important}body[data-rr-page='internal'] .content-grid>div.mb-4>.row.mb-4.g-4 .card-body h3{word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important}body[data-rr-page='internal'] .hero-carousel .carousel-item:first-child .hero-carousel__content{padding-top:clamp(3.75rem,6vw,5rem)!important}@media(max-width:767.98px){body[data-rr-page='internal'] .hero-carousel .hero-carousel__slide .media-container{flex:0 0 190px!important;height:190px!important;min-height:190px!important}body[data-rr-page='internal'] .hero-carousel .hero-carousel__content{padding-top:1.25rem!important;padding-bottom:1.25rem!important}}"
+    },
+    "slug": {
+      "signature": [
+        ".hero-carousel",
+        ".content-block",
+        ".tinymce"
+      ],
+      "title": ".hero-carousel__title",
+      "semantic_title_selector": ".hero-carousel__title",
+      "hero_meta": ".hero-carousel__ingress",
+      "hero_meta_full": true,
+      "hero_cta": ".hero-carousel__button",
+      "hero_image": ".hero-carousel .media-container img",
+      "not_found_slot": ".content-block.mb-3 .tinymce",
+      "prose": ".content-block.mb-3",
+      "prose_block": ".content-block.mb-3 .tinymce",
+      "prose_block_heading": ".__none__",
+      "prose_block_body": ".__none__",
+      "skip_related_in_prose": true,
+      "skip_detail_cta_in_prose": true,
+      "demote_extra_title_h1": true,
+      "strip": [
+        ".page-menu",
+        ".modal",
+        "#content-focus",
+        ".highlight-block",
+        "div.full-page.content-grid",
+        ".services-offering",
+        ".iframe-youtubevideo-form",
+        ".iframe-qbankvideo-form",
+        ".content-block.mb-3 > h2",
+        ".content-block.mb-3 > p.ingress"
+      ],
+      "repair_css": "body[data-rr-page='internal']>.content-grid>.content-block.mb-3{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;max-width:none!important;margin:clamp(3rem,6vw,6rem) auto!important}body[data-rr-page='internal']>.content-grid>.content-block.mb-3>.tinymce{display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:clamp(2rem,4vw,4rem) 0!important;border-bottom:1px solid rgba(35,16,46,.14)!important}body[data-rr-page='internal']>.content-grid>.content-block.mb-3>.tinymce h2{max-width:22ch!important;margin:0 0 1.25rem!important;font-size:clamp(2rem,4vw,4rem)!important;line-height:1.02!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page='internal']>.content-grid>.content-block.mb-3>.tinymce h3{margin-top:2rem!important;font-size:clamp(1.25rem,2vw,1.8rem)!important;line-height:1.2!important;word-break:normal!important;overflow-wrap:normal!important}body[data-rr-page='internal']>.content-grid>.content-block.mb-3>.tinymce p,body[data-rr-page='internal']>.content-grid>.content-block.mb-3>.tinymce li{max-width:78ch!important;font-size:1.05rem!important;line-height:1.75!important;word-break:normal!important;overflow-wrap:normal!important}@media(max-width:700px){body[data-rr-page='internal']>.content-grid>.content-block.mb-3{width:calc(100% - 32px)!important}}"
+    },
+    "about": {
+      "signature": [
+        ".hero-carousel",
+        ".tinymce.mb-4",
+        ".three-card-block",
+        ".fifty-fifty"
+      ],
+      "semantic_title_selector": ".hero-carousel .carousel-item:first-child .hero-carousel__title",
+      "strip": [
+        ".page-menu",
+        ".modal",
+        ".tinymce.mb-4 > p:not(.fs-5)",
+        ".tinymce.mb-4 > p:has(img)"
+      ],
+      "sections": [
+        {
+          "selector": ".hero-carousel .carousel-item",
+          "action": "hero-all",
+          "canonical_h1": true,
+          "fields": {
+            "heading": ".hero-carousel__title",
+            "body": ".hero-carousel__ingress",
+            "cta": ".hero-carousel__button",
+            "image": ".media-container img"
+          },
+          "media_slides": ".hero-carousel .carousel-item",
+          "ensure_media": {
+            "parent": ".hero-carousel__slide",
+            "wrapper_class": "media-container",
+            "add_parent_class": "hero-carousel__slide--overlay"
+          },
+          "media_images": [
+            "/ours/pages/mineral-rights-pages-about-sellmineralrightsarkansas-com.jpg",
+            "/ours/basins/mineral-rights-basins-fayetteville-shale-sellmineralrightsarkansas-com.jpg"
+          ]
+        },
+        {
+          "selector": ".tinymce.mb-4",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope > h3", "nth": 0, "copy": "about_story_title"},
+            {"sel": ":scope > h3", "nth": 1, "copy": "about_scope_title"},
+            {"sel": ":scope > h3", "nth": 2, "copy": "about_terms_title"},
+            {"sel": ":scope > h3", "nth": 3, "copy": "about_roles_title"},
+            {"sel": ":scope > h3", "nth": 4, "copy": "about_close_title"},
+            {"sel": ":scope > p.fs-5", "nth": 0, "copy": "about_story_body"},
+            {"sel": ":scope > p.fs-5", "nth": 1, "copy": "about_scope_body"},
+            {"sel": ":scope > p.fs-5", "nth": 2, "copy": "about_terms_body"},
+            {"sel": ":scope > p.fs-5", "nth": 3, "copy": "about_roles_body"},
+            {"sel": ":scope > p.fs-5", "nth": 4, "copy": "about_close_body"},
+            {"sel": ":scope > p.fs-5", "nth": 5, "copy": "about_evidence_body"},
+            {"sel": ":scope > p.fs-5", "nth": 6, "copy": "about_close_body"}
+          ]
+        },
+        {
+          "selector": ".tinymce.mb-4 .three-card-block",
+          "action": "card-grid",
+          "source": "interest-types",
+          "limit": 3,
+          "heading": "h2",
+          "card": ".three-card-block__content > *",
+          "clear_selector": ".three-card-block__content > *",
+          "card_fields": {
+            "title": ".card-body h3",
+            "sub": ".card-body > div",
+            "more": ".card-footer .btn",
+            "image": ".card-img-top img",
+            "_link_card": true,
+            "summary_chars": 175
+          },
+          "kill_in_card": ["svg"],
+          "view_all": ["All Interest Types", "/interest-types"],
+          "view_all_selector": ":scope > div:first-child .btn"
+        },
+        {
+          "selector": ".tinymce.mb-4 .fifty-fifty",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "copy": "about_evidence_title"},
+            {"sel": "p", "copy": "about_evidence_body"},
+            {"sel": ".btn", "text": "Request an Arkansas Review", "href": "/contact#contact-form"},
+            {"sel": "img", "img": "/ours/basins/mineral-rights-basins-smackover-formation-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas Smackover formation mineral record"}
+          ]
+        },
+        {
+          "selector": ".tinymce.mb-4 > .block-spacing:last-of-type",
+          "action": "relabel",
+          "ops": [
+            {"sel": "a", "fill_list": "resources", "href_prefix": "/resources", "limit": 5}
+          ]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".hero-carousel",
+          "type": "bootstrap",
+          "slides": ".carousel-item",
+          "prev": ".carousel-control-prev",
+          "next": ".carousel-control-next",
+          "visible": 1,
+          "start": 0
+        }
+      ],
+      "repair_css": ".hero-carousel .carousel-item:first-child .hero-carousel__content{padding-top:clamp(3.75rem,6vw,5rem)!important}@media(max-width:767.98px){.hero-carousel .hero-carousel__slide .media-container{flex:0 0 190px!important;height:190px!important;min-height:190px!important}.hero-carousel .hero-carousel__content{padding-top:1.25rem!important;padding-bottom:1.25rem!important}}"
+    },
+    "contact": {
+      "signature": [
+        ".contact-page",
+        ".contact-mosaic-block__container",
+        ".tile-block"
+      ],
+      "semantic_title_selector": ".contact-mosaic-block__container:first-child h4",
+      "strip": [
+        ".modal",
+        ".page-menu"
+      ],
+      "form_slot": ".contact-mosaic-block__container:last-child .tile-block__content",
+      "sections": [
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 0,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h4", "copy": "contact_title"},
+            {"sel": "a.tile-block", "href": "/contact#contact-form"},
+            {"sel": "img", "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightsarkansas-com.jpg", "alt": "Request an Arkansas mineral review"}
+          ]
+        },
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h4", "text": "Call 501-555-1042"},
+            {"sel": "a.tile-block", "href": "tel:+15015551042"},
+            {"sel": "img", "img": "/ours/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsarkansas-com.jpg", "alt": "Speak with the Arkansas acquisition desk"}
+          ]
+        },
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 2,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h4", "text": "Owner Situations"},
+            {"sel": "a.tile-block", "href": "/situations"},
+            {"sel": "img", "img": "/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas mineral owner situations"}
+          ]
+        },
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 3,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h4", "text": "Arkansas Owner Guides"},
+            {"sel": "a.tile-block", "href": "/resources"},
+            {"sel": "img", "img": "/ours/resources/mineral-rights-resources-documents-checklist-sellmineralrightsarkansas-com.jpg", "alt": "Arkansas mineral owner document guides"}
+          ]
+        },
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 4,
+          "action": "relabel",
+          "ops": [
+            {"sel": "h4", "text": "Arkansas Areas"},
+            {"sel": ".tile-block__content__text > div", "copy": "home_locations_body"},
+            {"sel": "a.tile-block", "href": "/locations"},
+            {"sel": "img", "img": "/ours/locations/sell-mineral-rights-union-county-ar.jpg", "alt": "Arkansas mineral rights coverage"}
+          ]
+        },
+        {
+          "selector": ".contact-mosaic-block__container",
+          "nth": 5,
+          "action": "relabel",
+          "ops": [
+            {"sel": "a.tile-block", "tag": "div", "attr": {"href": null, "id": "contact-panel"}},
+            {"sel": "h4", "copy": "contact_form_title"},
+            {"sel": ".tile-block__content__text > div", "copy": "contact_form_body"}
+          ]
+        }
+      ],
+      "repair_css": ".contact-page{padding-top:clamp(2rem,5vw,5rem)!important;padding-bottom:clamp(3rem,7vw,7rem)!important}.contact-page .contact-mosaic-block__container:nth-child(2) .tile-block{display:flex!important;align-items:center!important;justify-content:center!important;min-height:100%!important;padding:clamp(2rem,5vw,4rem)!important;background:#2c112d!important;color:#fff!important;font-size:clamp(1.8rem,4vw,3.8rem)!important;font-weight:600!important;line-height:1.04!important;text-align:center!important}.contact-page #contact-panel{display:block!important;box-sizing:border-box!important;width:100%!important;margin:0!important;padding:0!important;cursor:default!important;background:#eef3ea!important}.contact-page #contact-panel .tile-block__content{display:grid!important;grid-template-columns:minmax(230px,.72fr) minmax(0,1.28fr)!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;padding:clamp(2rem,5vw,4rem)!important;gap:clamp(2rem,5vw,4rem)!important;align-items:start!important}.contact-page #contact-panel .tile-block__content__text{grid-column:1!important;width:auto!important;max-width:none!important}.contact-page #contact-panel .button-wrapper{display:none!important}.contact-page #contact-panel .modal-body{grid-column:2!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important}.contact-page #contact-panel .rr-contact-map{width:100%!important;height:18rem!important;margin:0 0 1.5rem!important;transform:none!important}.contact-page #contact-panel form#contact-form{position:relative!important;left:auto!important;display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:clamp(1.25rem,3vw,2rem)!important;gap:1rem!important;background:#fff!important;transform:none!important}.contact-page #contact-panel form#contact-form .rr-contact-field{margin:0!important}.contact-page #contact-panel form#contact-form .rr-contact-field:nth-child(3),.contact-page #contact-panel form#contact-form .rr-contact-field:nth-child(4),.contact-page #contact-panel form#contact-form button[type='submit']{grid-column:1/-1!important}.contact-page #contact-panel form#contact-form input,.contact-page #contact-panel form#contact-form textarea{box-sizing:border-box!important;width:100%!important;min-width:0!important}.contact-page #contact-panel form#contact-form button[type='submit']{justify-self:start!important;background:#e9003f!important;color:#fff!important;border-color:#e9003f!important}@media(max-width:760px){.contact-page #contact-panel .tile-block__content{grid-template-columns:1fr!important;padding:1.5rem!important}.contact-page #contact-panel .tile-block__content__text,.contact-page #contact-panel .modal-body{grid-column:1!important}.contact-page #contact-panel form#contact-form{grid-template-columns:1fr!important}.contact-page #contact-panel form#contact-form .rr-contact-field,.contact-page #contact-panel form#contact-form button[type='submit']{grid-column:1!important}.contact-page #contact-panel .rr-contact-map{height:16rem!important}}"
+    },
+    "404": {
+      "repair_css": ".hero-carousel .hero-carousel__content{padding-top:clamp(4.75rem,7vw,6.5rem)!important;padding-bottom:clamp(2.5rem,5vw,4rem)!important;transform:translateY(34px)!important}.content-block.mb-3{box-sizing:border-box!important;width:min(980px,calc(100% - 48px))!important;margin:clamp(3rem,6vw,6rem) auto!important}.content-block.mb-3>.tinymce{box-sizing:border-box!important;padding:clamp(2rem,4vw,3.5rem)!important;background:#eef3ea!important;border-left:6px solid #e9003f!important}.content-block.mb-3>.tinymce ul{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:.7rem 2rem!important;margin:0 0 2rem!important;padding-left:1.2rem!important}.content-block.mb-3>.tinymce li::marker{color:#e9003f!important}.content-block.mb-3>.tinymce a:not(.btn){color:#341335!important;font-weight:700!important}.content-block.mb-3>.tinymce>.btn{display:inline-flex!important;margin-top:.5rem!important}@media(max-width:700px){.hero-carousel .hero-carousel__content{padding-top:2rem!important;padding-bottom:2rem!important;transform:none!important}.content-block.mb-3{width:calc(100% - 32px)!important}.content-block.mb-3>.tinymce ul{grid-template-columns:1fr!important}}"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports["latest-news-block-script"]=t():(e.KLMR=e.KLMR||{},e.KLMR["latest-news-block-script"]=t())}(self,(()=>({})));
+//# sourceMappingURL=latest-news-block-script.0dc90a8c.js.map
