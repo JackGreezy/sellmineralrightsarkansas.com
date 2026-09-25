@@ -1,231 +1,342 @@
 {
-  "business_subject": "the Arkansas acquisition desk",
-  "_": "This voice belongs only to sellmineralrightsarkansas.com. It is an Arkansas mineral acquisition desk built around county records, Fayetteville decline evidence, Smackover formation and brine scope, paid decimals, lease burdens, title fractions, written offer assumptions, and the exact interest described in the conveyance.",
-  "identity": {
-    "name": "Arkansas mineral record and acquisition desk",
-    "domain_lock": "sellmineralrightsarkansas.com",
-    "reusable": false,
-    "cadence": "locate the tract, identify the estate, read the lease, reconcile the decimal, separate Fayetteville production from Smackover optionality, write the offer assumptions, match the conveyance",
-    "lexicon": [
-      "Arkansas county record",
-      "Fayetteville decline curve",
-      "Smackover formation scope",
-      "brine and mineral language",
-      "paid decimal",
-      "lease burden",
-      "owner fraction",
-      "written offer schedule",
-      "retained-interest clause",
-      "recorded mineral deed"
-    ],
-    "avoid": [
-      "first-person business narration",
-      "generic national-buyer copy",
-      "instant cash",
-      "highest offer",
-      "guaranteed drilling",
-      "guaranteed lithium value",
-      "fabricated testimonials",
-      "reusable voice pack"
-    ]
-  },
-  "scrub": [
-    ["\\bI['’]m\\b", "Sell Mineral Rights Arkansas is"],
-    ["\\bI['’]ve\\b", "Sell Mineral Rights Arkansas has"],
-    ["\\bI['’]ll\\b", "Sell Mineral Rights Arkansas will"],
-    ["\\bI['’]d\\b", "Sell Mineral Rights Arkansas would"],
-    ["\\bmyself\\b", "the owner directly"],
-    ["\\bmy\\b", "the owner's"],
-    ["\\bme\\b", "the owner"],
-    ["\\bI\\b", "the owner"],
-    ["\\bwe['’]ve\\b", "the Arkansas acquisition desk has"],
-    ["\\bwe['’]re\\b", "the Arkansas acquisition desk is"],
-    ["\\bwe['’]ll\\b", "the Arkansas acquisition desk will"],
-    ["\\bwe['’]d\\b", "the Arkansas acquisition desk would"],
-    ["\\bourselves\\b", "the Arkansas acquisition desk"],
-    ["\\bours\\b", "the interest under review"],
-    ["\\bour\\b", "the Arkansas acquisition desk's"],
-    ["\\bus\\b", "the Arkansas acquisition desk"],
-    ["\\bwe\\b", "the Arkansas acquisition desk"]
+ "business_subject": "the Arkansas acquisition desk",
+ "_": "This voice belongs only to sellmineralrightsarkansas.com. It is an Arkansas mineral acquisition desk built around county records, Fayetteville decline evidence, Smackover formation and brine scope, paid decimals, lease burdens, title fractions, written offer assumptions, and the exact interest described in the conveyance.",
+ "identity": {
+  "name": "Arkansas mineral record and acquisition desk",
+  "domain_lock": "sellmineralrightsarkansas.com",
+  "reusable": false,
+  "cadence": "locate the tract, identify the estate, read the lease, reconcile the decimal, separate Fayetteville production from Smackover optionality, write the offer assumptions, match the conveyance",
+  "lexicon": [
+   "Arkansas county record",
+   "Fayetteville decline curve",
+   "Smackover formation scope",
+   "brine and mineral language",
+   "paid decimal",
+   "lease burden",
+   "owner fraction",
+   "written offer schedule",
+   "retained-interest clause",
+   "recorded mineral deed"
   ],
-  "question_scrub": [
-    ["\\bHow do Sell Mineral Rights Arkansas\\b", "How do you"],
-    ["\\bDoes Sell Mineral Rights Arkansas\\b", "Do you"],
-    ["\\bCan Sell Mineral Rights Arkansas\\b", "Can you"],
-    ["\\bWhat if Sell Mineral Rights Arkansas\\b", "What if you"],
-    ["\\bIs Sell Mineral Rights Arkansas\\b", "Are you"],
-    ["\\bWill Sell Mineral Rights Arkansas\\b", "Will you"],
-    ["\\bShould Sell Mineral Rights Arkansas\\b", "Should you"],
-    ["\\bthe Arkansas acquisition desk['’]s\\b", "your"],
-    ["\\bthe Arkansas acquisition desk\\b", "you"],
-    ["\\bthe owner['’]s\\b", "your"],
-    ["\\bthe owner\\b", "you"],
-    ["\\bSell Mineral Rights Arkansas\\b", "you"]
-  ],
-  "heroes": [
-    [
-      "Sell Mineral Rights in Arkansas",
-      "Connect the Arkansas county record, legal description, estate type, lease terms, owner fraction, paid decimal, production history, written offer, and proposed conveyance before deciding."
-    ],
-    [
-      "Price Fayetteville Shale Rights From the Decline Record",
-      "Producing Fayetteville interests require a well-by-well view of volumes, decline, realized pricing, deductions, operator concentration, downtime, and the decimal actually paid."
-    ],
-    [
-      "Define Smackover Mineral and Brine Scope in Writing",
-      "Smackover lithium activity can add market context, but the deed, reservation language, lease, brine rights, depth limits, acreage, and ownership chain control what can be evaluated or conveyed."
-    ],
-    [
-      "Resolve the Arkansas Owner Fraction Before Closing",
-      "Probate orders, affidavits, family deeds, trusts, reservations, and division orders should point to the same tract and fraction before final deed language is approved."
-    ],
-    [
-      "Compare the Written Offer, Not Only the Headline Number",
-      "Property scope, effective date, products, formations, depths, deductions, retained rights, title conditions, payment timing, and closing costs can change the economic result."
-    ],
-    [
-      "Separate Producing Cash Flow From Undeveloped Optionality",
-      "Existing Fayetteville income and prospective Smackover value belong on different evidence lines so current checks are not confused with uncertain future development."
-    ],
-    [
-      "Carry One Arkansas Record From Review Through Recording",
-      "The tract schedule, purchase agreement, mineral deed, retained-interest clause, settlement statement, funding confirmation, and county recording should describe the same asset."
-    ]
-  ],
-  "copy": {
-    "home_eyebrow": "ARKANSAS MINERAL ACQUISITION DESK",
-    "home_title": "Sell Mineral Rights in Arkansas",
-    "home_meta": "Review Arkansas mineral rights through the county record, legal description, estate type, lease terms, paid decimal, production evidence, written offer, and conveyance scope.",
-    "home_intro_title": "Start With the Arkansas Owner Situation",
-    "home_intro": "Inheritance, probate, a small undivided fraction, a producing Fayetteville check, a Smackover inquiry, or an unsolicited offer changes which records, valuation assumptions, and closing conditions matter first.",
-    "home_situations_title": "Start With the Arkansas Owner Situation",
-    "home_situations_body": "Inheritance, probate, a split family interest, an unsolicited offer, a producing check, or leased-but-undrilled acreage determines which record needs attention first.",
-    "home_interests_title": "Name the Arkansas Estate Before Pricing It",
-    "home_interests_body": "Minerals, royalties, non-participating royalties, overrides, working interests, surface ownership, brine language, formation limits, and depth limits can carry different rights and conveyance requirements.",
-    "home_basins_title": "Read Fayetteville Production and Smackover Scope Separately",
-    "home_basins": "The Fayetteville file emphasizes producing wells, decline, price, deductions, downtime, and paid decimals. The Smackover file begins with deed language, formation and brine scope, acreage, title, leases, and verifiable development evidence.",
-    "home_basins_body": "The Fayetteville file emphasizes producing wells, decline, price, deductions, downtime, and paid decimals. The Smackover file begins with deed language, formation and brine scope, acreage, title, leases, and verifiable development evidence.",
-    "home_resources_title": "Build the Arkansas Owner File",
-    "home_resources_body": "Deeds, probate papers, leases, unit records, division orders, statements, written offers, title requirements, and proposed conveyances answer different parts of the decision.",
-    "home_locations_title": "Arkansas Coverage by County and Tract",
-    "home_locations_body": "The review follows documented mineral and royalty interests across the Fayetteville fairway, the Smackover trend, and mineral-owning Arkansas counties statewide.",
-    "home_investing_title": "Separate Current Income From Future Optionality",
-    "home_investing": "Production, decline, products, realized prices, deductions, title expense, operator concentration, lease burdens, undeveloped acreage, development timing, and resale liquidity belong on separate underwriting lines.",
-    "home_exchange_title": "Keep Exchange Timing Separate From Arkansas Title Work",
-    "home_exchange": "A qualified intermediary and independent tax counsel should assess potential exchange treatment before closing or receipt of proceeds while Arkansas title and recording work follows its own dated checklist.",
-    "hero_cta": "Request an Arkansas Mineral Review",
-    "index_tagline": "Use the {title} record to connect the owner question to the Arkansas tract, estate type, lease burden, paid decimal, production evidence, written terms, and next documented step.",
-    "detail_cta_title": "Put This Arkansas Interest on the Acquisition Schedule",
-    "detail_cta_body": "Share the Arkansas county, legal description if available, interest type, producing status, operator or payor if known, recent statement detail, and the decision that needs a clearer written answer.",
-    "detail_followup": "Carry this topic back to the same county record, legal description, owner fraction, lease burden, paid decimal, production line, formation scope, and written offer.",
-    "faq_heading": "Questions From the Arkansas Owner File",
-    "about_title": "An Arkansas Mineral Buyer Built Around the Recorded Interest",
-    "about_story_title": "Locate the Tract Before Discussing Value",
-    "about_story_body": "County, township-range-section or other legal description, acreage, reservation language, estate type, formation and depth limits, and owner fraction establish the Arkansas interest under review.",
-    "about_scope_title": "Separate Fayetteville Cash Flow From Smackover Optionality",
-    "about_scope_body": "Producing Fayetteville wells are tested through monthly evidence. Smackover mineral and brine questions begin with recorded scope, leases, acreage, title, and verifiable project facts rather than promotional headlines.",
-    "about_terms_title": "Reconcile the Paid Decimal and Lease Burdens",
-    "about_terms_body": "Owner fraction, lease royalty, unit allocation, division order, payor record, deductions, and adjustment history should explain the decimal and net amount on the statement.",
-    "about_roles_title": "Write Every Offer Assumption",
-    "about_roles_body": "The property schedule should identify the tract, products, formations, depths, effective date, producing and non-producing interests, retained rights, title conditions, expenses, and payment timing.",
-    "about_close_title": "Match the Conveyance to the Arkansas Record",
-    "about_close_body": "The agreement, mineral deed, retained-interest clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and ownership fraction.",
-    "about_evidence_title": "Keep Public Context and Private Evidence Distinct",
-    "about_evidence_body": "Public well, permit, project, and operator information can add context without replacing the deed, lease, unit record, statement, title chain, or exact interest offered for sale.",
-    "contact_title": "Request an Arkansas Mineral Record Review",
-    "contact_intro": "Share the Arkansas county, interest type, producing status, operator or payor if known, recent statement detail, and the decision that needs a clearer answer. The review can begin with the records already available.",
-    "contact_form_title": "Start With the Arkansas Record in Hand",
-    "contact_form_body": "A deed, lease, unit record, division order, royalty statement, probate document, or written offer can identify the next useful check.",
-    "footer_tagline": "Tract located. Estate named. Decimal reconciled. Evidence separated. Terms written. Conveyance matched.",
-    "privacy": "Sell Mineral Rights Arkansas uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
-    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, brine rights, or transfers.",
-    "nf_title": "That Arkansas Record Is Not in This Acquisition File",
-    "nf_body": "Return to owner situations, interest types, Fayetteville and Smackover guides, Arkansas area files, owner resources, or the mineral-review form.",
-    "nf_cta": "Return to the Arkansas Owner Desk"
-  },
-  "about_blocks": [
-    [
-      "Locate the Arkansas Tract",
-      "County, legal description, acreage, reservation language, estate type, formation and depth limits, and ownership fraction establish the interest under review."
-    ],
-    [
-      "Name the Rights That Can Transfer",
-      "Mineral, royalty, non-participating royalty, override, working interest, surface, brine, product, formation, and depth language should be separated before an offer is compared."
-    ],
-    [
-      "Read the Lease and Payment Record",
-      "Royalty rate, valuation language, deductions, pooling authority, unit participation, division order, payor records, and monthly statements should lead to a documented paid decimal."
-    ],
-    [
-      "Separate the Arkansas Value Lines",
-      "Producing Fayetteville cash flow, undeveloped acreage, Smackover optionality, title risk, lease burdens, and closing costs belong on distinct evidence and assumption lines."
-    ],
-    [
-      "Write the Offer Scope",
-      "The tract schedule, estate type, products, formations, depths, effective date, retained rights, title conditions, expenses, and payment timing should appear in the written terms."
-    ],
-    [
-      "Match the Arkansas Recording",
-      "The agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and fraction."
-    ]
-  ],
-  "slug_ui": {
-    "faq_kicker": "ARKANSAS RECORD CHECK",
-    "faq_heading": "Resolve the Record Question Before Comparing the Number",
-    "faq_intro": "Each answer points back to an Arkansas deed, estate description, lease term, paid decimal, production line, formation scope, or written condition that can be checked.",
-    "related_kicker": "CONNECTED ARKANSAS RECORDS",
-    "related_heading": "Carry the Same Tract Into the Next Review",
-    "related_intro": "Keep the county, legal description, estate type, owner fraction, lease burden, paid decimal, formation scope, and open title issue from {item} visible while reviewing these {taxonomy} records.",
-    "related_action": "Open the Complete Arkansas Owner Index"
-  },
-  "taxonomy_enrichment": {
-    "locations": [
-      [
-        "Anchor {name} to the Arkansas County Record",
-        "A location guide should lead back to a real tract record. The working file identifies the county, legal description, acreage, mineral reservation, estate type, formation and depth limits, owner fraction, and the deed, probate order, trust instrument, or corrective document supporting the present ownership claim."
-      ],
-      [
-        "Connect Local Activity to the Actual Interest",
-        "Fayetteville and Smackover activity varies by county, formation, tract, unit, operator, project stage, and product scope. Public wells, permits, and project announcements can add context, while the private deed, lease, unit record, paid decimal, statement history, brine language, and title chain define the interest under review."
-      ],
-      [
-        "Keep the {name} Review in Writing",
-        "The owner copy should retain the source deed, lease, unit or project record, division order, statement evidence, title questions, written offer assumptions, retained-rights language, settlement record, funding confirmation, and county recording reference."
-      ]
-    ],
-    "investing": [
-      [
-        "Separate Producing Evidence From the Investment Thesis",
-        "An Arkansas mineral package should be evaluated through distinct production, title, lease, and undeveloped-inventory lines. Historical Fayetteville checks support current-income analysis but do not guarantee future volumes, prices, or development. Smackover and brine activity can support a scenario only after the exact estate, formation, product, acreage, title, and lease position are verified. The production line should retain well and property identifiers, monthly volumes, products, realized prices, taxes, deductions, adjustments, downtime, operator and payor concentration, and the decimal actually paid. The title line should identify the source deed, reservations, probate or trust authority, owner fraction, formation and depth limits, and curative items. The lease line should record royalty rate, valuation language, deductions, pooling authority, amendments, and burdens. The undeveloped line should identify which project, permit, offset, or leasing facts are dated and verifiable."
-      ],
-      [
-        "Stress the Arkansas Assumptions",
-        "The model for {name} should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, project changes, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or project schedules move. An upside case should label undeveloped drilling or brine development as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, commercial process, permit, technology, commodity price, or third-party agreement should be identified plainly."
-      ],
-      [
-        "Keep the Underwriting Trail Auditable",
-        "The file should preserve the source date for every statement, volume series, price assumption, lease term, ownership fraction, title conclusion, permit, project fact, and development scenario. Base, downside, and upside cases should be labeled as scenarios rather than promises. Each valuation line should point back to a document, public record, dated market input, or clearly disclosed judgment. The working schedule should distinguish facts supplied by the owner, facts found in county or state records, payor information, and assumptions that still require confirmation. If later evidence changes the paid decimal, lease burden, title fraction, producing status, formation scope, or development timing, the model should show which line changed and why. That audit trail makes a sale comparison more useful because the buyer and owner can discuss the same tract, evidence date, asset scope, and open conditions."
-      ]
-    ],
-    "exchange-1031": [
-      [
-        "Place {name} on the Exchange Calendar",
-        "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before an Arkansas mineral sale closes or proceeds are received. The working calendar should identify the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, title work, and closing dependencies. The schedule should also identify the exact selling taxpayer or entity, current vesting, relinquished-property description, anticipated proceeds, debt if any, proposed replacement-property categories, advisor responsibilities, lender milestones, and the documents required before each closing. The mineral acquisition desk can provide tract, title, offer, deed, settlement, and funding facts, but cannot determine eligibility or replace legal and tax advice. A dated responsibility list helps keep a title correction, settlement revision, or late document request from being mistaken for an extension of a federal deadline."
-      ],
-      [
-        "Keep Arkansas Title Work and Federal Timing Distinct",
-        "Deeds, probate, heirship, trusts, corrective instruments, payor records, brine or formation scope, and county recording can move on a different schedule from exchange deadlines. The file should identify the current record owner, vesting instrument, legal description, estate type, county, owner fraction, lease references, retained rights, and unresolved authority. It should also identify which person or entity can sign, whether any estate, trust, marital, lien, entity, or fractional-interest issue remains open, and whether the property description changes between the owner record and the proposed deed. Those facts determine what can be conveyed and who can authorize the transfer. The qualified intermediary, tax counsel, title professionals, and transaction parties should receive the same dated asset description so an Arkansas title cure does not quietly alter the property scope, taxpayer identity, proceeds path, or exchange paperwork."
-      ],
-      [
-        "Match the Property Scope Before Funds Move",
-        "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, product, county, owner fraction, or entity. Qualified legal and tax advisors should resolve mismatches before reliance. The closing file should compare the purchase agreement, mineral deed, tract exhibit, effective date, producing and non-producing scope, brine language, retained interests, title conditions, settlement amounts, expenses, funding instructions, intermediary record, and county recording reference. Any boot, debt replacement, related-party issue, partial sale, entity mismatch, change in replacement property, receivable treatment, or disbursement question belongs with the appropriate advisors before closing. The final archive should preserve signed documents, funding confirmation, intermediary communications, settlement records, and recording evidence so the Arkansas conveyance and the exchange record can be reconstructed consistently."
-      ]
-    ]
-  },
-  "form_fields": [
-    ["name", "text", "Name", true],
-    ["email", "email", "Email", true],
-    ["phone", "tel", "Phone", true],
-    ["message", "textarea", "Message", true]
+  "avoid": [
+   "first-person business narration",
+   "generic national-buyer copy",
+   "instant cash",
+   "highest offer",
+   "guaranteed drilling",
+   "guaranteed lithium value",
+   "fabricated testimonials",
+   "reusable voice pack"
   ]
+ },
+ "scrub": [
+  [
+   "\\bI['’]m\\b",
+   "Sell Mineral Rights Arkansas is"
+  ],
+  [
+   "\\bI['’]ve\\b",
+   "Sell Mineral Rights Arkansas has"
+  ],
+  [
+   "\\bI['’]ll\\b",
+   "Sell Mineral Rights Arkansas will"
+  ],
+  [
+   "\\bI['’]d\\b",
+   "Sell Mineral Rights Arkansas would"
+  ],
+  [
+   "\\bmyself\\b",
+   "the owner directly"
+  ],
+  [
+   "\\bmy\\b",
+   "the owner's"
+  ],
+  [
+   "\\bme\\b",
+   "the owner"
+  ],
+  [
+   "\\bI\\b",
+   "the owner"
+  ],
+  [
+   "\\bwe['’]ve\\b",
+   "the Arkansas acquisition desk has"
+  ],
+  [
+   "\\bwe['’]re\\b",
+   "the Arkansas acquisition desk is"
+  ],
+  [
+   "\\bwe['’]ll\\b",
+   "the Arkansas acquisition desk will"
+  ],
+  [
+   "\\bwe['’]d\\b",
+   "the Arkansas acquisition desk would"
+  ],
+  [
+   "\\bourselves\\b",
+   "the Arkansas acquisition desk"
+  ],
+  [
+   "\\bours\\b",
+   "the interest under review"
+  ],
+  [
+   "\\bour\\b",
+   "the Arkansas acquisition desk's"
+  ],
+  [
+   "\\bus\\b",
+   "the Arkansas acquisition desk"
+  ],
+  [
+   "\\bwe\\b",
+   "the Arkansas acquisition desk"
+  ]
+ ],
+ "question_scrub": [
+  [
+   "\\bHow do Sell Mineral Rights Arkansas\\b",
+   "How do you"
+  ],
+  [
+   "\\bDoes Sell Mineral Rights Arkansas\\b",
+   "Do you"
+  ],
+  [
+   "\\bCan Sell Mineral Rights Arkansas\\b",
+   "Can you"
+  ],
+  [
+   "\\bWhat if Sell Mineral Rights Arkansas\\b",
+   "What if you"
+  ],
+  [
+   "\\bIs Sell Mineral Rights Arkansas\\b",
+   "Are you"
+  ],
+  [
+   "\\bWill Sell Mineral Rights Arkansas\\b",
+   "Will you"
+  ],
+  [
+   "\\bShould Sell Mineral Rights Arkansas\\b",
+   "Should you"
+  ],
+  [
+   "\\bthe Arkansas acquisition desk['’]s\\b",
+   "your"
+  ],
+  [
+   "\\bthe Arkansas acquisition desk\\b",
+   "you"
+  ],
+  [
+   "\\bthe owner['’]s\\b",
+   "your"
+  ],
+  [
+   "\\bthe owner\\b",
+   "you"
+  ],
+  [
+   "\\bSell Mineral Rights Arkansas\\b",
+   "you"
+  ],
+  [
+   "^your\\b",
+   "Your"
+  ],
+  [
+   "^you\\b",
+   "You"
+  ]
+ ],
+ "heroes": [
+  [
+   "Sell Mineral Rights in Arkansas",
+   "Connect the Arkansas county record, legal description, estate type, lease terms, owner fraction, paid decimal, production history, written offer, and proposed conveyance before deciding."
+  ],
+  [
+   "Price Fayetteville Shale Rights From the Decline Record",
+   "Producing Fayetteville interests require a well-by-well view of volumes, decline, realized pricing, deductions, operator concentration, downtime, and the decimal actually paid."
+  ],
+  [
+   "Define Smackover Mineral and Brine Scope in Writing",
+   "Smackover lithium activity can add market context, but the deed, reservation language, lease, brine rights, depth limits, acreage, and ownership chain control what can be evaluated or conveyed."
+  ],
+  [
+   "Resolve the Arkansas Owner Fraction Before Closing",
+   "Probate orders, affidavits, family deeds, trusts, reservations, and division orders should point to the same tract and fraction before final deed language is approved."
+  ],
+  [
+   "Compare the Written Offer, Not Only the Headline Number",
+   "Property scope, effective date, products, formations, depths, deductions, retained rights, title conditions, payment timing, and closing costs can change the economic result."
+  ],
+  [
+   "Separate Producing Cash Flow From Undeveloped Optionality",
+   "Existing Fayetteville income and prospective Smackover value belong on different evidence lines so current checks are not confused with uncertain future development."
+  ],
+  [
+   "Carry One Arkansas Record From Review Through Recording",
+   "The tract schedule, purchase agreement, mineral deed, retained-interest clause, settlement statement, funding confirmation, and county recording should describe the same asset."
+  ]
+ ],
+ "copy": {
+  "home_eyebrow": "ARKANSAS MINERAL ACQUISITION DESK",
+  "home_title": "Sell Mineral Rights in Arkansas",
+  "home_meta": "Review Arkansas mineral rights through the county record, legal description, estate type, lease terms, paid decimal, production evidence, written offer, and conveyance scope.",
+  "home_intro_title": "Start With the Arkansas Owner Situation",
+  "home_intro": "Inheritance, probate, a small undivided fraction, a producing Fayetteville check, a Smackover inquiry, or an unsolicited offer changes which records, valuation assumptions, and closing conditions matter first.",
+  "home_situations_title": "Start With the Arkansas Owner Situation",
+  "home_situations_body": "Inheritance, probate, a split family interest, an unsolicited offer, a producing check, or leased-but-undrilled acreage determines which record needs attention first.",
+  "home_interests_title": "Name the Arkansas Estate Before Pricing It",
+  "home_interests_body": "Minerals, royalties, non-participating royalties, overrides, working interests, surface ownership, brine language, formation limits, and depth limits can carry different rights and conveyance requirements.",
+  "home_basins_title": "Read Fayetteville Production and Smackover Scope Separately",
+  "home_basins": "The Fayetteville file emphasizes producing wells, decline, price, deductions, downtime, and paid decimals. The Smackover file begins with deed language, formation and brine scope, acreage, title, leases, and verifiable development evidence.",
+  "home_basins_body": "The Fayetteville file emphasizes producing wells, decline, price, deductions, downtime, and paid decimals. The Smackover file begins with deed language, formation and brine scope, acreage, title, leases, and verifiable development evidence.",
+  "home_resources_title": "Build the Arkansas Owner File",
+  "home_resources_body": "Deeds, probate papers, leases, unit records, division orders, statements, written offers, title requirements, and proposed conveyances answer different parts of the decision.",
+  "home_locations_title": "Arkansas Coverage by County and Tract",
+  "home_locations_body": "The review follows documented mineral and royalty interests across the Fayetteville fairway, the Smackover trend, and mineral-owning Arkansas counties statewide.",
+  "home_investing_title": "Separate Current Income From Future Optionality",
+  "home_investing": "Production, decline, products, realized prices, deductions, title expense, operator concentration, lease burdens, undeveloped acreage, development timing, and resale liquidity belong on separate underwriting lines.",
+  "home_exchange_title": "Keep Exchange Timing Separate From Arkansas Title Work",
+  "home_exchange": "A qualified intermediary and independent tax counsel should assess potential exchange treatment before closing or receipt of proceeds while Arkansas title and recording work follows its own dated checklist.",
+  "hero_cta": "Request an Arkansas Mineral Review",
+  "index_tagline": "Use the {title} record to connect the owner question to the Arkansas tract, estate type, lease burden, paid decimal, production evidence, written terms, and next documented step.",
+  "detail_cta_title": "Put This Arkansas Interest on the Acquisition Schedule",
+  "detail_cta_body": "Share the Arkansas county, legal description if available, interest type, producing status, operator or payor if known, recent statement detail, and the decision that needs a clearer written answer.",
+  "detail_followup": "Carry this topic back to the same county record, legal description, owner fraction, lease burden, paid decimal, production line, formation scope, and written offer.",
+  "faq_heading": "Questions From the Arkansas Owner File",
+  "about_title": "An Arkansas Mineral Buyer Built Around the Recorded Interest",
+  "about_story_title": "Locate the Tract Before Discussing Value",
+  "about_story_body": "County, township-range-section or other legal description, acreage, reservation language, estate type, formation and depth limits, and owner fraction establish the Arkansas interest under review.",
+  "about_scope_title": "Separate Fayetteville Cash Flow From Smackover Optionality",
+  "about_scope_body": "Producing Fayetteville wells are tested through monthly evidence. Smackover mineral and brine questions begin with recorded scope, leases, acreage, title, and verifiable project facts rather than promotional headlines.",
+  "about_terms_title": "Reconcile the Paid Decimal and Lease Burdens",
+  "about_terms_body": "Owner fraction, lease royalty, unit allocation, division order, payor record, deductions, and adjustment history should explain the decimal and net amount on the statement.",
+  "about_roles_title": "Write Every Offer Assumption",
+  "about_roles_body": "The property schedule should identify the tract, products, formations, depths, effective date, producing and non-producing interests, retained rights, title conditions, expenses, and payment timing.",
+  "about_close_title": "Match the Conveyance to the Arkansas Record",
+  "about_close_body": "The agreement, mineral deed, retained-interest clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and ownership fraction.",
+  "about_evidence_title": "Keep Public Context and Private Evidence Distinct",
+  "about_evidence_body": "Public well, permit, project, and operator information can add context without replacing the deed, lease, unit record, statement, title chain, or exact interest offered for sale.",
+  "contact_title": "Request an Arkansas Mineral Record Review",
+  "contact_intro": "Share the Arkansas county, interest type, producing status, operator or payor if known, recent statement detail, and the decision that needs a clearer answer. The review can begin with the records already available.",
+  "contact_form_title": "Start With the Arkansas Record in Hand",
+  "contact_form_body": "A deed, lease, unit record, division order, royalty statement, probate document, or written offer can identify the next useful check.",
+  "footer_tagline": "Tract located. Estate named. Decimal reconciled. Evidence separated. Terms written. Conveyance matched.",
+  "privacy": "Sell Mineral Rights Arkansas uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
+  "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, brine rights, or transfers.",
+  "nf_title": "That Arkansas Record Is Not in This Acquisition File",
+  "nf_body": "Return to owner situations, interest types, Fayetteville and Smackover guides, Arkansas area files, owner resources, or the mineral-review form.",
+  "nf_cta": "Return to the Arkansas Owner Desk"
+ },
+ "about_blocks": [
+  [
+   "Locate the Arkansas Tract",
+   "County, legal description, acreage, reservation language, estate type, formation and depth limits, and ownership fraction establish the interest under review."
+  ],
+  [
+   "Name the Rights That Can Transfer",
+   "Mineral, royalty, non-participating royalty, override, working interest, surface, brine, product, formation, and depth language should be separated before an offer is compared."
+  ],
+  [
+   "Read the Lease and Payment Record",
+   "Royalty rate, valuation language, deductions, pooling authority, unit participation, division order, payor records, and monthly statements should lead to a documented paid decimal."
+  ],
+  [
+   "Separate the Arkansas Value Lines",
+   "Producing Fayetteville cash flow, undeveloped acreage, Smackover optionality, title risk, lease burdens, and closing costs belong on distinct evidence and assumption lines."
+  ],
+  [
+   "Write the Offer Scope",
+   "The tract schedule, estate type, products, formations, depths, effective date, retained rights, title conditions, expenses, and payment timing should appear in the written terms."
+  ],
+  [
+   "Match the Arkansas Recording",
+   "The agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract, estate, and fraction."
+  ]
+ ],
+ "slug_ui": {
+  "faq_heading": "Questions from Arkansas owners",
+  "related_heading": "Related Arkansas guides",
+  "related_action": "All Arkansas owner guides"
+ },
+ "taxonomy_enrichment": {
+  "locations": [
+   [
+    "Anchor {name} to the Arkansas County Record",
+    "A location guide should lead back to a real tract record. The working file identifies the county, legal description, acreage, mineral reservation, estate type, formation and depth limits, owner fraction, and the deed, probate order, trust instrument, or corrective document supporting the present ownership claim."
+   ],
+   [
+    "Connect Local Activity to the Actual Interest",
+    "Fayetteville and Smackover activity varies by county, formation, tract, unit, operator, project stage, and product scope. Public wells, permits, and project announcements can add context, while the private deed, lease, unit record, paid decimal, statement history, brine language, and title chain define the interest under review."
+   ],
+   [
+    "Keep the {name} Review in Writing",
+    "The owner copy should retain the source deed, lease, unit or project record, division order, statement evidence, title questions, written offer assumptions, retained-rights language, settlement record, funding confirmation, and county recording reference."
+   ]
+  ],
+  "investing": [
+   [
+    "Separate Producing Evidence From the Investment Thesis",
+    "An Arkansas mineral package should be evaluated through distinct production, title, lease, and undeveloped-inventory lines. Historical Fayetteville checks support current-income analysis but do not guarantee future volumes, prices, or development. Smackover and brine activity can support a scenario only after the exact estate, formation, product, acreage, title, and lease position are verified. The production line should retain well and property identifiers, monthly volumes, products, realized prices, taxes, deductions, adjustments, downtime, operator and payor concentration, and the decimal actually paid. The title line should identify the source deed, reservations, probate or trust authority, owner fraction, formation and depth limits, and curative items. The lease line should record royalty rate, valuation language, deductions, pooling authority, amendments, and burdens. The undeveloped line should identify which project, permit, offset, or leasing facts are dated and verifiable."
+   ],
+   [
+    "Stress the Arkansas Assumptions",
+    "The model for {name} should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, project changes, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or project schedules move. An upside case should label undeveloped drilling or brine development as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, commercial process, permit, technology, commodity price, or third-party agreement should be identified plainly."
+   ],
+   [
+    "Keep the Underwriting Trail Auditable",
+    "The file should preserve the source date for every statement, volume series, price assumption, lease term, ownership fraction, title conclusion, permit, project fact, and development scenario. Base, downside, and upside cases should be labeled as scenarios rather than promises. Each valuation line should point back to a document, public record, dated market input, or clearly disclosed judgment. The working schedule should distinguish facts supplied by the owner, facts found in county or state records, payor information, and assumptions that still require confirmation. If later evidence changes the paid decimal, lease burden, title fraction, producing status, formation scope, or development timing, the model should show which line changed and why. That audit trail makes a sale comparison more useful because the buyer and owner can discuss the same tract, evidence date, asset scope, and open conditions."
+   ]
+  ],
+  "exchange-1031": [
+   [
+    "Place {name} on the Exchange Calendar",
+    "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before an Arkansas mineral sale closes or proceeds are received. The working calendar should identify the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, title work, and closing dependencies. The schedule should also identify the exact selling taxpayer or entity, current vesting, relinquished-property description, anticipated proceeds, debt if any, proposed replacement-property categories, advisor responsibilities, lender milestones, and the documents required before each closing. The mineral acquisition desk can provide tract, title, offer, deed, settlement, and funding facts, but cannot determine eligibility or replace legal and tax advice. A dated responsibility list helps keep a title correction, settlement revision, or late document request from being mistaken for an extension of a federal deadline."
+   ],
+   [
+    "Keep Arkansas Title Work and Federal Timing Distinct",
+    "Deeds, probate, heirship, trusts, corrective instruments, payor records, brine or formation scope, and county recording can move on a different schedule from exchange deadlines. The file should identify the current record owner, vesting instrument, legal description, estate type, county, owner fraction, lease references, retained rights, and unresolved authority. It should also identify which person or entity can sign, whether any estate, trust, marital, lien, entity, or fractional-interest issue remains open, and whether the property description changes between the owner record and the proposed deed. Those facts determine what can be conveyed and who can authorize the transfer. The qualified intermediary, tax counsel, title professionals, and transaction parties should receive the same dated asset description so an Arkansas title cure does not quietly alter the property scope, taxpayer identity, proceeds path, or exchange paperwork."
+   ],
+   [
+    "Match the Property Scope Before Funds Move",
+    "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, product, county, owner fraction, or entity. Qualified legal and tax advisors should resolve mismatches before reliance. The closing file should compare the purchase agreement, mineral deed, tract exhibit, effective date, producing and non-producing scope, brine language, retained interests, title conditions, settlement amounts, expenses, funding instructions, intermediary record, and county recording reference. Any boot, debt replacement, related-party issue, partial sale, entity mismatch, change in replacement property, receivable treatment, or disbursement question belongs with the appropriate advisors before closing. The final archive should preserve signed documents, funding confirmation, intermediary communications, settlement records, and recording evidence so the Arkansas conveyance and the exchange record can be reconstructed consistently."
+   ]
+  ]
+ },
+ "form_fields": [
+  [
+   "name",
+   "text",
+   "Name",
+   true
+  ],
+  [
+   "email",
+   "email",
+   "Email",
+   true
+  ],
+  [
+   "phone",
+   "tel",
+   "Phone",
+   true
+  ],
+  [
+   "message",
+   "textarea",
+   "Message",
+   true
+  ]
+ ]
 }

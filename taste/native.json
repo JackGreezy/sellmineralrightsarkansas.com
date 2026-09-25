@@ -1,0 +1,19 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "btn rounded-5",
+    "a.rr-header-cta": "btn rounded-5"
+  },
+  "remove": {"all": [], "slug": []},
+  "slug_order": ["faq", "related", "cta"],
+  "slug_mounts": {
+    "related": ".hero-carousel__inner",
+    "cta": ".hero-carousel__inner"
+  },
+  "templates": {
+    "faq": "<div class=\"latest-news-block block-spacing\"><div class=\"d-flex justify-content-between align-items-center mb-5\"><h2>{heading}</h2></div><ul class=\"latest-news-block__list d-flex flex-column ps-0 mb-0\">{items}</ul></div>",
+    "faq_item": "<li class=\"latest-news-block__item\"><div class=\"latest-news-block__category-date d-flex column-gap-3 mb-2\"><span>Owner question</span></div><h3 class=\"latest-news-block__title\">{q}</h3><div>{a}</div></li>",
+    "related": "<div class=\"three-card-block block-spacing\"><div class=\"d-flex justify-content-between align-middle mb-4\"><h2>{heading}</h2><span><a class=\"btn rounded-5 text-decoration-none\" href=\"{all_href}\">{all_label}</a></span></div><div class=\"three-card-block__content\">{items}</div></div>",
+    "related_item": "<div><a class=\"card h-100 border-0 rounded-0 text-decoration-none\" href=\"{href}\"><div class=\"card-body\"><h3>{name}</h3></div><div class=\"card-footer border-0 bg-transparent mb-3\"><span class=\"btn btn--arrow three-card-block__button\"><svg width=\"32\" height=\"32\" fill=\"none\" role=\"img\"><use xlink:href=\"#link-arrow-circle\"></use></svg>Learn more</span></div></a></div>",
+    "cta": "<div class=\"fifty-fifty fifty-fifty--dark-purple\"><div class=\"fifty-fifty__content\"><h2>{title}</h2><p>{intro}</p><a class=\"btn btn--arrow\" href=\"{contact_href}\"><svg width=\"32\" height=\"32\" fill=\"none\" role=\"img\"><use xlink:href=\"#link-arrow-circle\"></use></svg>{label}</a><a class=\"btn btn--arrow\" href=\"{tel_href}\"><svg width=\"32\" height=\"32\" fill=\"none\" role=\"img\"><use xlink:href=\"#link-arrow-circle\"></use></svg>Call {phone}</a></div></div>"
+  }
+}

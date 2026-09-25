@@ -37,7 +37,7 @@
      ],
      "faqs": [
       {
-       "q": "you own oil rights from a 1940s deed. Do you also own the lithium brine under your land?",
+       "q": "You own oil rights from a 1940s deed. Do you also own the lithium brine under your land?",
        "a": "<p>It depends on the exact language in your deed and any later conveyances. Some older Union County mineral deeds are broad enough to cover brine and other dissolved minerals; others were written narrowly around oil and gas and leave brine rights ambiguous or with a different owner. A title review of your specific instrument is the only way to answer this with confidence.</p>"
       },
       {
@@ -49,7 +49,7 @@
        "a": "<p>Unit orders are filed with the Arkansas Oil and Gas Commission and recorded at the county clerk. If you've received a lease offer, division order, or unitization notice referencing brine or 'other minerals,' that's a strong signal. If you're unsure, the Arkansas acquisition desk can help you check the unit boundaries against your legal description before you sign anything.</p>"
       },
       {
-       "q": "your mineral interest is split between several cousins. Can you still sell?",
+       "q": "Your mineral interest is split between several cousins. Can you still sell?",
        "a": "<p>Yes, undivided fractional interests are common in this county and can be purchased individually or together. Each heir typically needs to be identified with clear title, which sometimes requires an affidavit of heirship if the estate was never probated.</p>"
       },
       {
@@ -57,6 +57,14 @@
        "a": "<p>Generally yes. Brine value is tied to processing capacity, unit position, and the pace of the extraction build-out rather than a conventional well's decline curve, so comparisons should be made against recent brine-specific activity, not old oil comps.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-union-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Union County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -95,7 +103,7 @@
        "a": "<p>It may or may not be, depending on your exact section relative to current leasehold boundaries. The Arkansas acquisition desk checks current maps against your legal description before making any claim about relevance.</p>"
       },
       {
-       "q": "your family has an old oil royalty near Magnolia. Is that connected to the lithium brine activity?",
+       "q": "Your family has an old oil royalty near Magnolia. Is that connected to the lithium brine activity?",
        "a": "<p>Generally they're separate, though related, revenue streams from the same underlying Smackover formation. The Arkansas acquisition desk evaluates your legacy oil and gas interest and any potential brine relevance independently, as part of the same offer.</p>"
       },
       {
@@ -107,6 +115,14 @@
        "a": "<p>The Arkansas acquisition desk will tell you directly. Your legacy oil and gas interest, if any, is still evaluated and priced on its own merits, the Arkansas acquisition desk just won't price in speculative brine upside the leasehold map and geology don't support.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-columbia-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Columbia County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -137,7 +153,7 @@
        "a": "<p>Those projects are centered in neighboring Union and Columbia counties, but the Smackover brine trend they're built on extends into parts of Ouachita County. Whether your specific tract is affected depends on its position relative to current unit boundaries, which can shift as the play develops.</p>"
       },
       {
-       "q": "your family's mineral rights were never split up after your grandfather passed. Is that a problem?",
+       "q": "Your family's mineral rights were never split up after your grandfather passed. Is that a problem?",
        "a": "<p>It's common in this county and it's fixable. Most title issues of this kind are resolved with an affidavit of heirship or, in more complicated estates, a probate filing. The Arkansas acquisition desk can walk you through what's needed for your specific situation.</p>"
       },
       {
@@ -157,6 +173,9 @@
        "a": "<p>Paperwork is what matters for valuation, not a site visit. A buyer works from your legal description, deed history, and any lease or royalty documentation, cross-referenced against Arkansas Oil and Gas Commission unit and permit records for that section, township, and range.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -183,7 +202,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's old lease near Stamps hasn't paid a royalty in over a decade. Is it still worth anything?",
+       "q": "Your family's old lease near Stamps hasn't paid a royalty in over a decade. Is it still worth anything?",
        "a": "<p>Possibly, and sometimes more than owners expect. A dormant lease from a plugged well doesn't necessarily mean the underlying mineral rights have no value, especially if the tract is near current brine or oil activity. The right way to find out is a review of your legal description against nearby unit and permit activity, not the old royalty history alone.</p>"
       },
       {
@@ -191,7 +210,7 @@
        "a": "<p>It can matter for title and unit-boundary purposes if your tract sits close to the line, since some operator activity is administered across both states. It doesn't change the underlying Arkansas mineral law that governs your deed.</p>"
       },
       {
-       "q": "you don't have any paperwork on your mineral rights, just family stories. Can you still help?",
+       "q": "You don't have any paperwork on your mineral rights, just family stories. Can you still help?",
        "a": "<p>Yes. The Arkansas acquisition desk can search the Lafayette County Circuit Clerk's deed and probate records using your family name and a general property location to reconstruct the legal description and ownership chain.</p>"
       },
       {
@@ -207,6 +226,14 @@
        "a": "<p>A legal description, your most recent division order or royalty statement if available, any lease document referencing your tract, and proof of how the interest passed to you, whether that's a deed, a will, or an affidavit of heirship. Missing pieces aren't a dealbreaker; a buyer can usually help track them down through the county clerk.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-lafayette-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Lafayette County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -241,7 +268,7 @@
        "a": "<p>Yes, it's one of the most heavily and successfully drilled counties in the entire play, with well density and results generally among the strongest anywhere in the Fayetteville Shale.</p>"
       },
       {
-       "q": "your family's land near Conway or Greenbrier has been developed or sold since the mineral rights were established. Do you still own them?",
+       "q": "Your family's land near Conway or Greenbrier has been developed or sold since the mineral rights were established. Do you still own them?",
        "a": "<p>Possibly, but it depends on how the mineral estate was handled in the subsequent sales or subdivision deeds. The Arkansas acquisition desk checks your specific chain of title to confirm before making an offer.</p>"
       },
       {
@@ -257,6 +284,14 @@
        "a": "<p>Yes. The Arkansas acquisition desk can confirm each person's exact fractional share through Faulkner County Circuit Clerk records in Conway and purchase individual shares without requiring every heir to sell at the same time.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-faulkner-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Faulkner County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -287,7 +322,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's land near Searcy has never had a well on it. Is the mineral interest worth anything?",
+       "q": "Your family's land near Searcy has never had a well on it. Is the mineral interest worth anything?",
        "a": "<p>It can be, though pricing undeveloped White County acreage is more speculative than pricing a producing tract. The Arkansas acquisition desk looks at nearby well activity, depth, and formation to gauge realistic drilling interest before putting a number on it.</p>"
       },
       {
@@ -307,6 +342,14 @@
        "a": "<p>Yes, the Arkansas acquisition desk evaluates unleased White County minerals too, though the offer reflects the speculative nature of undeveloped acreage rather than an active royalty stream.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-white-county-ar.jpg",
+      "alt": "Sell Mineral Rights in White County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -357,6 +400,9 @@
        "a": "<p>The Arkansas acquisition desk can confirm each person's fractional share through Conway County Circuit Clerk records in Morrilton and purchase individual shares without requiring the entire family to sell together.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -395,7 +441,7 @@
        "a": "<p>Most Fayetteville Shale positions in this area were originally developed by Southwestern Energy, sold to Flywheel Energy in 2018, and then acquired by BKV Corporation in 2021. A name change on your statement usually reflects one of those transactions, not a problem with your interest.</p>"
       },
       {
-       "q": "your family owns a lake-area lot near Greers Ferry or Fairfield Bay. Do you have mineral rights?",
+       "q": "Your family owns a lake-area lot near Greers Ferry or Fairfield Bay. Do you have mineral rights?",
        "a": "<p>It depends on the specific deed history for your lot. Some development-era sales reserved minerals for a prior owner; others conveyed the full estate. The Arkansas acquisition desk checks your chain of title to confirm before assuming either way.</p>"
       },
       {
@@ -407,6 +453,14 @@
        "a": "<p>Yes. The Arkansas acquisition desk can confirm each person's fractional share through Cleburne County Circuit Clerk records and purchase individual shares without requiring the entire family to sell at the same time.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-cleburne-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Cleburne County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -457,6 +511,14 @@
        "a": "<p>Once title is confirmed against the Circuit Clerk's records in Clinton, most Van Buren County closings move in a few weeks. Estates or unresolved heirship can add time, but the Arkansas acquisition desk handles that title work rather than passing it back to you.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-van-buren-county-ar.jpg",
+      "alt": "Sell Mineral Rights in Van Buren County, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -487,7 +549,7 @@
        "a": "<p>It depends on how your specific deed defines the mineral estate. Some older Union County deeds reserved oil, gas, and other minerals broadly enough to arguably include brine; others are narrower. The Arkansas acquisition desk reviews the deed language as part of any offer so you know exactly what's being valued.</p>"
       },
       {
-       "q": "your well only pays a few dollars a month. Is it even worth selling?",
+       "q": "Your well only pays a few dollars a month. Is it even worth selling?",
        "a": "<p>Small stripper-rate interests are still worth pricing, especially if there are multiple wells or additional acreage tied to the same tract. The Arkansas acquisition desk looks at total decline-adjusted value across everything you hold, not only the size of one check.</p>"
       },
       {
@@ -499,6 +561,9 @@
        "a": "<p>It depends on your section and depth. The Arkansas acquisition desk checks current leasehold maps and permit activity around your specific tract before making any claim about brine relevance, rather than assuming every Union County acre is in play.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -553,6 +618,14 @@
        "a": "<p>Your legal description, any existing lease or division order, and documentation of how the interest came to you, whether by deed or inheritance, let a buyer move quickly.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-magnolia-ar.jpg",
+      "alt": "Sell Mineral Rights in Magnolia, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -599,6 +672,14 @@
        "a": "<p>Not usually. A buyer can pull the Union County Circuit Clerk's deed and probate records directly, though having your own copies of any lease or division order speeds things up.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-smackover-ar.jpg",
+      "alt": "Sell Mineral Rights in Smackover, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -645,7 +726,7 @@
        "a": "<p>Yes, in most cases. As the county seat, Camden's Circuit Clerk holds the recorded instruments for property throughout Ouachita County, not only the town itself.</p>"
       },
       {
-       "q": "you have several small interests scattered across different Ouachita County sections. Can you evaluate all of them together?",
+       "q": "You have several small interests scattered across different Ouachita County sections. Can you evaluate all of them together?",
        "a": "<p>Yes, that's common and the Arkansas acquisition desk is set up to price a portfolio of small interests as one transaction rather than requiring separate deals for each.</p>"
       },
       {
@@ -653,6 +734,9 @@
        "a": "<p>No. Every quote is built off the specific well's production history, decline rate, and current operator activity, so two tracts of the same size can be priced very differently.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -687,7 +771,7 @@
      ],
      "faqs": [
       {
-       "q": "your mineral deed near Norphlet is from the 1920s and hard to read. Is that a problem?",
+       "q": "Your mineral deed near Norphlet is from the 1920s and hard to read. Is that a problem?",
        "a": "<p>It slows down title work but doesn't prevent a sale. Old handwritten or typewritten deeds from that era are common in this area and can usually be interpreted with a careful review against the county's index.</p>"
       },
       {
@@ -703,6 +787,14 @@
        "a": "<p>Once title is clear and paperwork is in order, most straightforward transactions close in a matter of weeks rather than months.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-norphlet-ar.jpg",
+      "alt": "Sell Mineral Rights in Norphlet, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -737,7 +829,7 @@
      ],
      "faqs": [
       {
-       "q": "you has never received a royalty check from land near Louann. Do you still own mineral rights?",
+       "q": "You has never received a royalty check from land near Louann. Do you still own mineral rights?",
        "a": "<p>Likely yes, unless you specifically sold or conveyed them. A lack of production or an inactive lease doesn't erase mineral ownership; it just means nothing is currently generating income from it.</p>"
       },
       {
@@ -753,6 +845,9 @@
        "a": "<p>Once title is confirmed and paperwork is complete, straightforward sales of a clearly owned interest usually move quickly, often within a few weeks.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -787,7 +882,7 @@
      ],
      "faqs": [
       {
-       "q": "your royalty check from Stephens has been shrinking for years. Is that normal?",
+       "q": "Your royalty check from Stephens has been shrinking for years. Is that normal?",
        "a": "<p>Yes. A field with this much production history is well into its decline curve, and steadily shrinking checks from mature wells are typical, not a sign of anything unusual with your interest.</p>"
       },
       {
@@ -803,6 +898,14 @@
        "a": "<p>Given the field's long production history, it's common for the deed chain on a Stephens-area tract to run back to the 1930s or earlier, with several recorded lease assignments along the way.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-stephens-ar.jpg",
+      "alt": "Sell Mineral Rights in Stephens, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -837,7 +940,7 @@
      ],
      "faqs": [
       {
-       "q": "your check from a well near Strong is under ten dollars a month. Is it even worth selling?",
+       "q": "Your check from a well near Strong is under ten dollars a month. Is it even worth selling?",
        "a": "<p>It can be. Small checks usually reflect a small fractional interest rather than a low per-acre value, and a buyer evaluates the full interest, not only the current payout.</p>"
       },
       {
@@ -853,6 +956,9 @@
        "a": "<p>The county's brine activity has concentrated mostly around El Dorado and the western trend so far, but operator interest has been expanding, so it's worth checking current unit filings against your specific tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -903,6 +1009,9 @@
        "a": "<p>There's no consistent pattern by town; interest size depends on the original tract and how many generations it has been divided across through inheritance, which varies family by family.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -937,7 +1046,7 @@
      ],
      "faqs": [
       {
-       "q": "your family kept the mineral rights when you sold your farm near Stamps decades ago. How do you confirm that today?",
+       "q": "Your family kept the mineral rights when you sold your farm near Stamps decades ago. How do you confirm that today?",
        "a": "<p>A title search at the Lafayette County Circuit Clerk's office will show the original conveyance and confirm whether minerals were reserved separately from the surface.</p>"
       },
       {
@@ -953,6 +1062,9 @@
        "a": "<p>No. A tract's mineral value has nothing to do with what the town is known for; it's determined by the deed's language, the tract's position within the formation, and nearby unit activity.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -999,7 +1111,7 @@
        "a": "<p>It depends on the specific language in your deed and lease. Older instruments vary, and the Arkansas acquisition desk reviews that language as part of evaluating your interest.</p>"
       },
       {
-       "q": "your well has been declining for years. Is it still worth anything?",
+       "q": "Your well has been declining for years. Is it still worth anything?",
        "a": "<p>Usually yes, though the value reflects current output and decline trend, not historical peak production.</p>"
       },
       {
@@ -1007,6 +1119,14 @@
        "a": "<p>Send the Arkansas acquisition desk your deed or division order number and the Arkansas acquisition desk will check current operator and production filings for your specific tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-bradley-ar.jpg",
+      "alt": "Sell Mineral Rights in Bradley, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1045,11 +1165,11 @@
      ],
      "faqs": [
       {
-       "q": "your land near Bearden has never had a well on it that you know of. Is the mineral interest worth anything?",
+       "q": "Your land near Bearden has never had a well on it that you know of. Is the mineral interest worth anything?",
        "a": "<p>Possibly, depending on activity nearby and formation depth. Unleased, undeveloped minerals are priced differently than producing royalty interests, but they aren't automatically worthless.</p>"
       },
       {
-       "q": "you think your mineral rights were sold along with the timber decades ago. How do you check?",
+       "q": "You think your mineral rights were sold along with the timber decades ago. How do you check?",
        "a": "<p>Pull whatever deed you have, or the Arkansas acquisition desk can help you check the Ouachita County Circuit Clerk index in Camden to see whether the mineral estate was severed or conveyed separately from the surface.</p>"
       },
       {
@@ -1057,6 +1177,14 @@
        "a": "<p>It's on the fringe of it, not the core. The Arkansas acquisition desk looks at your exact section against current leasehold before making any claim either way.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-bearden-ar.jpg",
+      "alt": "Sell Mineral Rights in Bearden, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1095,7 +1223,7 @@
      ],
      "faqs": [
       {
-       "q": "your family owns a small fraction of a well near Calion. Can you still buy it?",
+       "q": "Your family owns a small fraction of a well near Calion. Can you still buy it?",
        "a": "<p>Yes. Small fractional interests are common here and the Arkansas acquisition desk buys them regularly. The Arkansas acquisition desk will need a deed, division order, or recent royalty statement to get started.</p>"
       },
       {
@@ -1107,6 +1235,9 @@
        "a": "<p>Start with whatever you have, even just a division order or an operator's name. The Arkansas acquisition desk can usually trace ownership from the Union County Circuit Clerk records from there.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1157,6 +1288,9 @@
        "a": "<p>At the Ouachita County Circuit Clerk's office in Camden, since East Camden isn't a separate recording jurisdiction.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1207,6 +1341,9 @@
        "a": "<p>Yes, the two can be handled as separate transactions. An Arkansas tract is evaluated under Arkansas title and mineral law regardless of what your family owns across the state line.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1241,7 +1378,7 @@
      ],
      "faqs": [
       {
-       "q": "your family sold the land around Huttig but you think you kept the mineral rights. How do you confirm that?",
+       "q": "Your family sold the land around Huttig but you think you kept the mineral rights. How do you confirm that?",
        "a": "<p>A title search at the Union County Circuit Clerk's office will show whether minerals were severed from the surface in the original deed and, if so, who holds them today.</p>"
       },
       {
@@ -1257,6 +1394,9 @@
        "a": "<p>No. Mineral rights exist independent of surface use, and a tract's oil, gas, or brine potential is determined by its position within the Smackover Formation, not by what grows on top of it.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1303,10 +1443,13 @@
        "a": "<p>A plugged well changes the offer, but the mineral interest can still have value, particularly if there's remaining potential in the formation or nearby activity. The Arkansas acquisition desk will be upfront about which case applies to you.</p>"
       },
       {
-       "q": "you only have an old lease document, no recent statements. Is that enough to start?",
+       "q": "You only have an old lease document, no recent statements. Is that enough to start?",
        "a": "<p>It's enough to start. The Arkansas acquisition desk can look up current status through county records once the Arkansas acquisition desk has the legal description or the original lessee's name.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1341,11 +1484,11 @@
      ],
      "faqs": [
       {
-       "q": "you get a small royalty check from an old well near Mount Holly. Is your interest worth selling?",
+       "q": "You get a small royalty check from an old well near Mount Holly. Is your interest worth selling?",
        "a": "<p>Possibly, and the answer depends on more than the check size, including how much acreage your interest covers and whether nearby brine activity affects its value. A specific review of your tract is the only way to know.</p>"
       },
       {
-       "q": "you received a lease letter mentioning a company you has never heard of. Should you be concerned?",
+       "q": "You received a lease letter mentioning a company you has never heard of. Should you be concerned?",
        "a": "<p>Not necessarily. Operators active in the Union County brine trend are different from the legacy oil operators that worked this area decades ago, so an unfamiliar name doesn't by itself mean anything is wrong. Confirm the unit and terms before signing.</p>"
       },
       {
@@ -1353,6 +1496,9 @@
        "a": "<p>Your division order, if you have one, states your decimal interest. If you don't have a recent one, the Union County Circuit Clerk's deed and probate records can be used to reconstruct it.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1387,7 +1533,7 @@
      ],
      "faqs": [
       {
-       "q": "your well near Urbana stopped producing years ago. Do you still own the mineral rights?",
+       "q": "Your well near Urbana stopped producing years ago. Do you still own the mineral rights?",
        "a": "<p>Almost certainly, unless you specifically sold or otherwise conveyed them. A plugged well doesn't end your mineral ownership, it just means that particular lease's production has stopped.</p>"
       },
       {
@@ -1407,6 +1553,9 @@
        "a": "<p>Yes. Value is tied to the geology beneath a tract and its position relative to units and infrastructure, not to whether the surface community above it is a large town or a handful of houses along a county road.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1445,7 +1594,7 @@
        "a": "<p>At the Union County Circuit Clerk's office in El Dorado, the same as for any tract in the county. Community name doesn't affect where records are filed.</p>"
       },
       {
-       "q": "your family has owned this land since the early 1900s. Does that make the title simpler or more complicated?",
+       "q": "Your family has owned this land since the early 1900s. Does that make the title simpler or more complicated?",
        "a": "<p>Often simpler for ownership tracing, since the chain of title is shorter, but it does mean checking whether the estate was properly probated at each generational transfer.</p>"
       },
       {
@@ -1457,6 +1606,9 @@
        "a": "<p>Send your legal description or a copy of any old deed you have. A buyer can cross-reference it against Union County records and current unit filings and give you a preliminary read quickly.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1495,7 +1647,7 @@
        "a": "<p>Your deed's legal description states the county or parish and state. If you're unsure, the Arkansas acquisition desk can confirm it against county and parish records before proceeding.</p>"
       },
       {
-       "q": "your family's lease near Taylor hasn't produced in a long time. Is it worth checking?",
+       "q": "Your family's lease near Taylor hasn't produced in a long time. Is it worth checking?",
        "a": "<p>Yes. Dormant legacy leases in this area sometimes carry more current relevance than owners expect, especially given nearby brine leasing activity, and a title review is the right way to find out.</p>"
       },
       {
@@ -1511,6 +1663,9 @@
        "a": "<p>This is common and doesn't stop a sale. An affidavit of heirship, or in more complex cases a probate filing, is typically used to establish each family member's legal share before closing.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1557,7 +1712,7 @@
        "a": "<p>It's in the broader region, but exact relevance depends on your section relative to the current leasehold blocks. The Arkansas acquisition desk checks that specifically rather than assuming.</p>"
       },
       {
-       "q": "your family has an old oil royalty from a well near Emerson. Is that separate from any lithium value?",
+       "q": "Your family has an old oil royalty from a well near Emerson. Is that separate from any lithium value?",
        "a": "<p>Generally yes, they're different revenue streams tied to the same underlying formation, and the Arkansas acquisition desk evaluates each independently as part of the same offer.</p>"
       },
       {
@@ -1565,6 +1720,9 @@
        "a": "<p>The Arkansas acquisition desk checks current leasehold and permit maps against your legal description before making any claim about relevance to the brine industry.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1603,7 +1761,7 @@
        "a": "<p>The trend isn't limited to Magnolia city limits. Tracts around McNeil can fall inside relevant unit boundaries depending on their exact location, which needs to be checked against current filings.</p>"
       },
       {
-       "q": "your mineral rights near McNeil haven't produced anything in years. Is that unusual?",
+       "q": "Your mineral rights near McNeil haven't produced anything in years. Is that unusual?",
        "a": "<p>No, it's common for legacy interests this far from the original boom-era core to have gone quiet as older wells were plugged. That doesn't mean the rights themselves are worthless.</p>"
       },
       {
@@ -1619,6 +1777,9 @@
        "a": "<p>Anything with a legal description on it: an old lease, a division order, or a deed. Even a partial or outdated document gives a buyer enough to start pulling current county records.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1669,6 +1830,14 @@
        "a": "<p>A deed or old lease is the best starting point. If you're not sure what you have, the Arkansas acquisition desk can pull the Columbia County Circuit Clerk's records the Arkansas acquisition desk to see what's on file.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-waldo-ar.jpg",
+      "alt": "Sell Mineral Rights in Waldo, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1707,11 +1876,11 @@
      ],
      "faqs": [
       {
-       "q": "you haven't gotten a royalty check in years. Does that mean the interest is worthless?",
+       "q": "You haven't gotten a royalty check in years. Does that mean the interest is worthless?",
        "a": "<p>Not necessarily. The well could be inactive, or the checks could be going to an outdated address. The Arkansas acquisition desk will check current status before concluding anything.</p>"
       },
       {
-       "q": "your family interest near Buckner has never been formally divided among the heirs. Is that a problem?",
+       "q": "Your family interest near Buckner has never been formally divided among the heirs. Is that a problem?",
        "a": "<p>It's common and workable. The Arkansas acquisition desk can help identify what needs to be resolved through Lafayette County records before a sale closes.</p>"
       },
       {
@@ -1719,6 +1888,9 @@
        "a": "<p>It's on the edge of the area, and relevance depends on your exact section. The Arkansas acquisition desk checks current leasehold maps rather than guessing based on the town name.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1761,7 +1933,7 @@
        "a": "<p>Yes, it was one of the most heavily drilled counties in the play, with high well density during the 2005 to 2012 boom years.</p>"
       },
       {
-       "q": "your land near Conway has been developed since the mineral rights were established. Do you still own them?",
+       "q": "Your land near Conway has been developed since the mineral rights were established. Do you still own them?",
        "a": "<p>Possibly, but it depends on how the mineral estate was handled in subsequent sales. The Arkansas acquisition desk checks the deed chain to confirm.</p>"
       },
       {
@@ -1769,6 +1941,14 @@
        "a": "<p>Many legacy Fayetteville Shale wells in Faulkner County are now operated by BKV Corporation, following its 2021 acquisition of the position originally held by Southwestern Energy.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-conway-ar.jpg",
+      "alt": "Sell Mineral Rights in Conway, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1807,7 +1987,7 @@
      ],
      "faqs": [
       {
-       "q": "your land near Greenbrier has been subdivided since your family originally owned it. Do you still have mineral rights?",
+       "q": "Your land near Greenbrier has been subdivided since your family originally owned it. Do you still have mineral rights?",
        "a": "<p>It depends on how minerals were handled in the subdivision deeds. The Arkansas acquisition desk checks your specific chain of title to confirm.</p>"
       },
       {
@@ -1827,6 +2007,9 @@
        "a": "<p>The Arkansas acquisition desk can trace the subdivision deeds to identify exactly which lot, if any, retained the mineral estate, before pricing anything.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1861,7 +2044,7 @@
      ],
      "faqs": [
       {
-       "q": "your royalty checks from land near Vilonia have gotten small. Is the well done?",
+       "q": "Your royalty checks from land near Vilonia have gotten small. Is the well done?",
        "a": "<p>Probably not done, just deep into its decline curve. Fayetteville Shale wells drop steeply in year one and then settle into a long, low-volume tail, which is where most Faulkner County wells are today.</p>"
       },
       {
@@ -1881,6 +2064,14 @@
        "a": "<p>A single-owner tract with clean title can close in a matter of weeks. If the interest passed through several heirs without an updated division order, the Arkansas acquisition desk builds in extra time to confirm the probate history before finalizing anything.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-vilonia-ar.jpg",
+      "alt": "Sell Mineral Rights in Vilonia, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1919,7 +2110,7 @@
        "a": "<p>Not directly. Mineral value is based on the interest's position within the Fayetteville Shale play and its lease or production status, not on surface development that has occurred since.</p>"
       },
       {
-       "q": "your grandparents leased land near Mayflower in the 2000s. Do you still have rights to it?",
+       "q": "Your grandparents leased land near Mayflower in the 2000s. Do you still have rights to it?",
        "a": "<p>If you inherited the mineral interest, yes, though the details depend on how the estate was handled. A title search of Faulkner County probate records can confirm your ownership.</p>"
       },
       {
@@ -1931,6 +2122,9 @@
        "a": "<p>It generally doesn't directly, since mineral value is tied to the gas play and lease status rather than surface real estate trends, though it can make records slightly easier to research given the area's overall growth.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1973,7 +2167,7 @@
        "a": "<p>The Arkansas acquisition desk can check your legal description against Conway County lease recordings and Arkansas Oil and Gas Commission production and permit data to determine its current status.</p>"
       },
       {
-       "q": "your mineral rights have been in the family since before the shale boom. Does that complicate title?",
+       "q": "Your mineral rights have been in the family since before the shale boom. Does that complicate title?",
        "a": "<p>It can mean more generations of inheritance to trace, but the Conway County probate and deed records generally provide what's needed to establish clean ownership.</p>"
       },
       {
@@ -1985,6 +2179,14 @@
        "a": "<p>No, an initial review of your ownership and interest is provided at no cost before any decision is made about selling.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-morrilton-ar.jpg",
+      "alt": "Sell Mineral Rights in Morrilton, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2039,6 +2241,14 @@
        "a": "<p>Yes. Mineral rights and surface farming operations are independent, so selling the minerals doesn't affect your continued use of the land above them.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-plumerville-ar.jpg",
+      "alt": "Sell Mineral Rights in Plumerville, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2093,6 +2303,9 @@
        "a": "<p>An unleased interest is still a real asset, valued on its position and nearby activity rather than existing production, and can still be sold or leased on its own terms.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2127,7 +2340,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's mineral rights near Menifee were leased but no well was ever drilled. Are they still worth anything?",
+       "q": "Your family's mineral rights near Menifee were leased but no well was ever drilled. Are they still worth anything?",
        "a": "<p>Often yes. An unleased or expired-lease interest is valued differently than a producing one, based on its position and nearby activity rather than an existing royalty history, but it isn't worthless.</p>"
       },
       {
@@ -2147,6 +2360,9 @@
        "a": "<p>It depends on the complexity of the ownership history, but a straightforward tract with clear inheritance records can often be reviewed within a couple of weeks.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2201,6 +2417,9 @@
        "a": "<p>Yes, a name, a rough location, and any partial details can usually be enough to search the Conway County deed index and confirm the correct legal description.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2243,7 +2462,7 @@
        "a": "<p>It's limited compared to the core of the Fayetteville Shale play. The Arkansas acquisition desk checks current and historical operator and permit records for your specific tract to confirm.</p>"
       },
       {
-       "q": "your lease from the boom years never resulted in a well. Is your interest worthless?",
+       "q": "Your lease from the boom years never resulted in a well. Is your interest worthless?",
        "a": "<p>No, but it's valued as undeveloped acreage rather than a producing royalty. It can still be worth pursuing, particularly with nearby activity.</p>"
       },
       {
@@ -2259,6 +2478,9 @@
        "a": "<p>The Arkansas acquisition desk can review the deed history for your specific tract to confirm whether the mineral estate was ever severed from the surface, or whether you still hold both together.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2301,7 +2523,7 @@
        "a": "<p>It's inconsistent across this part of Conway County. The Arkansas acquisition desk checks your specific legal description to confirm whether a well was ever drilled nearby.</p>"
       },
       {
-       "q": "you only know your family owns \"some\" mineral rights out there, nothing more specific. Can you still help?",
+       "q": "You only know your family owns \"some\" mineral rights out there, nothing more specific. Can you still help?",
        "a": "<p>Yes, the Arkansas acquisition desk can research the ownership through Conway County records starting from a family name, an old lease, or any partial documentation you have.</p>"
       },
       {
@@ -2317,6 +2539,9 @@
        "a": "<p>That's common on older Conway County instruments. The Arkansas acquisition desk traces forward from that original name through probate and deed records to connect it to current ownership.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2355,7 +2580,7 @@
        "a": "<p>It varies by tract. Conway County saw broad leasing during the Fayetteville Shale boom but somewhat less drilling density than counties further east, so some tracts near Jerusalem have producing wells nearby and others don't.</p>"
       },
       {
-       "q": "your family's old lease from the boom years never mentioned a specific well. Is that normal?",
+       "q": "Your family's old lease from the boom years never mentioned a specific well. Is that normal?",
        "a": "<p>Yes, leases were often signed broadly across an area before operators finalized drilling plans, so many landowners leased without ever having a well placed on their specific tract.</p>"
       },
       {
@@ -2371,6 +2596,9 @@
        "a": "<p>It's evaluated on position and comparable activity in the surrounding area rather than an existing royalty history, since none exists yet for that specific tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2417,10 +2645,13 @@
        "a": "<p>Southwestern Energy sold its Fayetteville Shale assets to Flywheel Energy in 2018, which were then acquired by BKV Corporation in 2021. That's the most common reason for a name change.</p>"
       },
       {
-       "q": "your well near Clinton has declined a lot since it was first drilled. Is that normal?",
+       "q": "Your well near Clinton has declined a lot since it was first drilled. Is that normal?",
        "a": "<p>Yes, Fayetteville Shale wells decline steeply in their first few years and then settle into a long, low-volume tail, which is where most legacy wells sit today.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2463,7 +2694,7 @@
        "a": "<p>The Arkansas acquisition desk reviews the deed history for your specific lot, checking both Van Buren and Cleburne county records depending on where the parcel falls, to see whether minerals were reserved or conveyed separately.</p>"
       },
       {
-       "q": "your development lot deed doesn't mention minerals at all. What does that mean?",
+       "q": "Your development lot deed doesn't mention minerals at all. What does that mean?",
        "a": "<p>It depends on the specific chain of title. Silence on minerals in one deed doesn't automatically mean you don't own them; the Arkansas acquisition desk traces back through prior conveyances to confirm.</p>"
       },
       {
@@ -2471,6 +2702,14 @@
        "a": "<p>It sits near the boundary between Van Buren County's stronger core and Cleburne County's more marginal fringe, so results vary by specific location.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-fairfield-bay-ar.jpg",
+      "alt": "Sell Mineral Rights in Fairfield Bay, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2529,6 +2768,9 @@
        "a": "<p>No, the tourism economy on the surface doesn't change how the Arkansas acquisition desk evaluates the subsurface mineral interest, which is based on production and geology.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2583,6 +2825,14 @@
        "a": "<p>Yes, undeveloped acreage near Greers Ferry still has potential value, and the Arkansas acquisition desk evaluates it based on nearby activity rather than requiring existing production.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-greers-ferry-ar.jpg",
+      "alt": "Sell Mineral Rights in Greers Ferry, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2621,7 +2871,7 @@
        "a": "<p>Yes, Van Buren County was central to the early development that proved the play, and Shirley sits within that historically active corridor.</p>"
       },
       {
-       "q": "your lease has been reassigned to a different operator over the years. Is that a problem?",
+       "q": "Your lease has been reassigned to a different operator over the years. Is that a problem?",
        "a": "<p>No, multiple assignments are common for leases this old and don't prevent a sale once current ownership and operator status are confirmed.</p>"
       },
       {
@@ -2637,6 +2887,14 @@
        "a": "<p>Not automatically. History gives a buyer more data to work with, but value still depends on remaining production, lease terms, and comparable recent transactions rather than the area's reputation alone.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-shirley-ar.jpg",
+      "alt": "Sell Mineral Rights in Shirley, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2671,7 +2929,7 @@
      ],
      "faqs": [
       {
-       "q": "your property near Tumbling Shoals is mostly used as a lake getaway. Do you still have mineral rights to worry about?",
+       "q": "Your property near Tumbling Shoals is mostly used as a lake getaway. Do you still have mineral rights to worry about?",
        "a": "<p>Possibly, and it's worth checking. Surface use for recreation doesn't affect whether mineral rights exist separately underneath the property or whether they were leased at some point.</p>"
       },
       {
@@ -2687,6 +2945,9 @@
        "a": "<p>Not directly. Tourism and lake property values reflect the surface market, while mineral rights value is tied to the gas play beneath the land and its lease or production status.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2721,7 +2982,7 @@
      ],
      "faqs": [
       {
-       "q": "your tract near Quitman is part of a larger pooled unit. Does that reduce what you is owed?",
+       "q": "Your tract near Quitman is part of a larger pooled unit. Does that reduce what you is owed?",
        "a": "<p>Pooling itself doesn't reduce your rights, but it does mean your royalty is based on your tract's proportional share of the unit rather than a well specifically on your land. That's normal for horizontal shale development.</p>"
       },
       {
@@ -2737,6 +2998,14 @@
        "a": "<p>Density of nearby drilling is one factor among several, including your specific lease terms and remaining reserves, so it should be weighed alongside those rather than assumed to guarantee a higher number on its own.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-quitman-ar.jpg",
+      "alt": "Sell Mineral Rights in Quitman, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2775,11 +3044,11 @@
      ],
      "faqs": [
       {
-       "q": "your interest near Edgemont is very small. Is it worth pursuing?",
+       "q": "Your interest near Edgemont is very small. Is it worth pursuing?",
        "a": "<p>Often yes, the Arkansas acquisition desk evaluates small interests based on their actual documentation and current status, not a minimum size requirement.</p>"
       },
       {
-       "q": "you have several scattered small interests in the area. Can they be sold together?",
+       "q": "You have several scattered small interests in the area. Can they be sold together?",
        "a": "<p>Yes, the Arkansas acquisition desk can often evaluate and purchase multiple related interests as a single transaction.</p>"
       },
       {
@@ -2795,6 +3064,9 @@
        "a": "<p>The Arkansas acquisition desk looks at nearby well activity, permit filings, and how comparable undeveloped acreage in Cleburne County has traded recently, rather than pricing it off guesswork.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2833,7 +3105,7 @@
      ],
      "faqs": [
       {
-       "q": "your family has never actively managed your mineral interest near Higden. Where do you start?",
+       "q": "Your family has never actively managed your mineral interest near Higden. Where do you start?",
        "a": "<p>Send the Arkansas acquisition desk whatever documentation you have, even just an old deed or a family name, and the Arkansas acquisition desk will check current status through Cleburne County Circuit Clerk records in Heber Springs.</p>"
       },
       {
@@ -2853,6 +3125,9 @@
        "a": "<p>That's fine. The Arkansas acquisition desk can purchase your individual fractional share without requiring other heirs to sell at the same time.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2907,6 +3182,14 @@
        "a": "<p>Not simply because of the location. Value comes from the tract's specific position within a producing unit and its lease status, which needs individual confirmation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-searcy-ar.jpg",
+      "alt": "Sell Mineral Rights in Searcy, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2957,6 +3240,9 @@
        "a": "<p>At the White County Circuit Clerk's office in Searcy, the county seat.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3003,10 +3289,13 @@
        "a": "<p>Yes. Southwestern Energy's Fayetteville Shale assets moved to Flywheel Energy and then to BKV Corporation, so a name change on your statement usually just reflects that ownership transfer.</p>"
       },
       {
-       "q": "your royalty checks from a Beebe-area well have gotten smaller over time. Is that expected?",
+       "q": "Your royalty checks from a Beebe-area well have gotten smaller over time. Is that expected?",
        "a": "<p>Yes, shale gas wells decline steeply after their first few years, and most Fayetteville Shale wells are now well past their peak. The Arkansas acquisition desk prices based on the current decline curve.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3041,7 +3330,7 @@
      ],
      "faqs": [
       {
-       "q": "your Judsonia-area well has been producing since around 2010. Why is the check so much smaller now?",
+       "q": "Your Judsonia-area well has been producing since around 2010. Why is the check so much smaller now?",
        "a": "<p>Fayetteville Shale wells decline steeply in their early years and then level off at a much lower rate, so a well over a decade old typically produces a fraction of its initial output, which is expected.</p>"
       },
       {
@@ -3057,6 +3346,9 @@
        "a": "<p>No. Selling mineral rights doesn't affect surface ownership. The two are separate legal interests, and you can sell one while keeping the other.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3111,6 +3403,9 @@
        "a": "<p>That's still useful. A buyer can combine recent statements with county and state production records to build a fuller picture of the well's history.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3149,7 +3444,7 @@
        "a": "<p>A title search of White County deed records will show the full chain of ownership and reveal whether the minerals were conveyed separately at any point.</p>"
       },
       {
-       "q": "your relatives and you disagree about whether to sell. Can you sell just your share?",
+       "q": "Your relatives and you disagree about whether to sell. Can you sell just your share?",
        "a": "<p>Yes, undivided fractional interests can typically be sold individually. Each co-owner controls their own share regardless of what other family members decide.</p>"
       },
       {
@@ -3169,6 +3464,14 @@
        "a": "<p>Yes. A partial description combined with a family name or general location is often enough to identify the correct tract in the county records.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-rose-bud-ar.jpg",
+      "alt": "Sell Mineral Rights in Rose Bud, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3207,7 +3510,7 @@
        "a": "<p>It's within White County's broader leasing footprint, though drilling density varies by specific tract and is worth checking against Arkansas Oil and Gas Commission records rather than assumed.</p>"
       },
       {
-       "q": "your family's lease near Pangburn is decades old and you has never received a check. What should you do?",
+       "q": "Your family's lease near Pangburn is decades old and you has never received a check. What should you do?",
        "a": "<p>Start with a title and lease status check to determine whether the lease is still active or has expired, which determines how the interest should be valued going forward.</p>"
       },
       {
@@ -3223,6 +3526,9 @@
        "a": "<p>The Arkansas acquisition desk can search the White County deed index using your family name and general location to determine whether a recorded interest exists and, if so, its current status.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3277,6 +3583,14 @@
        "a": "<p>Once title is confirmed clean, closing on a straightforward El Paso-area interest usually takes a few weeks, longer only if a title issue needs resolving first.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-el-paso-ar.jpg",
+      "alt": "Sell Mineral Rights in El Paso, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3315,7 +3629,7 @@
      ],
      "faqs": [
       {
-       "q": "you haven't received a royalty check in a long time. Is your interest dead?",
+       "q": "You haven't received a royalty check in a long time. Is your interest dead?",
        "a": "<p>Not necessarily dead, but it may reflect a shut-in or marginal well. The Arkansas acquisition desk checks current status before concluding anything.</p>"
       },
       {
@@ -3331,6 +3645,9 @@
        "a": "<p>The Arkansas acquisition desk would encourage it. Ask the Arkansas acquisition desk for the production and operator records the Arkansas acquisition desk used so you can verify the numbers independently before deciding.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3365,7 +3682,7 @@
      ],
      "faqs": [
       {
-       "q": "your family has mineral rights near Russell but no paperwork. Can you still help?",
+       "q": "Your family has mineral rights near Russell but no paperwork. Can you still help?",
        "a": "<p>Yes. The Arkansas acquisition desk can often search county records using a family name and general location to identify the legal description and current ownership status.</p>"
       },
       {
@@ -3389,6 +3706,9 @@
        "a": "<p>That's still a workable starting point. The Arkansas acquisition desk can use an address or general location to search county tax and deed records and identify the corresponding legal description.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3435,7 +3755,7 @@
        "a": "<p>Being close to the county seat can speed up the records check, though the overall timeline still depends on the complexity of your specific ownership history.</p>"
       },
       {
-       "q": "your royalty checks are small and inconsistent. Should you bother selling?",
+       "q": "Your royalty checks are small and inconsistent. Should you bother selling?",
        "a": "<p>Small, inconsistent checks are common on declining wells, and the interest can still be worth pricing, particularly alongside any other interests you hold.</p>"
       },
       {
@@ -3443,6 +3763,9 @@
        "a": "<p>Yes, selling the mineral rights has no bearing on your surface farming decisions. The two are separate estates and a mineral sale doesn't touch your ability to farm.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3493,6 +3816,9 @@
        "a": "<p>A clean, single-owner tract can close in a few weeks. Estates or unresolved heirship take a bit longer, but the Arkansas acquisition desk handles that research rather than passing it back to you.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3547,6 +3873,9 @@
        "a": "<p>Yes. It's a common surprise, since a lease can lapse quietly once a well is plugged, and nothing formally notifies the mineral owner unless they check.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3589,7 +3918,7 @@
        "a": "<p>Send the Arkansas acquisition desk your legal description or deed and the Arkansas acquisition desk will check current operator and permit filings for that specific tract.</p>"
       },
       {
-       "q": "your royalty checks have shrunk a lot since the well was first drilled. Is that normal?",
+       "q": "Your royalty checks have shrunk a lot since the well was first drilled. Is that normal?",
        "a": "<p>Yes, that's typical decline behavior for Fayetteville Shale wells, which drop off sharply after the first couple of years.</p>"
       },
       {
@@ -3601,6 +3930,9 @@
        "a": "<p>Yes, the Arkansas acquisition desk regularly closes with owners who live outside Arkansas. Documents can be handled by mail or electronically without requiring an in-person visit.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3647,7 +3979,7 @@
        "a": "<p>The land type itself isn't the main factor, it's the subsurface geology and drilling history that drive value, though access can matter for future development.</p>"
       },
       {
-       "q": "you have very little paperwork on your interest. Can you still help?",
+       "q": "You have very little paperwork on your interest. Can you still help?",
        "a": "<p>Yes, the Arkansas acquisition desk regularly works from limited documentation and confirm current status through county records.</p>"
       },
       {
@@ -3655,6 +3987,9 @@
        "a": "<p>No, the mineral estate transfers regardless of surface land type. Access considerations for any future drilling are a separate matter from the mineral rights themselves.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3697,7 +4032,7 @@
        "a": "<p>It's limited compared to the rest of Cleburne County. The Arkansas acquisition desk checks current operator and permit records for your specific legal description to confirm.</p>"
       },
       {
-       "q": "your minerals have never been leased. Can you still buy them?",
+       "q": "Your minerals have never been leased. Can you still buy them?",
        "a": "<p>Yes, unleased minerals are a valid asset and the Arkansas acquisition desk evaluates them based on nearby activity and formation potential.</p>"
       },
       {
@@ -3713,6 +4048,9 @@
        "a": "<p>Often yes, though the timeline and structure of the sale may need to account for resolving that issue first. The Arkansas acquisition desk explains exactly what's needed if the Arkansas acquisition desk finds something.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3759,7 +4097,7 @@
        "a": "<p>Not directly, though lake-area land sales sometimes separated minerals from the surface without clear documentation, which the Arkansas acquisition desk checks as part of confirming ownership.</p>"
       },
       {
-       "q": "you is not sure your family still owns the minerals under your lake-area property. How do you check?",
+       "q": "You is not sure your family still owns the minerals under your lake-area property. How do you check?",
        "a": "<p>The Arkansas acquisition desk can review past deeds through Van Buren County records to determine whether minerals were reserved or conveyed with prior sales.</p>"
       },
       {
@@ -3767,6 +4105,9 @@
        "a": "<p>The Arkansas acquisition desk checks which county's records actually govern the specific parcel and confirm the well or lease status against the correct jurisdiction before quoting.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3809,7 +4150,7 @@
        "a": "<p>Yes, Van Buren County sits inside the play's structural core, which historically produced better results than eastern flank counties.</p>"
       },
       {
-       "q": "your well's production has dropped a lot. Is that a sign something's wrong?",
+       "q": "Your well's production has dropped a lot. Is that a sign something's wrong?",
        "a": "<p>No, that's the expected decline pattern for Fayetteville Shale wells, which drop off steeply after their first few years.</p>"
       },
       {
@@ -3821,6 +4162,9 @@
        "a": "<p>It factors in, but decline-adjusted production and net mineral acres matter more than raw surface acreage. A small tract with a strong well can outvalue a large one with a marginal well.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3867,7 +4211,7 @@
        "a": "<p>Many legacy Fayetteville Shale wells in Van Buren County are now operated by BKV Corporation, following its 2021 acquisition of Flywheel Energy's position, itself acquired from Southwestern Energy in 2018.</p>"
       },
       {
-       "q": "you is not sure exactly what fraction of the interest your family owns. Can you help?",
+       "q": "You is not sure exactly what fraction of the interest your family owns. Can you help?",
        "a": "<p>Yes, the Arkansas acquisition desk can confirm ownership shares through Van Buren County Circuit Clerk records in Clinton using a deed, division order, or probate reference.</p>"
       },
       {
@@ -3875,6 +4219,9 @@
        "a": "<p>Yes, a partial sale is possible in many cases, keeping a share of future production while converting part of the interest to cash now.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3917,7 +4264,7 @@
        "a": "<p>Yes, Faulkner County generally, including the Guy area, was one of the most heavily and successfully drilled parts of the play.</p>"
       },
       {
-       "q": "your family has owned this interest without ever selling any part of it. Is the process simpler for you?",
+       "q": "Your family has owned this interest without ever selling any part of it. Is the process simpler for you?",
        "a": "<p>Often yes, though the Arkansas acquisition desk still confirms the exact ownership and current operator status before making an offer, just to be thorough.</p>"
       },
       {
@@ -3933,6 +4280,14 @@
        "a": "<p>It can. A clean, single-family ownership history with no unresolved title questions is usually the fastest kind of interest to close.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-guy-ar.jpg",
+      "alt": "Sell Mineral Rights in Guy, AR location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3967,11 +4322,11 @@
      ],
      "faqs": [
       {
-       "q": "your royalty check from a Holland-area well keeps shrinking. Is that normal for Fayetteville Shale wells?",
+       "q": "Your royalty check from a Holland-area well keeps shrinking. Is that normal for Fayetteville Shale wells?",
        "a": "<p>Yes. Shale gas wells decline faster in their early years than conventional wells, so a noticeably smaller check after several years of production is typical rather than a sign of a problem.</p>"
       },
       {
-       "q": "your land was leased during the boom but you don't think a well was ever drilled. What does that mean for you?",
+       "q": "Your land was leased during the boom but you don't think a well was ever drilled. What does that mean for you?",
        "a": "<p>If the lease has since expired without a well, your mineral rights may currently be unleased, which changes how a buyer would evaluate the interest compared to a producing tract.</p>"
       },
       {
@@ -3979,6 +4334,9 @@
        "a": "<p>The Faulkner County Circuit Clerk's office has the recorded lease documents, and the Arkansas acquisition desk can help you check whether it's still being held by production or has lapsed.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4021,7 +4379,7 @@
        "a": "<p>Yes, Faulkner County as a whole, including the Enola area, saw dense drilling activity during the play's peak years.</p>"
       },
       {
-       "q": "your family has owned this interest since the original lease was signed. Does that make it easier to sell?",
+       "q": "Your family has owned this interest since the original lease was signed. Does that make it easier to sell?",
        "a": "<p>It can help, since a clean, single-family ownership history is often easier to confirm than one split across many heirs, though the Arkansas acquisition desk works with both situations.</p>"
       },
       {
@@ -4037,6 +4395,9 @@
        "a": "<p>No, most of the Arkansas acquisition desk's purchases close by mail or electronically, which works well for heirs who no longer live in Faulkner County.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4083,7 +4444,7 @@
        "a": "<p>No, but it's valued differently than a producing royalty. Undeveloped minerals carry potential value tied to future activity, not current cash flow.</p>"
       },
       {
-       "q": "you only have an old lease from decades ago. Is that enough to work with?",
+       "q": "You only have an old lease from decades ago. Is that enough to work with?",
        "a": "<p>Yes, that's a normal starting point and the Arkansas acquisition desk can confirm current status and ownership from there.</p>"
       },
       {
@@ -4091,6 +4452,9 @@
        "a": "<p>If you've sold the mineral interest outright, future production would belong to the buyer. That's part of why the Arkansas acquisition desk is transparent about the undeveloped-versus-producing distinction before any sale.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4129,7 +4493,7 @@
        "a": "<p>Yes, this part of Faulkner County saw some of the denser horizontal drilling during the play's peak years, so most tracts here have a real production connection to the field.</p>"
       },
       {
-       "q": "your well has been producing for over fifteen years. Is it near the end of its life?",
+       "q": "Your well has been producing for over fifteen years. Is it near the end of its life?",
        "a": "<p>Fayetteville Shale wells settle into a long, low-decline tail after their steep initial years, so many original-era wells are still producing modestly well into their second decade.</p>"
       },
       {
@@ -4145,6 +4509,9 @@
        "a": "<p>Yes, a longer statement history gives a clearer decline trend and generally leads to a faster, more confident evaluation.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4195,6 +4562,9 @@
        "a": "<p>Yes. Even a well far into its decline still contributes production data and remaining reserve estimates that factor into how a buyer values the interest. Combined with your legal description and lease terms, that history gives a buyer enough to work from without needing a brand-new well on the tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4245,6 +4615,9 @@
        "a": "<p>Send a recent royalty statement or division order if you have one. Without it, the Arkansas acquisition desk can pull the equivalent records the Arkansas acquisition desk from Faulkner County and Arkansas Oil and Gas Commission filings.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4287,7 +4660,7 @@
        "a": "<p>It varies by section. Some tracts have legacy production, others were leased but never drilled. The Arkansas acquisition desk checks your specific location before answering.</p>"
       },
       {
-       "q": "your interest is small and you has never actively managed it. Is it still worth selling?",
+       "q": "Your interest is small and you has never actively managed it. Is it still worth selling?",
        "a": "<p>Often yes. The Arkansas acquisition desk evaluates small, long-dormant interests regularly and price them based on actual current status rather than assuming they have no value.</p>"
       },
       {
@@ -4303,6 +4676,9 @@
        "a": "<p>No, the Arkansas acquisition desk does not charge for reviewing your deed, checking current production, or putting together an offer. You decide whether to accept it.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4345,7 +4721,7 @@
        "a": "<p>Your division order or a recent royalty statement usually names the well and unit. If you don't have either, the Arkansas acquisition desk can research it through Cleburne County records and the Arkansas Oil and Gas Commission.</p>"
       },
       {
-       "q": "your family land has never been formally divided among the heirs. Can you still buy it?",
+       "q": "Your family land has never been formally divided among the heirs. Can you still buy it?",
        "a": "<p>Yes, though the Arkansas acquisition desk will need to confirm the heirship first, typically through a probate file or affidavit, before the Arkansas acquisition desk can close on any one heir's share.</p>"
       },
       {
@@ -4357,6 +4733,9 @@
        "a": "<p>A clean, single-owner tract usually closes within a few weeks once the Arkansas acquisition desk has confirmed title. Undivided family land takes a bit longer while the Arkansas acquisition desk sorts out heirship documentation.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4395,7 +4774,7 @@
        "a": "<p>A buyer can check your legal description against Arkansas Oil and Gas Commission unit and permit records to confirm whether a well covers your tract.</p>"
       },
       {
-       "q": "your family's old lease is decades old and you has never seen a royalty check. Is the lease still valid?",
+       "q": "Your family's old lease is decades old and you has never seen a royalty check. Is the lease still valid?",
        "a": "<p>That depends on whether the lease has been held by production or has expired. The Arkansas acquisition desk can check the lease's status against county and state records.</p>"
       },
       {
@@ -4411,6 +4790,9 @@
        "a": "<p>Often yes. A name and general area are usually enough to search the county deed index and identify the legal description tied to your family's original lease.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4449,7 +4831,7 @@
        "a": "<p>No. Mineral ownership and county recording requirements work the same regardless of whether a community is incorporated. Everything is filed at the Ouachita County Circuit Clerk's office.</p>"
       },
       {
-       "q": "your family's old lease near Reader hasn't paid anything in years. Should you bother checking on it?",
+       "q": "Your family's old lease near Reader hasn't paid anything in years. Should you bother checking on it?",
        "a": "<p>Yes. An inactive lease doesn't mean the underlying mineral rights have no value, especially given increased regional interest in the Smackover Formation's brine potential.</p>"
       },
       {
@@ -4461,6 +4843,9 @@
        "a": "<p>Community size doesn't determine mineral value. What matters is the tract's position within the Smackover Formation and its proximity to producing units or brine infrastructure, both of which need a specific check.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4499,7 +4884,7 @@
      ],
      "faqs": [
       {
-       "q": "your royalty check from the Chidester-area well is only a few dollars. Is it worth selling?",
+       "q": "Your royalty check from the Chidester-area well is only a few dollars. Is it worth selling?",
        "a": "<p>Small individual checks are common on stripper wells. The Arkansas acquisition desk evaluates the total position, including any other interests you hold, before giving a real number.</p>"
       },
       {
@@ -4507,10 +4892,13 @@
        "a": "<p>The Arkansas acquisition desk checks current operator filings to confirm status. A shut-in or plugged well changes the offer but doesn't automatically zero it out.</p>"
       },
       {
-       "q": "you don't have a copy of the original lease. Can you still help?",
+       "q": "You don't have a copy of the original lease. Can you still help?",
        "a": "<p>Yes. The Arkansas acquisition desk can trace the lease and ownership chain through Ouachita County Circuit Clerk records using your legal description or an old royalty statement.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4549,7 +4937,7 @@
      ],
      "faqs": [
       {
-       "q": "your family farm near Griffithville was leased years ago. Was a well ever drilled?",
+       "q": "Your family farm near Griffithville was leased years ago. Was a well ever drilled?",
        "a": "<p>The Arkansas acquisition desk checks current operator and permit records for your specific legal description to answer that directly.</p>"
       },
       {
@@ -4569,6 +4957,9 @@
        "a": "<p>The evaluation itself is based on subsurface production and geology, not surface land use, so farmland is assessed the same way as any other rural White County tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -4625,6 +5016,14 @@
        "a": "<p>The Arkansas acquisition desk will tell you that directly if it's true. The Arkansas acquisition desk's goal is an honest benchmark, not a guaranteed higher number, and there's no advantage to the Arkansas acquisition desk in pretending otherwise.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsarkansas-com.jpg",
+      "alt": "Got an Unsolicited Offer? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4655,7 +5054,7 @@
      ],
      "faqs": [
       {
-       "q": "you inherited mineral rights but don't know exactly what you own. Where do you start?",
+       "q": "You inherited mineral rights but don't know exactly what you own. Where do you start?",
        "a": "<p>Send the Arkansas acquisition desk the deceased's name, the county, and whatever paperwork you have, even if incomplete. The Arkansas acquisition desk can trace deed and probate records to confirm your exact interest before any pricing conversation.</p>"
       },
       {
@@ -4663,7 +5062,7 @@
        "a": "<p>It depends on whether it's producing, how you feel about ongoing administrative upkeep like 1099 tracking, and whether you'd rather have steady, modest income or a lump sum now. The Arkansas acquisition desk will give you a real valuation so the decision is based on actual numbers.</p>"
       },
       {
-       "q": "your siblings and you inherited together and disagree on selling. What are your options?",
+       "q": "Your siblings and you inherited together and disagree on selling. What are your options?",
        "a": "<p>Generally each heir owns their own undivided share and can sell independently without the others' agreement, once the interest has been distributed. The Arkansas acquisition desk can buy one heir's portion while the rest keep theirs.</p>"
       },
       {
@@ -4675,6 +5074,14 @@
        "a": "<p>Yes. Smackover, Fayetteville, and Arkoma interests each have different production and decline profiles, and Smackover tracts may carry an additional brine-royalty question worth checking separately. The Arkansas acquisition desk evaluates each according to its own formation and production history.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsarkansas-com.jpg",
+      "alt": "Inherited Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4725,6 +5132,14 @@
        "a": "<p>Selling the whole interest out of the estate and distributing cash is usually the most practical route, since dividing a small interest further among multiple heirs tends to create pieces too small for any of them to manage well individually.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "Minerals in Probate & Estates mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4759,7 +5174,7 @@
        "a": "<p>Almost never. The Arkansas acquisition desk regularly buys interests as small as a fraction of a percent, since a fractional interest in an active or producing tract still carries real, if proportionally scaled, value.</p>"
       },
       {
-       "q": "you don't know your exact percentage interest. Can you still make an offer?",
+       "q": "You don't know your exact percentage interest. Can you still make an offer?",
        "a": "<p>Yes, the Arkansas acquisition desk can often determine your decimal interest from county probate and deed records even without a division order in hand, though having one speeds the process up.</p>"
       },
       {
@@ -4775,6 +5190,14 @@
        "a": "<p>If the underlying tract sits in an area with documented brine leasing or permitting activity, your fractional share reflects that proportionally, the same as it would for any other value driver on the tract.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsarkansas-com.jpg",
+      "alt": "Fractional & Small Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4805,7 +5228,7 @@
      ],
      "faqs": [
       {
-       "q": "you signed a lease and got a bonus check. Do you still own anything to sell?",
+       "q": "You signed a lease and got a bonus check. Do you still own anything to sell?",
        "a": "<p>Yes. Signing a lease doesn't transfer your mineral ownership, only your right to drill during the lease term in exchange for the bonus and future royalty. You still own the underlying mineral or royalty interest and can sell it.</p>"
       },
       {
@@ -4817,7 +5240,7 @@
        "a": "<p>The Arkansas acquisition desk prices it off your lease terms, royalty fraction, remaining primary term, and documented drilling or permitting activity in your area, rather than off a check history that doesn't exist yet.</p>"
       },
       {
-       "q": "your tract is in the Smackover and the operator mentioned brine testing. Does that affect the price?",
+       "q": "Your tract is in the Smackover and the operator mentioned brine testing. Does that affect the price?",
        "a": "<p>It can. If there's documented brine or lithium leasing and permitting activity near your tract, that's a real, checkable data point the Arkansas acquisition desk factors in, separate from the conventional oil-and-gas leasing picture.</p>"
       },
       {
@@ -4825,6 +5248,14 @@
        "a": "<p>That's your call to make based on your own timeline and risk tolerance. Waiting could mean a higher value if the well is drilled and produces well, or it could mean the lease simply expires with nothing to show for it. The Arkansas acquisition desk is glad to give you a number today either way.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsarkansas-com.jpg",
+      "alt": "Leased but Undrilled mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4859,7 +5290,7 @@
        "a": "<p>Yes, the Arkansas acquisition desk evaluates them against nearby comparable activity and formation position rather than a production history, though the offer will generally be more conservative than for producing or actively leased acreage.</p>"
       },
       {
-       "q": "your lease expired years ago with no well drilled. Does that hurt the value?",
+       "q": "Your lease expired years ago with no well drilled. Does that hurt the value?",
        "a": "<p>Not necessarily. It shows an operator found the tract worth leasing once, which is useful context, but current value depends more on whether activity has returned to the area since than on the old lease itself.</p>"
       },
       {
@@ -4875,6 +5306,14 @@
        "a": "<p>It can, if there's documented leasing or permitting activity in your immediate area. Proximity alone without documented activity nearby isn't something the Arkansas acquisition desk prices speculatively.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "Non-Producing Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4913,7 +5352,7 @@
        "a": "<p>No. The entire process, valuation, document review, signing, and notarization, can be completed remotely from wherever you live, with documents sent by mail or electronically and notarized locally.</p>"
       },
       {
-       "q": "you has lost track of your exact legal description and deed. Can you still help?",
+       "q": "You has lost track of your exact legal description and deed. Can you still help?",
        "a": "<p>Yes, the Arkansas acquisition desk can pull county deed and probate records the Arkansas acquisition desk using your name, the county, and approximate property information to reconstruct the chain of title.</p>"
       },
       {
@@ -4921,7 +5360,7 @@
        "a": "<p>The Arkansas acquisition desk will explain the production or lease data behind the Arkansas acquisition desk's offer directly, and you're welcome to compare it against any other offer you've received before deciding. The Arkansas acquisition desk would rather earn the sale on a transparent number than a rushed one.</p>"
       },
       {
-       "q": "you live overseas. Does that complicate the transfer?",
+       "q": "You live overseas. Does that complicate the transfer?",
        "a": "<p>It adds some time for document transit and notarization logistics, but the process itself is the same. The Arkansas acquisition desk will build a realistic timeline around your location rather than assuming a domestic-speed close.</p>"
       },
       {
@@ -4929,6 +5368,14 @@
        "a": "<p>Verify any buyer's identity and check their offer against your actual production or lease data before signing anything. The Arkansas acquisition desk is happy to walk through how the Arkansas acquisition desk's number was built so you have something concrete to compare against.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellmineralrightsarkansas-com.jpg",
+      "alt": "Out-of-State Owners mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4983,6 +5430,14 @@
        "a": "<p>Ongoing administration, tracking 1099 income, handling lease and pooling decisions, can outweigh a modest royalty stream's value to the trust, especially as it nears termination. Selling converts that burden into one distributable amount for beneficiaries.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "Trust-Owned Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5037,6 +5492,14 @@
        "a": "<p>No, the Arkansas acquisition desk does not require a reason to make an offer. If timing matters to you, telling the Arkansas acquisition desk helps the Arkansas acquisition desk prioritize the parts of the process most likely to affect your closing date.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-tax-or-liquidity-pressure-sellmineralrightsarkansas-com.jpg",
+      "alt": "Selling for Liquidity mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5083,6 +5546,14 @@
        "a": "<p>That's a legal question for your attorney, since Arkansas treats inherited property differently from acquired marital property in many cases. The Arkansas acquisition desk is glad to provide a valuation either way once ownership and authority to sell are established.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsarkansas-com.jpg",
+      "alt": "Mineral Rights in Divorce mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -5139,6 +5610,14 @@
        "a": "<p>Send the Arkansas acquisition desk your county and legal description, or a copy of your deed if you have it, and the Arkansas acquisition desk will trace the ownership and severance history before quoting anything, so the offer reflects what you actually hold.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsarkansas-com.jpg",
+      "alt": "Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5193,6 +5672,14 @@
        "a": "<p>A royalty interest gives you a share of production revenue without the executive right to negotiate future leases, which a full mineral owner retains. Royalty owners are typically passive with respect to leasing decisions.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsarkansas-com.jpg",
+      "alt": "Royalty Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5247,6 +5734,14 @@
        "a": "<p>No, the mineral owner's executive leasing authority is unaffected by your sale. You're only transferring your separate royalty interest to a new owner.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsarkansas-com.jpg",
+      "alt": "Non-Participating Royalty (NPRI) mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5301,6 +5796,14 @@
        "a": "<p>A long, uninterrupted production history is a genuinely positive sign for durability, since it shows the lease has held through multiple commodity cycles, but it's not a guarantee the well won't eventually be plugged.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsarkansas-com.jpg",
+      "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5355,6 +5858,14 @@
        "a": "<p>It depends heavily on net revenue after costs, not only the larger gross share a working interest typically carries. A high-cost well can leave a WI owner with less net value than a royalty owner receives free of those expenses.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsarkansas-com.jpg",
+      "alt": "Working Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5409,6 +5920,14 @@
        "a": "<p>The Arkansas acquisition desk buys the mineral estate only. If you're interested in selling surface land as well, that's a separate transaction outside what the Arkansas acquisition desk handles.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsarkansas-com.jpg",
+      "alt": "Surface vs. Mineral Estate mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -5445,7 +5964,7 @@
      ],
      "faqs": [
       {
-       "q": "your Fayetteville well was drilled in 2009. Is it still producing?",
+       "q": "Your Fayetteville well was drilled in 2009. Is it still producing?",
        "a": "<p>Many wells from that era are, at meaningfully reduced volumes compared to peak. The Arkansas acquisition desk looks up your specific well by API number and recent production filings rather than guessing off the drill date, since two 2009 wells a mile apart can have very different current output.</p>"
       },
       {
@@ -5465,6 +5984,14 @@
        "a": "<p>Fayetteville wells are shale completions with a steep early decline and a long shallow tail; conventional Arkoma wells from earlier decades often have a flatter, more gradual decline profile. If you hold both under the same tract, the Arkansas acquisition desk evaluates each against its own production history rather than averaging them.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/basins/mineral-rights-basins-fayetteville-shale-sellmineralrightsarkansas-com.jpg",
+      "alt": "Fayetteville Shale Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5503,7 +6030,7 @@
        "a": "<p>There's no meaningful production history to build a comp set from yet, since commercial-scale direct lithium extraction in the Smackover is still in pilot and early-development stages. The Arkansas acquisition desk prices based on documented leasing and permitting activity near your tract, not on projected extraction economics, and the Arkansas acquisition desk won't promise a premium the Arkansas acquisition desk can't back with a comp.</p>"
       },
       {
-       "q": "your Smackover well has been producing steadily for 20 years. Is it still worth selling?",
+       "q": "Your Smackover well has been producing steadily for 20 years. Is it still worth selling?",
        "a": "<p>Long-lived, stable-decline production is exactly the type of interest that prices most reliably, because the Arkansas acquisition desk is underwriting against real check history instead of a projection. The offer reflects where the well sits on its decline curve today, not what it produced a decade ago.</p>"
       },
       {
@@ -5515,6 +6042,14 @@
        "a": "<p>Yes, and the Arkansas acquisition desk prices them lower than producing interests because there's no revenue to underwrite, but acreage in an active brine-leasing corridor or near recent Smackover permits can still carry real value based on nearby activity even without a check history of its own.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/basins/mineral-rights-basins-smackover-formation-sellmineralrightsarkansas-com.jpg",
+      "alt": "Smackover Formation Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -5559,7 +6094,7 @@
        "a": "<p>No. Unleased minerals can be sold; there's simply no current royalty stream attached, which a buyer factors into the offer rather than requiring the lease as a prerequisite.</p>"
       },
       {
-       "q": "you inherited this interest and there was never a formal probate. Can you still sell?",
+       "q": "You inherited this interest and there was never a formal probate. Can you still sell?",
        "a": "<p>Often yes, through an affidavit of heirship or a small estate proceeding, depending on Arkansas probate thresholds. A title attorney can tell you quickly which route fits your situation.</p>"
       },
       {
@@ -5571,6 +6106,14 @@
        "a": "<p>Within the last several months is ideal. Older statements still help establish that the well was producing and give a starting decimal, even if current volumes have shifted.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsarkansas-com.jpg",
+      "alt": "Documents You Need to Sell mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5617,6 +6160,14 @@
        "a": "<p>Yes, it's worth talking to your CPA or tax advisor before closing, since the tax treatment of a mineral sale depends on your basis, holding period, and individual situation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsarkansas-com.jpg",
+      "alt": "What Are Mineral Rights Worth? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5671,6 +6222,14 @@
        "a": "<p>Yes. A serious buyer should be willing to put a specific number and its basic terms in writing, even in preliminary form, so you can review it on your own timeline rather than only over the phone.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsarkansas-com.jpg",
+      "alt": "How to Spot a Lowball Offer mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5725,6 +6284,14 @@
        "a": "<p>Yes. Keep them for your tax records, since they document historical income and depletion, both of which can matter for calculating gain when you eventually sell the underlying interest.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsarkansas-com.jpg",
+      "alt": "Reading Your Royalty Statements mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5771,6 +6338,14 @@
        "a": "<p>Suspended royalties tied to a period before closing typically stay payable to you as the seller once the title issue clears, so keep records of the well, operator, and suspense notice even after you sell the underlying interest.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsarkansas-com.jpg",
+      "alt": "Division Orders Explained mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5817,6 +6392,14 @@
        "a": "<p>No. Undeveloped brine acreage is priced primarily on comparable transactions and play-stage assumptions, since there's no production history yet to build a decline curve from.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsarkansas-com.jpg",
+      "alt": "How Minerals Are Appraised mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5867,6 +6450,14 @@
        "a": "<p>It should be close, assuming the information you provided was accurate. Material changes typically only happen if title review or production data turns up something materially different from what was represented at the offer stage.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightsarkansas-com.jpg",
+      "alt": "How to Sell Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5913,6 +6504,14 @@
        "a": "<p>No. Each co-owner can execute and record their own deed for their undivided share, though closing everyone together in one transaction is often more efficient if the family agrees on terms.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsarkansas-com.jpg",
+      "alt": "Mineral Deeds & Title Transfer mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -5963,6 +6562,14 @@
        "a": "<p>Possibly, depending on your overall tax situation for the year. Ask your CPA whether the gain from your sale requires an estimated payment to avoid an underpayment penalty.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "Taxes When You Sell Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6009,6 +6616,14 @@
        "a": "<p>That's common. Owners frequently sell a percentage of their mineral interest for liquidity while retaining the remainder to keep collecting royalty income if the acreage continues producing.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsarkansas-com.jpg",
+      "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -6036,6 +6651,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightsarkansas-com.jpg",
+      "alt": "How to Evaluate a Mineral Package mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6057,6 +6680,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightsarkansas-com.jpg",
+      "alt": "Producing vs. Non-Producing for Investors mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6078,6 +6709,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightsarkansas-com.jpg",
+      "alt": "Cash Flow vs. Long-Term Value mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6099,6 +6738,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsarkansas-com.jpg",
+      "alt": "How Royalty Income Works mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6120,6 +6767,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-risks-of-mineral-investing-sellmineralrightsarkansas-com.jpg",
+      "alt": "The Real Risks of Mineral Investing mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6141,6 +6796,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-mineral-rights-as-an-investment-sellmineralrightsarkansas-com.jpg",
+      "alt": "Mineral Rights as an Investment mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6162,6 +6825,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-passive-royalty-income-sellmineralrightsarkansas-com.jpg",
+      "alt": "Passive Royalty Income mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6183,6 +6854,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-portfolio-diversification-with-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "Diversifying a Portfolio With Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6204,6 +6883,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-inflation-and-mineral-income-sellmineralrightsarkansas-com.jpg",
+      "alt": "Inflation and Mineral Income mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6225,6 +6912,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-minerals-vs-royalty-funds-sellmineralrightsarkansas-com.jpg",
+      "alt": "Direct Minerals vs. Royalty Funds mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
@@ -6252,6 +6947,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightsarkansas-com.jpg",
+      "alt": "Is a 1031 Exchange Right for You? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6273,6 +6976,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-45-and-180-day-deadlines-sellmineralrightsarkansas-com.jpg",
+      "alt": "The 45- and 180-Day 1031 Deadlines mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6294,6 +7005,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-qualified-intermediary-basics-sellmineralrightsarkansas-com.jpg",
+      "alt": "Qualified Intermediaries, Explained mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6315,6 +7034,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-defer-taxes-on-your-mineral-sale-sellmineralrightsarkansas-com.jpg",
+      "alt": "Defer Taxes on Your Mineral Sale mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6336,6 +7063,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-sellmineralrightsarkansas-com.jpg",
+      "alt": "Partial Exchanges and Boot mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6357,6 +7092,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-reinvest-mineral-sale-proceeds-sellmineralrightsarkansas-com.jpg",
+      "alt": "Reinvesting Your Mineral Sale Proceeds mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6378,6 +7121,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-exchange-into-mineral-rights-sellmineralrightsarkansas-com.jpg",
+      "alt": "1031 Exchange Into Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6399,6 +7150,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-real-estate-into-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "1031 From Real Estate Into Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6420,6 +7179,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-farmland-into-minerals-sellmineralrightsarkansas-com.jpg",
+      "alt": "1031 From Farmland Into Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -6441,6 +7208,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-minerals-as-replacement-property-sellmineralrightsarkansas-com.jpg",
+      "alt": "Minerals as 1031 Replacement Property mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
    ]
