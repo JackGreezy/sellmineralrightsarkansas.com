@@ -615,7 +615,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Royalty Interests</h3>
-<div>Own a royalty interest tied to a producing Arkansas well or brine unit? The acquisition desk prices royalty positions against actual decline and payment history, not guesses.</div>
+<div>Own a royalty interest tied to a producing Arkansas well or brine unit? We price royalty positions against actual decline and payment history, not guesses.</div>
 </div>
 <div class="card-footer border-0 bg-transparent mb-3">
 <span class="btn btn--arrow three-card-block__button">Learn more</span>
@@ -628,7 +628,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Non-Participating Royalty (NPRI)</h3>
-<div>Own a non-participating royalty interest in Arkansas oil, gas, or brine production? The acquisition desk prices NPRIs against production history since you don't control leasing.</div>
+<div>Own a non-participating royalty interest in Arkansas oil, gas, or brine production? We price NPRIs against production history since you don't control leasing.</div>
 </div>
 <div class="card-footer border-0 bg-transparent mb-3">
 <span class="btn btn--arrow three-card-block__button">Learn more</span>
@@ -1443,7 +1443,11 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    var viewport=list.parentElement;
+    // Pin the viewport to its track before measuring: a site that grids/flexes this ancestor
+    // would otherwise report the sum of its unsized slides and oversize every card.
+    if(viewport&&viewport!==root){viewport.style.setProperty('width','100%','important');viewport.style.setProperty('max-width','100%','important');viewport.style.setProperty('min-width','0','important');}
+    var viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
     root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
     list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
     slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});

@@ -552,7 +552,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Got an Unsolicited Offer?</h3>
-<div>Received a mailer offer for your Smackover or Fayetteville mineral rights? The acquisition desk benchmarks it against actual production and lease data before you sign anything.</div>
+<div>Received a mailer offer for your Smackover or Fayetteville mineral rights? We benchmark it against actual production and lease data before you sign anything.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -562,7 +562,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Inherited Mineral Rights</h3>
-<div>Inherited Smackover, Fayetteville, or Arkoma mineral rights in Arkansas? The acquisition desk helps heirs confirm ownership, price the interest, and decide keep vs. sell.</div>
+<div>Inherited Smackover, Fayetteville, or Arkoma mineral rights in Arkansas? We help heirs confirm ownership, price the interest, and decide keep vs. sell.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -572,7 +572,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Minerals in Probate &amp; Estates</h3>
-<div>Executor handling mineral or royalty interests in an Arkansas estate? The acquisition desk buys probate-held minerals with documentation that satisfies the court and heirs.</div>
+<div>Executor handling mineral or royalty interests in an Arkansas estate? We buy probate-held minerals with documentation that satisfies the court and heirs.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -582,7 +582,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Fractional &amp; Small Interests</h3>
-<div>Own a 1/64th or smaller undivided mineral interest in Arkansas? The acquisition desk buys small fractional positions that are often too tiny for a big buyer to bother pricing.</div>
+<div>Own a 1/64th or smaller undivided mineral interest in Arkansas? We buy small fractional positions that are often too tiny for a big buyer to bother pricing.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -592,7 +592,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Leased but Undrilled</h3>
-<div>Signed a lease, took a bonus, but no well has been drilled on your Arkansas tract yet? The acquisition desk prices leased-but-undrilled interests against real leasing activity.</div>
+<div>Signed a lease, took a bonus, but no well has been drilled on your Arkansas tract yet? We price leased-but-undrilled interests against real leasing activity.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -602,7 +602,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Non-Producing Minerals</h3>
-<div>No wells, no lease, no royalty checks on your Arkansas minerals? The acquisition desk still buys non-producing acreage based on county activity and formation position.</div>
+<div>No wells, no lease, no royalty checks on your Arkansas minerals? We still buy non-producing acreage based on county activity and formation position.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -612,7 +612,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Out-of-State Owners</h3>
-<div>Live outside Arkansas but own Smackover or Fayetteville mineral rights? The acquisition desk handles the whole process remotely, from valuation to closing paperwork.</div>
+<div>Live outside Arkansas but own Smackover or Fayetteville mineral rights? We handle the whole process remotely, from valuation to closing paperwork.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -622,7 +622,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Trust-Owned Minerals</h3>
-<div>Trustee managing Smackover, Fayetteville, or Arkoma mineral interests in an Arkansas trust? The acquisition desk works within trustee authority and provide documented valuations.</div>
+<div>Trustee managing Smackover, Fayetteville, or Arkoma mineral interests in an Arkansas trust? We work within trustee authority and provide documented valuations.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -632,7 +632,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Selling for Liquidity</h3>
-<div>Need cash now from a Smackover or Fayetteville mineral interest? The acquisition desk moves fast on documented interests when medical, retirement, or debt timing matters.</div>
+<div>Need cash now from a Smackover or Fayetteville mineral interest? We move fast on documented interests when medical, retirement, or debt timing matters.</div>
 </div>
 </a>
 </div><div class="col-sm">
@@ -642,7 +642,7 @@ html body .block-spacing>.d-flex.justify-content-between .btn{white-space:nowrap
 </div>
 <div class="card-body">
 <h3>Mineral Rights in Divorce</h3>
-<div>Dividing Smackover or Fayetteville mineral rights in an Arkansas divorce settlement? The acquisition desk prices interests for a clean cash split between former spouses.</div>
+<div>Dividing Smackover or Fayetteville mineral rights in an Arkansas divorce settlement? We price interests for a clean cash split between former spouses.</div>
 </div>
 </a>
 </div></div>
@@ -1413,7 +1413,11 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    var viewport=list.parentElement;
+    // Pin the viewport to its track before measuring: a site that grids/flexes this ancestor
+    // would otherwise report the sum of its unsized slides and oversize every card.
+    if(viewport&&viewport!==root){viewport.style.setProperty('width','100%','important');viewport.style.setProperty('max-width','100%','important');viewport.style.setProperty('min-width','0','important');}
+    var viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
     root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
     list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
     slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
