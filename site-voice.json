@@ -1,5 +1,5 @@
 {
- "business_subject": "the Arkansas acquisition desk",
+ "business_subject": "the acquisition desk",
  "_": "This voice belongs only to sellmineralrightsarkansas.com. It is an Arkansas mineral acquisition desk built around county records, Fayetteville decline evidence, Smackover formation and brine scope, paid decimals, lease burdens, title fractions, written offer assumptions, and the exact interest described in the conveyance.",
  "identity": {
   "name": "Arkansas mineral record and acquisition desk",
@@ -64,23 +64,23 @@
   ],
   [
    "\\bwe['’]ve\\b",
-   "the Arkansas acquisition desk has"
+   "the acquisition desk has"
   ],
   [
    "\\bwe['’]re\\b",
-   "the Arkansas acquisition desk is"
+   "the acquisition desk is"
   ],
   [
    "\\bwe['’]ll\\b",
-   "the Arkansas acquisition desk will"
+   "the acquisition desk will"
   ],
   [
    "\\bwe['’]d\\b",
-   "the Arkansas acquisition desk would"
+   "the acquisition desk would"
   ],
   [
    "\\bourselves\\b",
-   "the Arkansas acquisition desk"
+   "the acquisition desk"
   ],
   [
    "\\bours\\b",
@@ -88,15 +88,15 @@
   ],
   [
    "\\bour\\b",
-   "the Arkansas acquisition desk's"
+   "the acquisition desk's"
   ],
   [
    "\\bus\\b",
-   "the Arkansas acquisition desk"
+   "the acquisition desk"
   ],
   [
    "\\bwe\\b",
-   "the Arkansas acquisition desk"
+   "the acquisition desk"
   ]
  ],
  "question_scrub": [
@@ -129,11 +129,11 @@
    "Should you"
   ],
   [
-   "\\bthe Arkansas acquisition desk['’]s\\b",
+   "\\bthe acquisition desk['’]s\\b",
    "your"
   ],
   [
-   "\\bthe Arkansas acquisition desk\\b",
+   "\\bthe acquisition desk\\b",
    "you"
   ],
   [
@@ -291,7 +291,7 @@
    ],
    [
     "Stress the Arkansas Assumptions",
-    "The model for {name} should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, project changes, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or project schedules move. An upside case should label undeveloped drilling or brine development as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, commercial process, permit, technology, commodity price, or third-party agreement should be identified plainly."
+    "A stress model for this position should test lower volumes, weaker prices, wider deductions, longer downtime, title expense, operator concentration, lease burdens, development delays, project changes, and limited resale liquidity. Producing value and undeveloped optionality should remain separate so uncertain future activity is not presented as guaranteed income. A base case should state the evidence date, production period, price assumptions, decline method, deduction treatment, ownership fraction, title expense, and holding period. A downside case should show which cash-flow line changes when volumes, prices, downtime, deductions, title timing, or project schedules move. An upside case should label undeveloped drilling or brine development as a scenario rather than an entitlement. Any assumption that depends on a future operator decision, commercial process, permit, technology, commodity price, or third-party agreement should be identified plainly."
    ],
    [
     "Keep the Underwriting Trail Auditable",
@@ -338,5 +338,23 @@
    "Message",
    true
   ]
- ]
+ ],
+ "taxonomy_titles": {
+  "situations": "Owner Situations",
+  "interest-types": "Interest Types",
+  "locations": "Arkansas Mineral Rights by County",
+  "resources": "Owner Guides",
+  "basins": "Arkansas Producing Basins",
+  "investing": "Mineral Investing",
+  "exchange-1031": "1031 Exchange Guides"
+ },
+ "taxonomy_intros": {
+  "situations": "Inheritance, probate, a small fractional interest, an unsolicited mailer, or a producing check each point to a different record and a different next step before a value is discussed.",
+  "interest-types": "Minerals, royalties, non-participating royalties, overriding interests, working interests, and surface ownership carry different rights and different conveyance requirements in Arkansas.",
+  "locations": "Fayetteville and Smackover coverage, county deed records, and local production evidence differ enough county to county that a single statewide range rarely fits any one tract.",
+  "resources": "Deeds, division orders, lease terms, probate paperwork, and royalty statements each answer a different part of what an Arkansas mineral or royalty interest is actually worth.",
+  "basins": "Fayetteville gas production and Smackover mineral and brine scope price against different evidence, so each Arkansas basin is worth reading on its own terms.",
+  "investing": "Producing cash flow, decline behavior, and undeveloped optionality belong on separate underwriting lines rather than one blended assumption about an Arkansas mineral position.",
+  "exchange-1031": "Exchange timing and identification deadlines run on a federal tax clock that is separate from the county deed and title work behind an Arkansas mineral sale."
+ }
 }
