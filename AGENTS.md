@@ -17,7 +17,7 @@ Preserve Kalmar's real Stabil Grotesk typography, two-tier white header, full-wi
 - The street address may appear only inside a Google Maps embed query or non-visible metadata.
 - Every footer contains one Google Maps embed and no `img`, `picture`, `svg`, `video`, `source`, or `canvas` media.
 - No miniature images, blank images, one-character vertical text, squeezed desktop columns, invisible copy, weak contrast, clipped sections, or overlapping header elements.
-- The desktop header includes real routes, `501-555-1042`, and a clear contact CTA. Dropdowns work on hover and focus with no pointer gap. The mobile drawer and every carousel control work.
+- The desktop header includes real routes, `501-799-8201`, and a clear contact CTA. Dropdowns work on hover and focus with no pointer gap. The mobile drawer and every carousel control work.
 - The contact form posts to `/api/contact`, routes to `arkansas@sellmineralrightsarkansas.com`, and exposes exactly Name, Email, Phone, and Message.
 - Every slug page retains the Kalmar font and visual theme, uses a wide centered reading measure, and ends with a clear contact and phone CTA.
 - All visible business copy is third person or neutral business language, never individual-author narration.

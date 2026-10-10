@@ -51,8 +51,8 @@
     "selector": "#contact-button-mobile,.mega-menu-level-1 > li:last-child > a.menu-level-1-link",
     "keep": [
      [
-      "501-555-1042",
-      "tel:+15015551042"
+      "501-799-8201",
+      "tel:+15017998201"
      ],
      [
       "Request an Arkansas Review",
@@ -92,8 +92,8 @@
      "heading": "Arkansas Owner Desk",
      "links": [
       [
-       "Call 501-555-1042",
-       "tel:+15015551042"
+       "Call 501-799-8201",
+       "tel:+15017998201"
       ],
       [
        "arkansas@sellmineralrightsarkansas.com",
@@ -796,11 +796,11 @@
      "ops": [
       {
        "sel": "h4",
-       "text": "Call 501-555-1042"
+       "text": "Call 501-799-8201"
       },
       {
        "sel": "a.tile-block",
-       "href": "tel:+15015551042"
+       "href": "tel:+15017998201"
       },
       {
        "sel": "img",
