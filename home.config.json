@@ -63,5 +63,599 @@
     "/ours/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsarkansas-com.jpg": "/ours/situations/mineral-title-review.png",
     "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsarkansas-com.jpg": "/ours/situations/mineral-title-review.png"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/ouachita-county": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/conway-county": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/el-dorado-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/camden-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/louann-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/strong-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/lewisville-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/stamps-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/calion-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/east-camden-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/junction-city-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/huttig-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/felsenthal-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/mount-holly-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/urbana-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/lawson-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/taylor-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/emerson-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/mcneil-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/buckner-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/greenbrier-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/mayflower-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/oppelo-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/menifee-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/springfield-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/center-ridge-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/hattieville-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/jerusalem-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/clinton-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/heber-springs-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/tumbling-shoals-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/edgemont-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/higden-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/bald-knob-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/beebe-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/judsonia-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/kensett-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/pangburn-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/bradford-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/russell-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/higginson-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/west-point-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/mcrae-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/garner-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/georgetown-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/drasco-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/dennard-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/bee-branch-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/damascus-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/holland-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/enola-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/floyd-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/mount-vernon-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/twin-groves-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/wooster-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/concord-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/wilburn-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/letona-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/reader-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/chidester-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/griffithville-ar": {
+      "src": "/ours/locations/regional-bearden-ar.jpg",
+      "alt": "Regional view: Bearden, Arkansas",
+      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Arkansas",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+    },
+    "/locations/union-county": {
+      "src": "/ours/locations/sell-mineral-rights-union-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Union County, AR"
+    },
+    "/locations/columbia-county": {
+      "src": "/ours/locations/sell-mineral-rights-columbia-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Columbia County, AR"
+    },
+    "/locations/lafayette-county": {
+      "src": "/ours/locations/sell-mineral-rights-lafayette-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lafayette County, AR"
+    },
+    "/locations/faulkner-county": {
+      "src": "/ours/locations/sell-mineral-rights-faulkner-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Faulkner County, AR"
+    },
+    "/locations/white-county": {
+      "src": "/ours/locations/sell-mineral-rights-white-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in White County, AR"
+    },
+    "/locations/cleburne-county": {
+      "src": "/ours/locations/sell-mineral-rights-cleburne-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cleburne County, AR"
+    },
+    "/locations/van-buren-county": {
+      "src": "/ours/locations/sell-mineral-rights-van-buren-county-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Van Buren County, AR"
+    },
+    "/locations/magnolia-ar": {
+      "src": "/ours/locations/sell-mineral-rights-magnolia-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Magnolia, AR"
+    },
+    "/locations/smackover-ar": {
+      "src": "/ours/locations/sell-mineral-rights-smackover-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Smackover, AR"
+    },
+    "/locations/norphlet-ar": {
+      "src": "/ours/locations/sell-mineral-rights-norphlet-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Norphlet, AR"
+    },
+    "/locations/stephens-ar": {
+      "src": "/ours/locations/sell-mineral-rights-stephens-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stephens, AR"
+    },
+    "/locations/bradley-ar": {
+      "src": "/ours/locations/sell-mineral-rights-bradley-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bradley, AR"
+    },
+    "/locations/bearden-ar": {
+      "src": "/ours/locations/sell-mineral-rights-bearden-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bearden, AR"
+    },
+    "/locations/waldo-ar": {
+      "src": "/ours/locations/sell-mineral-rights-waldo-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Waldo, AR"
+    },
+    "/locations/conway-ar": {
+      "src": "/ours/locations/sell-mineral-rights-conway-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Conway, AR"
+    },
+    "/locations/vilonia-ar": {
+      "src": "/ours/locations/sell-mineral-rights-vilonia-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Vilonia, AR"
+    },
+    "/locations/morrilton-ar": {
+      "src": "/ours/locations/sell-mineral-rights-morrilton-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Morrilton, AR"
+    },
+    "/locations/plumerville-ar": {
+      "src": "/ours/locations/sell-mineral-rights-plumerville-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Plumerville, AR"
+    },
+    "/locations/fairfield-bay-ar": {
+      "src": "/ours/locations/sell-mineral-rights-fairfield-bay-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fairfield Bay, AR"
+    },
+    "/locations/greers-ferry-ar": {
+      "src": "/ours/locations/sell-mineral-rights-greers-ferry-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Greers Ferry, AR"
+    },
+    "/locations/shirley-ar": {
+      "src": "/ours/locations/sell-mineral-rights-shirley-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Shirley, AR"
+    },
+    "/locations/quitman-ar": {
+      "src": "/ours/locations/sell-mineral-rights-quitman-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Quitman, AR"
+    },
+    "/locations/searcy-ar": {
+      "src": "/ours/locations/sell-mineral-rights-searcy-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Searcy, AR"
+    },
+    "/locations/rose-bud-ar": {
+      "src": "/ours/locations/sell-mineral-rights-rose-bud-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rose Bud, AR"
+    },
+    "/locations/el-paso-ar": {
+      "src": "/ours/locations/sell-mineral-rights-el-paso-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in El Paso, AR"
+    },
+    "/locations/guy-ar": {
+      "src": "/ours/locations/sell-mineral-rights-guy-ar.jpg",
+      "alt": "Local view for Sell Mineral Rights in Guy, AR"
+    }
+  }
 }
