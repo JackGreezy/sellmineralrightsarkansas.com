@@ -66,492 +66,614 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/ouachita-county": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/conway-county": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/el-dorado-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/camden-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/louann-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/strong-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/lewisville-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/stamps-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/calion-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/east-camden-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/junction-city-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/huttig-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/felsenthal-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/mount-holly-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/urbana-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/lawson-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/taylor-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/emerson-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/mcneil-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/buckner-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/greenbrier-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/mayflower-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/oppelo-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/menifee-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/springfield-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/center-ridge-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/hattieville-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/jerusalem-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/clinton-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/heber-springs-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/tumbling-shoals-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/edgemont-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/higden-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/bald-knob-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/beebe-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/judsonia-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/kensett-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/pangburn-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/bradford-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/russell-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/higginson-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/west-point-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/mcrae-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/garner-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/georgetown-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/drasco-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/dennard-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/bee-branch-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/damascus-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/holland-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/enola-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/floyd-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/mount-vernon-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/twin-groves-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/wooster-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/concord-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/wilburn-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/letona-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/reader-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/chidester-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/griffithville-ar": {
-      "src": "/ours/locations/regional-bearden-ar.jpg",
-      "alt": "Regional view: Bearden, Arkansas",
-      "credit": "Bearden, Arkansas. Regional Arkansas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg\" rel=\"noopener\">Farther Along / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"noopener\">CC BY 2.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greers-ferry-ar.jpg",
+      "alt": "View of Greers Ferry, Arkansas",
       "regional": true,
       "region": "Arkansas",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABearden%2C_Arkansas.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Highway_92_in_Greers_Ferry,_Arkansas.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Arkansas view: Greers Ferry, Arkansas."
     },
     "/locations/union-county": {
       "src": "/ours/locations/sell-mineral-rights-union-county-ar.jpg",
